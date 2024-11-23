@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    height: 95vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: white;
+}
