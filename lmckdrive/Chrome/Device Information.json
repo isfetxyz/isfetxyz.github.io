@@ -1,0 +1,51 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome WIN 125.0.6422.142 (018a22c382fa9eec68d3d658f380093ecfe34d28-refs/branch-heads/6422@{#1187}) channel(stable)",
+            "device_type": "TYPE_WIN",
+            "chrome_version_info": {"version_number": "125.0.6422.142"},
+            "signin_scoped_device_id": "5da4917f-ae36-464a-a639-e900332a2421",
+            "manufacturer": "LENOVO",
+            "cache_guid": "V7oMYHKPjogDDub/3ThzsQ==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_DESKTOP",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "c7PsZ-ozQ8w:APA91bFry22TWcc271-xklFz21Rzth8da-b0YAimGDp7lAi9RP7eVW2TbDLwpiX5EHYMttccx0fG93OZ3lx_HQTfNtWsTyfWHNHlio6R8VjsUQriOE5euTv_RCPR2wC0ZwXXonZa8-bq",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    63951,
+                                    31729,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    41210,
+                                    48119,
+                                    88610,
+                                    50119,
+                                    48364,
+                                    103656,
+                                    96159,
+                                    150251,
+                                    170540,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    673225,
+                                    1004874,
+                                    895275,
+                                    1141935,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_WINDOWS",
+            "last_updated_timestamp": 1717428383764,
+            "model": "20R5000PUS",
+            "client_name": "R90XXSKS",
+            "chrome_version": "125.0.6422.142"
+}
+    ]
+}

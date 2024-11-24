@@ -1,0 +1,63 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+            "version": "1.58.4",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "bhlhnicpbhignbdhedgjhgdocnmhomnp",
+            "version": "4.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "mmeijimgabbpbgpdklnllpncmdofkcpn",
+            "version": "3.39.0.5200",
+            "enabled": true
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "mmeijimgabbpbgpdklnllpncmdofkcpn",
+            "value": "{\"free\":{\"dismissed\":true,\"rating\":null,\"reviewed\":false}}",
+            "key": "rateUs"
+},
+        {
+            "extension_id": "mmeijimgabbpbgpdklnllpncmdofkcpn",
+            "value": "{\"hideDiscardAlert\":true}",
+            "key": "options"
+},
+        {
+            "extension_id": "ecnphlgnajanjnkcmbpancdjoidceilk",
+            "value": "false",
+            "key": "notable.betaFeatures.enableClassroomAssignmentEditSyncing"
+},
+        {
+            "extension_id": "mmeijimgabbpbgpdklnllpncmdofkcpn",
+            "value": "{\"appSmash\":true,\"enableAudioExport\":true,\"enableEditorTrial\":true,\"enableFreePlanAnnouncement\":false,\"enableGifExport\":true,\"enableLogger\":true,\"enableLogsPage\":true,\"enableMicPage2\":true,\"enablePiP\":true,\"enableProjectShoelaces\":true,\"enableQRCode\":true,\"enableSurvey\":true,\"enableTimeLimitWarning\":true,\"enableVDP\":true,\"enableVDPForVariants\":false,\"enableZendeskURLs\":true,\"instantUpload\":false,\"myVideosRollout\":true,\"shareApi\":true,\"showDriveIssueBar\":false,\"showEditorButton\":true,\"showEditorButtonCovidTrial\":true,\"useCovidSupportForm\":true,\"useVideoExportForAudioExport\":false}",
+            "key": "rolloutOptions"
+},
+        {
+            "extension_id": "ecnphlgnajanjnkcmbpancdjoidceilk",
+            "value": "{\"administered_licenses\":[],\"annotation_bank_updated_at\":\"\",\"api_client_id\":null,\"authentication_token\":\"bsg-hE8nWXHifZyryEfw\",\"centrifugo_token\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJleHAiOjE3MDEzNzQzNDksInN1YiI6IjE4MDQ3MjIzIn0.NGOpDCoWb1AQTRvip_43kPUwpVdNkke1ygoWjwyf1-Fl3JaG57iSWxU2gsBDl6tbo8U3DImeDnZ7cDz4JEm7zuLsr2abFaV78RKELgkhNh7k5osev8s4QB74SCNvWBGOnknH9S2GFqxvbIJU639mtuKd2ioBHdvPSoiQ54uTaV-z6C2W1iwObJRqwLsbUC4QULpp8ysUoVVQJryhK_dZguvDaFG3U3iSrZDKgEEFX-3RrPcJABaoZeKoEwIbef7zu4InKShy-Ztrv6Kpp5Qka95NLwe4rEW5X2tTFS2Px6z3JZWIt7e1-9wIhFqoq3QCvXbTe7TDpImclBHQNZ2QzNu9MFl9KKdb7LDbKTU2evqZPEmTllFbfs2XV8L6Tvii8chiIKQ1N5CQ0Y_5zzrZoRNAW4yeZ4Msb8cnDebzg2plu4N-Auc0Dxh4AaXttSuOPnF3SQ5EOZCa-N5UXl6qC0QHa4KwQGlTBn1C3eUxEtZ9hhtbLrXRhq9AsMasAmjPettE5PnqFUuHPCVw0ET-ZQGHwTfCFoPEpOPR3tfFsKEW83kvIZ3ZWtYCCH0mAt_EkVhoDNQnO4djttUYUxvtLvcHirFn6n2iH7f11oZznRDe2skNjvH0TcanBWM9uASLQtDGBag8M7E8WdA4XfsB6_F_ZSl7hzMI2bsDimSExZ4\",\"channel\":\"private-user-18047223\",\"client_feature_flags\":[\"released_feature\",\"google_sync\",\"new_toolbar\",\"onboarding_dialog_new\",\"gdrive_auto_upload\",\"video_comment\",\"dictionary\",\"equation\",\"voice_typing\",\"use_gdrive_single_parent\",\"new_voice_selection\",\"allow_document_owner_to_delete_any_annotations\",\"no_ads\",\"referral_system\",\"enforce_storage_permissions\",\"track_user_active_events\",\"improved_svg_selection\",\"debug_screen_capture_video\"],\"confirmation_sent_at\":\"2020-09-30T23:40:26.811Z\",\"confirmed_at\":\"2020-09-30T23:40:26.863Z\",\"created_at\":\"2020-09-30T23:40:26.811Z\",\"current_license\":null,\"customer\":null,\"domain_id\":209613,\"domain_properties\":{\"allow_document_owner_to_delete_any_annotations\":\"true\",\"debug_screen_capture_video\":\"true\",\"debug_screen_capture_video \":\"true\",\"enforce_storage_permissions\":\"true\",\"improved_svg_selection\":\"true\",\"industry\":\"Education\",\"new_voice_selection\":\"true\",\"public_mail_provider\":false,\"realtime_custom\":\"true\",\"track_user_active_events\":\"true\",\"use_new_sticker_pack\":\"true\"},\"email\":\"lmckenzie@sageridge.org\",\"feature_matrix\":{\"basic\":[\"basic\",\"google_sync\",\"shape\",\"drawing\",\"google_auto_sync\",\"ocr\",\"conversion\"],\"education\":[\"education\",\"work\",\"premium\",\"pro\",\"autograph\",\"conversion\",\"image\",\"tts\",\"ocr\",\"dictionary\",\"equation\",\"team_drive\",\"add_new_pages\",\"video_comment\",\"video_annotation\",\"audio_comment\",\"desktop_comment\",\"voice_typing\",\"sharing_permission\",\"font_selection\",\"google_classroom_integration\",\"schoology_integration\",\"voice_typing\",\"lti_integration\",\"annotation_bank\",\"feature_restrictions\",\"microsoft_teams_integration\",\"activity_fields\",\"ruler\",\"polygon_shape\",\"standard\",\"no_ads\",\"basic\",\"google_sync\",\"shape\",\"drawing\",\"google_auto_sync\",\"ocr\",\"conversion\"],\"premium\":[\"premium\",\"pro\",\"autograph\",\"conversion\",\"image\",\"tts\",\"ocr\",\"dictionary\",\"equation\",\"team_drive\",\"add_new_pages\",\"video_comment\",\"video_annotation\",\"audio_comment\",\"desktop_comment\",\"voice_typing\",\"sharing_permission\",\"font_selection\",\"google_classroom_integration\",\"schoology_integration\",\"voice_typing\",\"lti_integration\",\"annotation_bank\",\"feature_restrictions\",\"microsoft_teams_integration\",\"activity_fields\",\"ruler\",\"polygon_shape\",\"standard\",\"no_ads\",\"basic\",\"google_sync\",\"shape\",\"drawing\",\"google_auto_sync\",\"ocr\",\"conversion\"],\"schoology_temp\":[\"schoology_integration\"],\"standard\":[\"standard\",\"no_ads\",\"basic\",\"google_sync\",\"shape\",\"drawing\",\"google_auto_sync\",\"ocr\",\"conversion\"],\"work\":[\"work\",\"premium\",\"pro\",\"autograph\",\"conversion\",\"image\",\"tts\",\"ocr\",\"dictionary\",\"equation\",\"team_drive\",\"add_new_pages\",\"video_comment\",\"video_annotation\",\"audio_comment\",\"desktop_comment\",\"voice_typing\",\"sharing_permission\",\"font_selection\",\"google_classroom_integration\",\"schoology_integration\",\"voice_typing\",\"lti_integration\",\"annotation_bank\",\"feature_restrictions\",\"microsoft_teams_integration\",\"activity_fields\",\"ruler\",\"polygon_shape\",\"standard\",\"no_ads\",\"basic\",\"google_sync\",\"shape\",\"drawing\",\"google_auto_sync\",\"ocr\",\"conversion\"]},\"fromAPI\":true,\"guest_user\":false,\"has_open_support_conversations\":null,\"id\":18047223,\"intercom_properties\":null,\"license_flags\":[\"basic\",\"google_sync\",\"shape\",\"drawing\",\"google_auto_sync\",\"ocr\",\"conversion\"],\"licenses\":[{\"active\":false,\"allow_auto_enrollment\":false,\"disable_license_expiry_message_until\":null,\"district\":\"\",\"education_license_type\":\"school_wide\",\"id\":1235547,\"in_grace_period\":false,\"license_key\":\"7949-3489-3873\",\"license_type\":\"education\",\"school\":\"Sage Ridge School\",\"status\":\"paid\",\"tag\":\"admin_panel education school\",\"valid_from\":\"2020-10-10\",\"valid_to\":\"2022-10-10\",\"valid_to_including_grace\":\"2022-11-19\"}],\"low_confidence_teacher\":false,\"name\":\"Loz McKenzie\",\"newsletter\":true,\"premium_subscription_active\":false,\"properties\":{\"new_toolbar_layout\":\"true\",\"using_web\":\"true\"},\"scheduled_deletion_time\":null,\"unconfirmed_email\":null,\"updated_at\":\"2023-11-28T17:38:40.161Z\",\"user_licenses\":[{\"created_at\":\"2020-10-12T16:13:06.264Z\",\"id\":93389352,\"license_id\":1235547,\"status\":\"accepted\",\"updated_at\":\"2020-10-12T16:13:06.264Z\"}],\"user_profile\":{\"institute\":null,\"lms\":null,\"onboarded\":[1],\"school_id\":null,\"school_role\":\"student\",\"usage_purpose\":\"school\",\"user_segmentation\":\"student\",\"work_industry\":null},\"user_segmentation\":{\"confidence\":9,\"segment\":\"student\"}}",
+            "key": "notable.user"
+},
+        {
+            "extension_id": "mmeijimgabbpbgpdklnllpncmdofkcpn",
+            "value": "\"1vZydgPoGOBuqfHFY98qqZmiPVbcTRIGH\"",
+            "key": "DRIVE_FOLDER_ID"
+}
+    ]
+}

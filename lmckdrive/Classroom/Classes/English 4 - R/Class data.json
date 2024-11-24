@@ -1,0 +1,1371 @@
+{
+  "version": 1,
+  "name": "English 4 - R",
+  "section": "B",
+  "room": "115",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroom87b0c2df@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnfk83dnAyX25pbkRTUVF3UV9KaHkxbVRKamVNM1k1SG1GcFp4aDdRNm5ka2c",
+    "name": "English 4 - R B",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnfk83dnAyX25pbkRTUVF3UV9KaHkxbVRKamVNM1k1SG1GcFp4aDdRNm5ka2c?resourcekey\u003d0-bBih3LkQLEesJEIIhBMLAA"
+  },
+  "subject": "Reading",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-01T23:37:32.105Z",
+    "updateTime": "2020-06-04T21:37:59.496Z",
+    "scheduledTime": "2020-06-02T15:00:00Z",
+    "publicationTime": "2020-06-02T15:01:10.058Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "A Long Walk to Water Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYtDzIn0-SxVMtR4lOIVlmYGzjlR2DEP5NKStmknQMatFExw/viewform?hr_submission\u003dChgI2--roZoBEg8Ij7meo5IDEgYIjN7e3ksQAQ",
+        "title": "Chapters 7-9 A Long Walk to Water Vocabulary",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/grz-woe2lsT6jmklOlHTUTPrmO5iUu3ofgkzrKSWPG9PKc-VJfwEdzfJ3WGTC6H69X1ZzPnHZY0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 7-9 A Long Walk to Water Vocabulary",
+      "description": "Match the vocabulary word to the synonym from chapters 7-9\nFill in the blank with the vocabulary word that completes the sentence from chapters 7-9",
+      "descriptionHtml": "\u003cdiv\u003eMatch the vocabulary word to the synonym from chapters 7-9\u003cbr\u003eFill in the blank with the vocabulary word that completes the sentence from chapters 7-9\u003c/div\u003e",
+      "dueTime": "2020-06-04T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYtDzIn0-SxVMtR4lOIVlmYGzjlR2DEP5NKStmknQMatFExw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 7-9 A Long Walk to Water Vocabulary",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/grz-woe2lsT6jmklOlHTUTPrmO5iUu3ofgkzrKSWPG9PKc-VJfwEdzfJ3WGTC6H69X1ZzPnHZY0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-27T02:48:15.713Z",
+    "updateTime": "2020-06-04T21:27:17.687Z",
+    "scheduledTime": "2020-05-27T15:00:00Z",
+    "publicationTime": "2020-05-27T15:03:53.332Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "A Long Walk to Water Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScYZL4C2nmEnuhCVQUWhO95fh0ZgvjGZsxCLG0wqmdo8XZr-g/viewform?hr_submission\u003dChgI2--roZoBEg8IxKbJs4wDEgYIjN7e3ksQAQ",
+        "title": "Chapters 4 - 6 A Long Walk to Water Wednesday 5/27",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/Qmvp6Ps-zN0cy_AlV4gkqMJvEarVzm2A8e9rLxAqLKhkA6nMBJDlip6cmfZq2BXui3KqKnWCviE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 4 - 6 A Long Walk to Water Wednesday 5/27",
+      "description": "Read Chapters 4 - 6 and answer questions about the vocabulary and text.\nRemember text based answers need a three part answer: \n1) Restate the question\n2) Use text evidence\n3)CAPS",
+      "descriptionHtml": "\u003cdiv\u003eRead Chapters 4 - 6 and answer questions about the vocabulary and text.\u003cbr\u003eRemember text based answers need a three part answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use text evidence\u003cbr\u003e3)CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-28T06:59:00Z",
+      "maxPoints": 14.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 12.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScYZL4C2nmEnuhCVQUWhO95fh0ZgvjGZsxCLG0wqmdo8XZr-g/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 4 - 6 A Long Walk to Water Wednesday 5/27",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/Qmvp6Ps-zN0cy_AlV4gkqMJvEarVzm2A8e9rLxAqLKhkA6nMBJDlip6cmfZq2BXui3KqKnWCviE\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T05:11:41.133Z",
+    "updateTime": "2020-06-04T21:27:21.481Z",
+    "scheduledTime": "2020-05-22T15:00:00Z",
+    "publicationTime": "2020-05-22T15:01:59.334Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "A Long Walk to Water Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdKBRjyeUInVwK_sNIhHjtxNCXc3eW4LxZDo9wtIJoMh5wCnQ/viewform?hr_submission\u003dChgI2--roZoBEg8I7fTQ_4ADEgYIjN7e3ksQAQ",
+        "title": "Chapters 1 - 3 A Long Walk to Water Comprehension Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/E-ipyKfZc8zzelMs0-TLQ1zhx8b8IK1NDxxebuL9AKBkZ5hA2nVfkjEv44YznI1GaKmFAmyR7R0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 1 - 3 A Long Walk to Water Comprehension Questions",
+      "description": "For all text based answers you must provide a 3 part answer:\n1) Restate the question\n2) Use text evidence\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eFor all text based answers you must provide a 3 part answer:\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use text evidence\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-23T06:59:00Z",
+      "maxPoints": 24.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 24.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdKBRjyeUInVwK_sNIhHjtxNCXc3eW4LxZDo9wtIJoMh5wCnQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 1 - 3 A Long Walk to Water Comprehension Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/E-ipyKfZc8zzelMs0-TLQ1zhx8b8IK1NDxxebuL9AKBkZ5hA2nVfkjEv44YznI1GaKmFAmyR7R0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T05:00:31.934Z",
+    "updateTime": "2020-06-01T23:04:19.928Z",
+    "scheduledTime": "2020-05-19T15:00:00Z",
+    "publicationTime": "2020-05-19T15:04:35.287Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework and Extension Activities"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSevFBSn8rxxWlV8CLVA6emXf8suwkmLlP1JaTDtIGpSyfd38w/viewform?hr_submission\u003dChgI2--roZoBEg8Iv6WF_4ADEgYIjN7e3ksQAQ",
+        "title": "Chapters 1 - 3 Vocabulary Review HOMEWORK",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/Xr4rhsKUsTpFKj6xgk_uQcrEVPO0atIjAVLQ1kg909fa4iz5df78bYNIIw7Z3NtTiaKvEK9DUNY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 1 - 3 Vocabulary Review HOMEWORK",
+      "description": "after reading and completing today\u0027s vocabulary assignment, review the vocabulary matching and fill in the blanks using the words we learned in chapters 1 - 3 ",
+      "descriptionHtml": "\u003cdiv\u003eafter reading and completing today\u0026#39;s vocabulary assignment, review the vocabulary matching and fill in the blanks using the words we learned in chapters 1 - 3\u003c/div\u003e",
+      "dueTime": "2020-05-21T06:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 15.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSevFBSn8rxxWlV8CLVA6emXf8suwkmLlP1JaTDtIGpSyfd38w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 1 - 3 Vocabulary Review HOMEWORK",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/Xr4rhsKUsTpFKj6xgk_uQcrEVPO0atIjAVLQ1kg909fa4iz5df78bYNIIw7Z3NtTiaKvEK9DUNY\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T04:55:34.986Z",
+    "updateTime": "2020-06-01T22:54:44.642Z",
+    "scheduledTime": "2020-05-19T15:00:00Z",
+    "publicationTime": "2020-05-19T15:03:54.261Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "A Long Walk to Water Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSekSIdTC4nMuioI0QluMBTBWThxH9iOcjDkhgeJ9fuv2RBUNg/viewform?hr_submission\u003dChgI2--roZoBEg8Is-LE-IADEgYIjN7e3ksQAQ",
+        "title": "Chapters 1 - 3  A Long Walk to Water Vocabulary",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/DioDcGbA1wK318ETZqr78HkNvxn213Gh9mxnKzt8TL1Wqy6rN_HVjPVqDA2deycgZmsBilDyhEs\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 1 - 3  A Long Walk to Water Vocabulary",
+      "description": "Directions:\nGive the definition for each word (worth 1 point)**\nInclude the page number where you found the word.  (worth 1 point)**\nUse a dictionary to help you clarify any words you cannot define from context clues in the text. ",
+      "descriptionHtml": "\u003cdiv\u003eDirections:\u003cbr\u003eGive the definition for each word (worth 1 point)**\u003cbr\u003eInclude the page number where you found the word.  (worth 1 point)**\u003cbr\u003eUse a dictionary to help you clarify any words you cannot define from context clues in the text.\u003c/div\u003e",
+      "dueTime": "2020-05-20T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 12.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSekSIdTC4nMuioI0QluMBTBWThxH9iOcjDkhgeJ9fuv2RBUNg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 1 - 3  A Long Walk to Water Vocabulary",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/DioDcGbA1wK318ETZqr78HkNvxn213Gh9mxnKzt8TL1Wqy6rN_HVjPVqDA2deycgZmsBilDyhEs\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T16:29:14.819Z",
+    "updateTime": "2020-05-29T22:30:20Z",
+    "scheduledTime": "2020-05-13T15:00:00Z",
+    "publicationTime": "2020-05-13T15:02:38.287Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Close Read Articles \u0026 Assignments"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScj5eIs4kZUPEM9bbaz8XQ6Nisw3fYw8pTpab7LYT1Z9279lw/viewform?hr_submission\u003dChgI2--roZoBEg8It6OtvPgCEgYIjN7e3ksQAQ",
+        "title": "A Ton of Trash and Too Much Trash Comprehension questions paired with Close Read",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/yt5JJGTq-aTgMMnUbPL5mKOwqQOeX97MX5nLF2ROL8QjJXlhzUolcYP8BDLlqXPdSwf7Gq49gds\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "A Ton of Trash and Too Much Trash Comprehension questions paired with Close Read",
+      "description": "Read the article first then answer these questions.  \nRemember that a text based answer has a 3 part answer:\n1) Restate the question\n2) Use text evidence\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eRead the article first then answer these questions.  \u003cbr\u003eRemember that a text based answer has a 3 part answer:\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use text evidence\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-14T06:59:00Z",
+      "maxPoints": 18.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 15.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScj5eIs4kZUPEM9bbaz8XQ6Nisw3fYw8pTpab7LYT1Z9279lw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "A Ton of Trash and Too Much Trash Comprehension questions paired with Close Read",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/yt5JJGTq-aTgMMnUbPL5mKOwqQOeX97MX5nLF2ROL8QjJXlhzUolcYP8BDLlqXPdSwf7Gq49gds\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T04:51:03.573Z",
+    "updateTime": "2020-05-29T22:30:28.347Z",
+    "scheduledTime": "2020-05-11T15:00:00Z",
+    "publicationTime": "2020-05-11T15:04:49.849Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Close Read Articles \u0026 Assignments"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScSpjF-0L8yAT7Q5WHBErm5T1hBf8pn-Xfi3WGU_CtSpI5-DQ/viewform?hr_submission\u003dChgI2--roZoBEg8IzujcrPcCEgYIjN7e3ksQAQ",
+        "title": "Multiple Choice",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/aUPNH0mQM3GRIJZdHw9xlQiTwVCgWFvXbO9f306ENOCQ2g1sc4cUANHkUZe2Noq0as6MlfGnSio\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Energy For Life Comprehension questions and vocabulary May 11",
+      "description": "Multiple Choice:  Chose the best answer to answer the questions - there is only one correct answer per question. \nShort answer questions:  Short answer questions need a text based answer format:\n1) Restate the question\n2) Use Text Evidence\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eMultiple Choice:  Chose the best answer to answer the questions - there is only one correct answer per question. \u003cbr\u003eShort answer questions:  Short answer questions need a text based answer format:\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use Text Evidence\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-12T06:59:00Z",
+      "maxPoints": 24.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 23.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScSpjF-0L8yAT7Q5WHBErm5T1hBf8pn-Xfi3WGU_CtSpI5-DQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Multiple Choice",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/aUPNH0mQM3GRIJZdHw9xlQiTwVCgWFvXbO9f306ENOCQ2g1sc4cUANHkUZe2Noq0as6MlfGnSio\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T05:17:34.060Z",
+    "updateTime": "2020-05-29T22:30:24.258Z",
+    "scheduledTime": "2020-05-11T15:00:00Z",
+    "publicationTime": "2020-05-11T15:02:28.252Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework and Extension Activities"
+    }],
+    "courseWork": {
+      "title": "5/11 Homework Reading Response: Answer the following questions",
+      "description": "What book did you read for homework?  \nWhat was your book about?\nWho is the main character?\nWhat is the setting? ",
+      "descriptionHtml": "\u003cdiv\u003eWhat book did you read for homework?  \u003cbr\u003eWhat was your book about?\u003cbr\u003eWho is the main character?\u003cbr\u003eWhat is the setting?\u003c/div\u003e",
+      "dueTime": "2020-05-13T06:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "The book I read for homework was Fable-haven.  The main characters in the book were Kendra and Seth.  My book is about creatures of darkness being defeated by Kendra and Seth.  The setting is grandpas house.  Grandpa\u0027s house is small and is white.      "
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-04T04:38:50.690Z",
+    "updateTime": "2020-05-29T22:30:32.244Z",
+    "scheduledTime": "2020-05-08T15:00:00Z",
+    "publicationTime": "2020-05-08T15:01:29.451Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeT_SuOMgs6hV50vA6M9v1E41ytVKRnucTQjBxCebMv7nGhkg/viewform?hr_submission\u003dChgI2--roZoBEg8Ik_mxkuUCEgYIjN7e3ksQAQ",
+        "title": "I Survived he Destruction of Pompeii Novel Assessment",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/zkwi4HAHKwUWFnzNQG-cvjll1YzsKcGkmUL0AhekOTJQZj-U4LmoANvXCxB40zRR1jUqj7dULuc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived he Destruction of Pompeii Novel Assessment",
+      "description": "For the Novel Assessment you may use your book and any materials we have used throughout the Novel Study.\nThe following are not permitted for the assessment:\nNo Google/Internet Searching\nNo Partner/Classmate collaboration\n\nSome questions are multiple choice or matching, these have 1 (one) correct answer\n\nSome questions are short answer these require a 3 part text based answer: \n1)Restate the question\n2) Use evidence from the text\n3) CAPS\n\nSome questions are essay questions these require a short paragraph in this format:\n1)Topic sentence\n2) Detail/Explanation Sentences\n3) Closing sentence\n\n***Read ALL Directions Carefully, there will be NO Makeups on this assessment***",
+      "descriptionHtml": "\u003cdiv\u003eFor the Novel Assessment you may use your book and any materials we have used throughout the Novel Study.\u003cbr\u003eThe following are not permitted for the assessment:\u003cbr\u003eNo Google/Internet Searching\u003cbr\u003eNo Partner/Classmate collaboration\u003cbr\u003e\u003cbr\u003eSome questions are multiple choice or matching, these have 1 (one) correct answer\u003cbr\u003e\u003cbr\u003eSome questions are short answer these require a 3 part text based answer: \u003cbr\u003e1)Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003cbr\u003e\u003cbr\u003eSome questions are essay questions these require a short paragraph in this format:\u003cbr\u003e1)Topic sentence\u003cbr\u003e2) Detail/Explanation Sentences\u003cbr\u003e3) Closing sentence\u003cbr\u003e\u003cbr\u003e***Read ALL Directions Carefully, there will be NO Makeups on this assessment***\u003c/div\u003e",
+      "dueTime": "2020-05-08T23:00:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 46.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeT_SuOMgs6hV50vA6M9v1E41ytVKRnucTQjBxCebMv7nGhkg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived he Destruction of Pompeii Novel Assessment",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/zkwi4HAHKwUWFnzNQG-cvjll1YzsKcGkmUL0AhekOTJQZj-U4LmoANvXCxB40zRR1jUqj7dULuc\u003dw90-h90-p"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-12T03:32:06.011Z",
+          "updateTime": "2020-05-12T03:32:05.817Z",
+          "comment": "Please open the assignment and read feedback on questions and points missed.",
+          "commentHtml": "\u003cdiv\u003ePlease open the assignment and read feedback on questions and points missed.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-04T04:15:36.223Z",
+    "updateTime": "2020-05-29T22:30:35.949Z",
+    "scheduledTime": "2020-05-06T15:00:00Z",
+    "publicationTime": "2020-05-06T15:04:19.739Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework and Extension Activities"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeBZX8nE8G6cio1PA0mzoq8XCrCDy4oZOQ6DZrLvfizPWXZwA/viewform?hr_submission\u003dChgI2--roZoBEg8Ilu-9guUCEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii Novel Study Review",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/cHgV8ADSX64NPLjqPFFOGkoNsaTZet3PYI1Von4gbDdj6e6jHs5O24Zbiha3Ku5FV36w91_X1i8\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Novel Study Review",
+      "description": "This is a review of the novel to prepare you for your assessment on Friday",
+      "descriptionHtml": "\u003cdiv\u003eThis is a review of the novel to prepare you for your assessment on Friday\u003c/div\u003e",
+      "dueTime": "2020-05-08T16:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 17.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-12T02:45:50.463Z",
+          "updateTime": "2020-05-12T02:45:50.105Z",
+          "comment": "No work turned in?",
+          "commentHtml": "\u003cdiv\u003eNo work turned in?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-04T03:24:27.487Z",
+    "updateTime": "2020-05-29T22:30:40.882Z",
+    "scheduledTime": "2020-05-05T15:00:00Z",
+    "publicationTime": "2020-05-05T15:00:54.914Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeHrfn0JcHrHnj0kZ5LlRKOPIc0YyNgMwEcomjYOk7McNKZDg/viewform?hr_submission\u003dChgI2--roZoBEg8I0YL9geUCEgYIjN7e3ksQAQ",
+        "title": "Pompeii Close Read Comprehension",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/cRThVWjauUPqi8m10fZC98frTddSFz2eaDLW0Do_2BEWDhSoUeeTl6_aTofz0xXLeI4hO_7pIs0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pompeii Close Read Comprehension Questions",
+      "description": "Read the ReadWorks Pompeii Article and answer the following comprehension questions. \nRemember that comprehension questions must be answered with a 3 part text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eRead the ReadWorks Pompeii Article and answer the following comprehension questions. \u003cbr\u003eRemember that comprehension questions must be answered with a 3 part text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-07T06:59:00Z",
+      "maxPoints": 54.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 54.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeHrfn0JcHrHnj0kZ5LlRKOPIc0YyNgMwEcomjYOk7McNKZDg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Pompeii Close Read Comprehension",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/cRThVWjauUPqi8m10fZC98frTddSFz2eaDLW0Do_2BEWDhSoUeeTl6_aTofz0xXLeI4hO_7pIs0\u003dw90-h90-p"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-12T01:53:30.044Z",
+          "updateTime": "2020-05-12T01:53:29.943Z",
+          "comment": "Please open your assignment and read my individual comments on questions where you missed points.",
+          "commentHtml": "\u003cdiv\u003ePlease open your assignment and read my individual comments on questions where you missed points.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T01:39:07.688Z",
+    "updateTime": "2020-05-29T22:30:44.935Z",
+    "scheduledTime": "2020-04-29T15:00:00Z",
+    "publicationTime": "2020-04-29T15:04:40.272Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdDhGKov-fubrlBwIZPNatgnxEW41zm5ib_LJjuuIX8-liAJw/viewform?hr_submission\u003dChgI2--roZoBEg8I9LaS1NECEgYIjN7e3ksQAQ",
+        "title": "Chapters 15  Comprehension questions I Survived the Destruction of Pompeii",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/gusjyHb2VRaG5esCxQbWNL4qQ1w-Yvf_kxSxbDlzhx9Kh-YQLgc8iRj-caGNPxyry6tZs4neod8\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 15 \u0026 16 Comprehension questions I Survived the Destruction of Pompeii",
+      "description": "Please answer each question from the text in Chapter 15 pages 85 - 90  \u0026 Chapter 16 pages 91 - 95\nRemember these questions require a 3 part Text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer each question from the text in Chapter 15 pages 85 - 90  \u0026amp; Chapter 16 pages 91 - 95\u003cbr\u003eRemember these questions require a 3 part Text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-01T06:59:00Z",
+      "maxPoints": 51.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 50.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdDhGKov-fubrlBwIZPNatgnxEW41zm5ib_LJjuuIX8-liAJw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 15  Comprehension questions I Survived the Destruction of Pompeii",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/gusjyHb2VRaG5esCxQbWNL4qQ1w-Yvf_kxSxbDlzhx9Kh-YQLgc8iRj-caGNPxyry6tZs4neod8\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T01:28:35.414Z",
+    "updateTime": "2020-05-29T22:30:48.605Z",
+    "scheduledTime": "2020-04-27T15:00:00Z",
+    "publicationTime": "2020-04-27T15:04:49.933Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd4Fe1nz6y1_u4HaCEdxHGUgxJK0QiBRWIvcpb8wFEVPY3rLA/viewform?hr_submission\u003dChgI2--roZoBEg8Iwoby0tECEgYIjN7e3ksQAQ",
+        "title": "Chapter 14 Comprehension Questions I Survived the Destruction of Pompeii",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/yb4_rW7lECI9XtLZ4IyoXd30oDfBSHXQFvWTN3x4r7IAryiu1TfNJsnkaMx6nkNOsj3pKMkWYVo\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 14 Comprehension Questions I Survived the Destruction of Pompeii",
+      "description": "Please answer each question from the text in Chapter 14 pages 80 - 84\nRemember these questions require a 3 part Text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer each question from the text in Chapter 14 pages 80 - 84\u003cbr\u003eRemember these questions require a 3 part Text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-29T06:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 28.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd4Fe1nz6y1_u4HaCEdxHGUgxJK0QiBRWIvcpb8wFEVPY3rLA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 14 Comprehension Questions I Survived the Destruction of Pompeii",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/yb4_rW7lECI9XtLZ4IyoXd30oDfBSHXQFvWTN3x4r7IAryiu1TfNJsnkaMx6nkNOsj3pKMkWYVo\u003dw90-h90-p"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-04T20:13:12.297Z",
+          "updateTime": "2020-05-04T20:13:12.004Z",
+          "comment": "Please check feedback on your answers to help you in the future.",
+          "commentHtml": "\u003cdiv\u003ePlease check feedback on your answers to help you in the future.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T01:23:09.111Z",
+    "updateTime": "2020-05-29T22:30:52.041Z",
+    "scheduledTime": "2020-04-27T15:00:00Z",
+    "publicationTime": "2020-04-27T15:04:28.969Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScyy5qOY6OjEuLM5fGhBmubbIvb_hGbs8plNeeFDu2KUgjadg/viewform?hr_submission\u003dChgI2--roZoBEg8IlIby0tECEgYIjN7e3ksQAQ",
+        "title": "Chapters 14 - 16 Vocabulary I Survived the Destruction of Pompeii  ",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/bhI61Iu0gkl5pINy4dl5rgCbV5I0JWVlTaz7hgN7Sku1EbfDMHiwDxU7pP2bqlm5rN9GygzV06U\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 14 - 16 Vocabulary I Survived the Destruction of Pompeii  ",
+      "description": "Please write the definition to each word in the response line, include the page where you found the word from the chapters. \nRemember to use context clues and a dictionary for accuracy",
+      "descriptionHtml": "\u003cdiv\u003ePlease write the definition to each word in the response line, include the page where you found the word from the chapters. \u003cbr\u003eRemember to use context clues and a dictionary for accuracy\u003c/div\u003e",
+      "dueTime": "2020-04-29T06:59:00Z",
+      "maxPoints": 16.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 16.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScyy5qOY6OjEuLM5fGhBmubbIvb_hGbs8plNeeFDu2KUgjadg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 14 - 16 Vocabulary I Survived the Destruction of Pompeii  ",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/bhI61Iu0gkl5pINy4dl5rgCbV5I0JWVlTaz7hgN7Sku1EbfDMHiwDxU7pP2bqlm5rN9GygzV06U\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T03:21:50.736Z",
+    "updateTime": "2020-05-29T22:30:55.900Z",
+    "scheduledTime": "2020-04-22T15:00:00Z",
+    "publicationTime": "2020-04-22T15:01:55.171Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd7yVemkLQes28stqBIYXecXjL5dIceDElY_wGuHk5iEqnv2A/viewform?hr_submission\u003dChgI2--roZoBEg8I3cqAxooCEgYIjN7e3ksQAQ",
+        "title": "Chapter 12 Comprehension Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/ar6lONdk9jn2Ksmla19ci98rzdnw-tvV-uiebuGEv4TD7otfYD0YXkjlBlkl0VS3zbEz4_Da6K4\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 12 - 13 I Survived the Destruction of Pompeii Comprehension Questions",
+      "description": "Please answer each question from the text in Chapter 12 pages 64 - 72 and Chapter 13 pages 73 - 79\nRemember these questions require a 3 part Text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer each question from the text in Chapter 12 pages 64 - 72 and Chapter 13 pages 73 - 79\u003cbr\u003eRemember these questions require a 3 part Text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-24T06:59:00Z",
+      "maxPoints": 72.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 69.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd7yVemkLQes28stqBIYXecXjL5dIceDElY_wGuHk5iEqnv2A/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 12 Comprehension Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/ar6lONdk9jn2Ksmla19ci98rzdnw-tvV-uiebuGEv4TD7otfYD0YXkjlBlkl0VS3zbEz4_Da6K4\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T03:11:57.647Z",
+    "updateTime": "2020-04-24T00:44:43.677Z",
+    "scheduledTime": "2020-04-21T15:00:00Z",
+    "publicationTime": "2020-04-21T15:04:02.456Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdixiYsk4cxgAYMS3juSs2In3tV4cRHJimOim-W3ox36SuoxA/viewform?hr_submission\u003dChgI2--roZoBEg8IjcmAxooCEgYIjN7e3ksQAQ",
+        "title": "Chapters 11 - 13 I Survived the Destruction of Pompeii Vocabulary Matching",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/k8oA1yJnqtbguVM60_H9TfV_Tk4FDPtfYXQy-Eb0lAn3v_MbUnKLVHTm5LniMjLUAfYYToqtK8c\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapters 11 - 13 I Survived the Destruction of Pompeii Vocabulary Matching",
+      "description": "After reading Chapters 11 - 13 Complete the vocabulary matching assignment below. ",
+      "descriptionHtml": "\u003cdiv\u003eAfter reading Chapters 11 - 13 Complete the vocabulary matching assignment below.\u003c/div\u003e",
+      "dueTime": "2020-04-23T06:59:00Z",
+      "maxPoints": 8.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdixiYsk4cxgAYMS3juSs2In3tV4cRHJimOim-W3ox36SuoxA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapters 11 - 13 I Survived the Destruction of Pompeii Vocabulary Matching",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/k8oA1yJnqtbguVM60_H9TfV_Tk4FDPtfYXQy-Eb0lAn3v_MbUnKLVHTm5LniMjLUAfYYToqtK8c\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T03:18:30.262Z",
+    "updateTime": "2020-04-28T02:47:42.902Z",
+    "scheduledTime": "2020-04-21T15:00:00Z",
+    "publicationTime": "2020-04-21T15:00:30.564Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSehcVXR-ODvSYgpT0yEHU4lBBMVrkEUFORDSAYUSnCvLwSQxw/viewform?hr_submission\u003dChgI2--roZoBEg8I-cmAxooCEgYIjN7e3ksQAQ",
+        "title": "Chapter 11 I Survived the Destruction of Pompeii Comprehension questions. ",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/xTvq9z5go0ONCssmwmIGufs_xpUrbV2auc1VBxGdB7a3oB-KKiWXj7_z0_0ArbUjO61fs6MKbYA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 11 I Survived the Destruction of Pompeii Comprehension questions. ",
+      "description": "Please answer each question from the text in Chapter 11 pages 58 - 63\nRemember these questions require a 3 part Text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer each question from the text in Chapter 11 pages 58 - 63\u003cbr\u003eRemember these questions require a 3 part Text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-23T06:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 14.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSehcVXR-ODvSYgpT0yEHU4lBBMVrkEUFORDSAYUSnCvLwSQxw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 11 I Survived the Destruction of Pompeii Comprehension questions. ",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/xTvq9z5go0ONCssmwmIGufs_xpUrbV2auc1VBxGdB7a3oB-KKiWXj7_z0_0ArbUjO61fs6MKbYA\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-13T03:16:05.766Z",
+    "updateTime": "2020-04-24T00:44:48.102Z",
+    "scheduledTime": "2020-04-15T15:00:00Z",
+    "publicationTime": "2020-04-15T15:00:35.474Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwMy-0CsC-UtTDqZpL6BWcCkO9y3a0s-sgzC94IcaiyZSB_w/viewform?hr_submission\u003dChgI2--roZoBEg8Ii-SG5oICEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii - Chapter 9",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/peiJguBlF11BamJaoXguL2e3-LcdW_KgO1l8C4qZeAdKATA7PcWkT5qH5aWP80Wdqc7G28mvBfw\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapters 9-10 Comprehension Questions",
+      "description": "Please answer each question from the text in Chapter 9 pages 46-51 and Chapter 10 pages 52-57.\nRemember these questions require a 3 part Text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer each question from the text in Chapter 9 pages 46-51 and Chapter 10 pages 52-57.\u003cbr\u003eRemember these questions require a 3 part Text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-17T06:59:00Z",
+      "maxPoints": 51.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 50.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwMy-0CsC-UtTDqZpL6BWcCkO9y3a0s-sgzC94IcaiyZSB_w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii - Chapter 9",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/peiJguBlF11BamJaoXguL2e3-LcdW_KgO1l8C4qZeAdKATA7PcWkT5qH5aWP80Wdqc7G28mvBfw\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-12T23:11:48.829Z",
+    "updateTime": "2020-04-24T00:44:56.710Z",
+    "scheduledTime": "2020-04-13T15:00:00Z",
+    "publicationTime": "2020-04-13T15:03:42.518Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSde-9YinK5t4YLxQOmIvTeabqzuUkp1gy-qza7uIe-51JOiUA/viewform?hr_submission\u003dChgI2--roZoBEg8IwMfr0oICEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii Chapter 8 Comprehension Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/Da71r7_KrsNPYaY8XJSudKjlfIAvBULZFW7uw5upHs7maEZoFfFlYy0EXwsMfLDrkWwMH16_IWk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapter 8 Comprehension Questions",
+      "description": "Please answer each question from the text in Chapter 8 pages 38 - 45\nRemember these questions require a 3 part Text based answer: \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer each question from the text in Chapter 8 pages 38 - 45\u003cbr\u003eRemember these questions require a 3 part Text based answer: \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-15T06:59:00Z",
+      "maxPoints": 24.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 24.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSde-9YinK5t4YLxQOmIvTeabqzuUkp1gy-qza7uIe-51JOiUA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Chapter 8 Comprehension Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/Da71r7_KrsNPYaY8XJSudKjlfIAvBULZFW7uw5upHs7maEZoFfFlYy0EXwsMfLDrkWwMH16_IWk\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-12T23:06:53.610Z",
+    "updateTime": "2020-04-24T00:44:51.989Z",
+    "scheduledTime": "2020-04-13T15:00:00Z",
+    "publicationTime": "2020-04-13T15:01:19.571Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScX9tRH-s2YxXztk4w8ebEpw-RuqfRvLWFie0gYztOdRwnztA/viewform?hr_submission\u003dChgI2--roZoBEg8I14nE0oICEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii - Chapters 8-10 Vocabulary",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/y9oiN_h1CyMUmowm71sT_71XW-TUP8a7pn-mNAXqYYMBK5BeTUJ_ngXxSlPGlgDepNK3stlfsQE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii - Chapters 8-10 Vocabulary",
+      "description": "Please write the definition to each word and tell what page you found it on in the book. \nUse the book Context to help you figure out what the words mean\nUse a dictionary to check your accuracy. ",
+      "descriptionHtml": "\u003cdiv\u003ePlease write the definition to each word and tell what page you found it on in the book. \u003cbr\u003eUse the book Context to help you figure out what the words mean\u003cbr\u003eUse a dictionary to check your accuracy.\u003c/div\u003e",
+      "dueTime": "2020-04-15T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 12.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScX9tRH-s2YxXztk4w8ebEpw-RuqfRvLWFie0gYztOdRwnztA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii - Chapters 8-10 Vocabulary",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/y9oiN_h1CyMUmowm71sT_71XW-TUP8a7pn-mNAXqYYMBK5BeTUJ_ngXxSlPGlgDepNK3stlfsQE\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-04T03:16:07.180Z",
+    "updateTime": "2020-04-24T00:45:01.559Z",
+    "scheduledTime": "2020-04-10T15:00:00Z",
+    "publicationTime": "2020-04-10T15:01:13.409Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe411oWSJhQfdqw571YXFbRVHNZR4hAyGAe4yeeawHjcttcUg/viewform?hr_submission\u003dChgI2--roZoBEg8Im9HW7_oBEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii Chapter 6 Comprehension Questions. ",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/sEps_psaMFZjjAlqbUUDs1V47pcKp9Txul6JcenqZs6XB-Ai0BC2METaiSKjGgF7yviR3az8UdA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapters 6 \u0026 7 Comprehension Questions. ",
+      "description": "Each question is worth 3 points and they need to be in a text based answer format:\n1) restate the question\n2) use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eEach question is worth 3 points and they need to be in a text based answer format:\u003cbr\u003e1) restate the question\u003cbr\u003e2) use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-12T06:59:00Z",
+      "maxPoints": 27.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 26.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe411oWSJhQfdqw571YXFbRVHNZR4hAyGAe4yeeawHjcttcUg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Chapter 6 Comprehension Questions. ",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/sEps_psaMFZjjAlqbUUDs1V47pcKp9Txul6JcenqZs6XB-Ai0BC2METaiSKjGgF7yviR3az8UdA\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-04T03:01:49Z",
+    "updateTime": "2020-04-24T00:45:05.336Z",
+    "scheduledTime": "2020-04-07T15:00:00Z",
+    "publicationTime": "2020-04-07T15:04:42.768Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdsxe0NrObw-5k0KOVzexTCGWrf91VqL1noxxgQb0ehI6u5_w/viewform?hr_submission\u003dChgI2--roZoBEg8IyNDW7_oBEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii Chapter 5 Comprehension Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/fcYaV0Cf-lxsgSSWTwsdXqIKy8Y7pNdnOclpRaUq5WRhkkiCDpgEbjBvFHjbHn4ChLn2j0RWl0c\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapter 5 Comprehension Questions",
+      "description": "Each question is worth 3 points and they need to be in a text based answer format:\n1) restate the question\n2) use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eEach question is worth 3 points and they need to be in a text based answer format:\u003cbr\u003e1) restate the question\u003cbr\u003e2) use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-09T06:59:00Z",
+      "maxPoints": 24.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 24.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdsxe0NrObw-5k0KOVzexTCGWrf91VqL1noxxgQb0ehI6u5_w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Chapter 5 Comprehension Questions",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/fcYaV0Cf-lxsgSSWTwsdXqIKy8Y7pNdnOclpRaUq5WRhkkiCDpgEbjBvFHjbHn4ChLn2j0RWl0c\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-04T02:54:24.316Z",
+    "updateTime": "2020-04-24T00:45:09.147Z",
+    "scheduledTime": "2020-04-07T15:00:00Z",
+    "publicationTime": "2020-04-07T15:02:35.170Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd_r6xEt-oBde-UiZ4f-K63DOJIHmei9-pbo8165b1pwUqZfw/viewform?hr_submission\u003dChgI2--roZoBEg8Ijdmi6_oBEgYIjN7e3ksQAQ",
+        "title": "I Survived the Destruction of Pompeii Vocabulary Chapters 5-7",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/Ml0Dg63RVphmUck7D-TPAT0zUqrfCbOFc_kZVWK1YcMhLxuQrAxXhi3yZYVXpAnrgB01uxAYfaA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Vocabulary Chapters 5-7",
+      "dueTime": "2020-04-09T06:59:00Z",
+      "maxPoints": 8.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd_r6xEt-oBde-UiZ4f-K63DOJIHmei9-pbo8165b1pwUqZfw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Vocabulary Chapters 5-7",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/Ml0Dg63RVphmUck7D-TPAT0zUqrfCbOFc_kZVWK1YcMhLxuQrAxXhi3yZYVXpAnrgB01uxAYfaA\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-30T00:53:38.447Z",
+    "updateTime": "2020-04-24T00:45:12.683Z",
+    "scheduledTime": "2020-04-02T15:00:00Z",
+    "publicationTime": "2020-04-02T15:02:41.385Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctWcD0OVPQmWY2O24jAGxoH-QwwvG8_sKfizpfLyoHqIso5w/viewform?hr_submission\u003dChcI2--roZoBEg4IkcC66ksSBgiM3t7eSxAB",
+        "title": "I Survived the Destruction of Pompeii Chapters 2 - 4 Comprehension Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/JR5kAx-yJtrwwYRooXLPd0XMbd-KqD9NWpRcxSgifhPsS6SVXfw80mVVeSDMngVFYvq5ybXHI6Q\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapters 2 - 4 Comprehension Questions",
+      "description": "Answer each question in complete sentences.  Remember text based answers have 3 parts:\n1) Restate the question\n2) Use evidence from the text\n3) CAPS (Capitals, All sentences make sense, Punctuation, Spelling/Spacing)",
+      "descriptionHtml": "\u003cdiv\u003eAnswer each question in complete sentences.  Remember text based answers have 3 parts:\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS (Capitals, All sentences make sense, Punctuation, Spelling/Spacing)\u003c/div\u003e",
+      "dueTime": "2020-04-04T06:59:00Z",
+      "maxPoints": 78.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 75.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctWcD0OVPQmWY2O24jAGxoH-QwwvG8_sKfizpfLyoHqIso5w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Chapters 2 - 4 Comprehension Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/JR5kAx-yJtrwwYRooXLPd0XMbd-KqD9NWpRcxSgifhPsS6SVXfw80mVVeSDMngVFYvq5ybXHI6Q\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-30T00:20:23.011Z",
+    "updateTime": "2020-04-24T00:45:16.168Z",
+    "scheduledTime": "2020-04-01T15:00:00Z",
+    "publicationTime": "2020-04-01T15:01:57.633Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfjb7wwvK0ZRePz9gGSi8y6Z5RyK-2zkoo4BmVbZ3CLSfkZ0Q/viewform?hr_submission\u003dChcI2--roZoBEg4IpoCv6ksSBgiM3t7eSxAB",
+        "title": "I Survived the Destruction of Pompeii Chapter One Comprehension questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/pc6_Jis2nNGniCVWsqj0o--E4PZ88Rv-3Ep-meU8N7BAWmybOrYMdlRfOoXsowSwEovHtRh2C9M\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapter One",
+      "description": "Answer each question in complete sentences.  Remember text based answers have 3 parts:\n1) Restate the question\n2) Use evidence from the text\n3) CAPS (Capitals, All sentences make sense, Punctuation, Spelling/Spacing)",
+      "descriptionHtml": "\u003cdiv\u003eAnswer each question in complete sentences.  Remember text based answers have 3 parts:\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS (Capitals, All sentences make sense, Punctuation, Spelling/Spacing)\u003c/div\u003e",
+      "dueTime": "2020-04-03T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfjb7wwvK0ZRePz9gGSi8y6Z5RyK-2zkoo4BmVbZ3CLSfkZ0Q/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Chapter One Comprehension questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/pc6_Jis2nNGniCVWsqj0o--E4PZ88Rv-3Ep-meU8N7BAWmybOrYMdlRfOoXsowSwEovHtRh2C9M\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-30T00:10:21.643Z",
+    "updateTime": "2020-04-24T00:46:38.013Z",
+    "scheduledTime": "2020-04-01T15:00:00Z",
+    "publicationTime": "2020-04-01T15:01:04.453Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "I Survived the Destruction of Pompeii Novel Study"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScT37FPnOhxJAZ1_OH0IBKtPd-OsNCWWFxjXi62ePywSZWm5w/viewform?hr_submission\u003dChcI2--roZoBEg4I5dui6ksSBgiM3t7eSxAB",
+        "title": "I Survived the Destruction of Pompeii Chapters 1- 4 Vocabulary",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/7ek6etHqDIZwuxTEQXnG4fM-op3Fy3McQItDNouLB1ggztcyCITGMT-PaFnrmfQ6m2pMsutWTOk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Survived the Destruction of Pompeii Chapters 1- 4 Vocabulary",
+      "description": "Define each word using context clues and your background knowledge.  \nCite the page number where you found the word.\nUse a dictionary as a resource to check your definition for accuracy or if you cannot figure out the meaning with context and background knowledge. ",
+      "descriptionHtml": "\u003cdiv\u003eDefine each word using context clues and your background knowledge.  \u003cbr\u003eCite the page number where you found the word.\u003cbr\u003eUse a dictionary as a resource to check your definition for accuracy or if you cannot figure out the meaning with context and background knowledge.\u003c/div\u003e",
+      "dueTime": "2020-04-03T06:59:00Z",
+      "maxPoints": 8.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScT37FPnOhxJAZ1_OH0IBKtPd-OsNCWWFxjXi62ePywSZWm5w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "I Survived the Destruction of Pompeii Chapters 1- 4 Vocabulary",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/7ek6etHqDIZwuxTEQXnG4fM-op3Fy3McQItDNouLB1ggztcyCITGMT-PaFnrmfQ6m2pMsutWTOk\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

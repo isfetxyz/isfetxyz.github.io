@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "name": "Grade 6 2021-2022",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomcd615e9c@group.calendar.google.com",
+  "courseFolder": {
+    "id": "193A0ebyDhE_atTRAPOv-h-5sYvzUyTo84TWRDp3-Lc4NgJxbF5RldY2nYwRIRY3sv-yqYCWR",
+    "name": "Grade 6 2021-2022",
+    "openUrl": "https://drive.google.com/drive/folders/193A0ebyDhE_atTRAPOv-h-5sYvzUyTo84TWRDp3-Lc4NgJxbF5RldY2nYwRIRY3sv-yqYCWR"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2021-10-11T14:54:22.032Z",
+    "updateTime": "2021-10-11T20:06:19.766Z",
+    "publicationTime": "2021-10-11T15:26:38.974Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScbgx1zzEeEjpiB3-Z5zmTjhxnJSEWTbR4H60LWJkbdcQlImw/viewform?hr_submission\u003dChkI2--roZoBEhAIkuPXuO4LEgcI2dC55YkLEAE",
+        "title": "Outdoor Education Survey 21-22 ",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/gUs77dyVogP5IVD903dYym-YgVfpCIE01SAoLVwWQCwhxkA5JMPltY2ZIRWqbi8rOKWe_jMj0-w\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Outdoor Education Survey 21-22",
+      "dueTime": "2021-10-11T21:10:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "name": "Music 5",
+  "section": "C 20-21",
+  "description": "5th Music Q1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroom31a82a1b@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnfkQ1RkpQZWQxbHpuRjJWcTdHdDhxdW9DbEg5RjBXMkZLNlFEdjVuTjA1bUk",
+    "name": "Music 5 C",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnfkQ1RkpQZWQxbHpuRjJWcTdHdDhxdW9DbEg5RjBXMkZLNlFEdjVuTjA1bUk?resourcekey\u003d0-5Ky5BfSVIF8zYVnQlfIyQg"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_learninstrument.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-02-12T20:25:41.242Z",
+    "updateTime": "2021-02-12T20:28:01.125Z",
+    "publicationTime": "2021-02-12T20:28:01.067Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Misc"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11dN2N-TJIz-zhQ56qT3FSbV-fMkNet7EdOwxY6aQfNY",
+          "title": "[Template] Listening Journal",
+          "alternateLink": "https://docs.google.com/document/d/1cHiVnu6aNDcmRg8s6HzmBlMl-EurWWcXZEF66COhryA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOkOlr-D2Kuv5fNgqbSqHMmatSMtJGFHrlTZjw28j-oG6vKT_UmuQSkpBURG_YU1JAZbGwMm0yRwhL4GqCDEPFvMbV257ht79vYrtZ8NY4iNZX5OyC0ObiibHZguVHRMx6T7ik\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Listening Journal",
+      "description": "Use the attached Google Doc to journal your listening for today. Instructions are on the Google Doc. ",
+      "descriptionHtml": "\u003cdiv\u003eUse the attached Google Doc to journal your listening for today. Instructions are on the Google Doc.\u003c/div\u003e",
+      "dueTime": "2021-02-12T21:55:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YWR9MXAMuETi5lRlajIyOxrlYKZDLvPI0ZImGTLQhYY",
+              "title": "Loz McKenzie - Listening Journal",
+              "alternateLink": "https://docs.google.com/document/d/1YWR9MXAMuETi5lRlajIyOxrlYKZDLvPI0ZImGTLQhYY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO4n-sDwWKYs_UDTyiPEfwvxGS3skBGdTE-gXoxZE0KM_0jXVKLW4zmrUidYCVnaUlalpc9jljPSsw1jYdH0_JfUzS4KByWhzEWpkf3LHvLaeQ4Qn0kFI0yIDqSnGEVrESKPdg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-01-29T21:22:22.509Z",
+    "updateTime": "2021-01-29T21:34:15.201Z",
+    "publicationTime": "2021-01-29T21:34:15.074Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-a5jgct_SjwcKDMVDcuqXkDCrmsrhsvtQbwMl7ik8ME",
+          "title": "[Template] Rewriting Old Raggy",
+          "alternateLink": "https://docs.google.com/document/d/1HusYRJFFppawy6lR8hgucTvjHjkoMGW3VrWp-T0GKBE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM_YIdN3ijfeC0EtkTsjv24Xib-22Jp0BiE3HmozvCdAoIGW99i-hH8lY8gSAj4oiq_NauaKzpyx6hiYizQOymHPp3bEi9f3FuAFpW6jeD3OPk16SIYy57fLxUgAs7RBVZmbRY\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Rewriting Old Raggy",
+      "description": "In this Google Doc, rewrite Old Raggy. You will write three verses, but you must be able to sing your verses just like the original verse of Old Raggy.\n\nYour song must have 3 verses. Each verse must be able to be sung like the original verse.\n\nMake sure you sing your verses to yourself so that you know they can be sung!",
+      "descriptionHtml": "\u003cdiv\u003eIn this Google Doc, rewrite Old Raggy. You will write three verses, but you must be able to sing your verses just like the original verse of Old Raggy.\u003cbr\u003e\u003cbr\u003eYour song must have 3 verses. Each verse must be able to be sung like the original verse.\u003cbr\u003e\u003cbr\u003eMake sure you sing your verses to yourself so that you know they can be sung!\u003c/div\u003e",
+      "dueTime": "2021-02-02T18:15:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12BoxEmslO7enByrrKJAlH3cORS9F0CFrQtRFIHc7iGc",
+              "title": "Loz McKenzie - Rewriting Old Raggy",
+              "alternateLink": "https://docs.google.com/document/d/12BoxEmslO7enByrrKJAlH3cORS9F0CFrQtRFIHc7iGc/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNmEFObHqDx5kdlH8BlTAYMakfbjLXymSPNLAFRvojY_KmGFWOS7UNtpTTBfPMS3UxcIcZaW2_41uOqlJ1mRarq941CsjiU_jNELQOfEIJs2ButcIvXMNIzAxiooMpCF1vb0T0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-01-28T17:59:58.847Z",
+    "updateTime": "2021-01-28T18:05:07.077Z",
+    "publicationTime": "2021-01-28T18:05:06.595Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1VcMlM-QschlgGqvqUW0FIZJNADnbZ28st9sSIQKOul4",
+          "title": "[Template] Rewriting Aunt Rhody",
+          "alternateLink": "https://docs.google.com/document/d/1Teoc41Xh7fOzNHgFkygQALbVsf4nDNCJlWKMhidXxpQ/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPeSUXyiLBQdPcC8Ly-BCn8YWLUKww2Oi4Z_lxzsRjYMAUw2yqPaLNELAPgGxZD07pLW8raC0JGwKu3Fk-FjGVU-_ELE3fFW3hjLlSegbHHLGReJ4rnLphEi_XfdgHYjSM_loI\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Rewriting Aunt Rhody",
+      "description": "In this Google Doc, rewrite Aunt Rhody. You will rewrite the verses, but you must be able to sing your new verses just like the original verses of Aunt Rhody.\n\nYour song must have 3 verses. Each verse will only need to have two lines of words. The first line of words will be repeated three times, then you will finish the verse with the second line of words. To see what I mean, look for this pattern in the verses of \"Go Tell Aunt Rhody.\" \n\nPlease type each of your verses next to each verse of \"Go Tell Aunt Rhody.\" Make sure you sing your verses to yourself so that you know they can be sung!",
+      "descriptionHtml": "\u003cdiv\u003eIn this Google Doc, rewrite Aunt Rhody. You will rewrite the verses, but you must be able to sing your new verses just like the original verses of Aunt Rhody.\u003cbr\u003e\u003cbr\u003eYour song must have 3 verses. Each verse will only need to have two lines of words. The first line of words will be repeated three times, then you will finish the verse with the second line of words. To see what I mean, look for this pattern in the verses of \u0026quot;Go Tell Aunt Rhody.\u0026quot; \u003cbr\u003e\u003cbr\u003ePlease type each of your verses next to each verse of \u0026quot;Go Tell Aunt Rhody.\u0026quot; Make sure you sing your verses to yourself so that you know they can be sung!\u003c/div\u003e",
+      "dueTime": "2021-01-29T21:25:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13J0aMjWjqbi0LZoovf6BLivFUjg18Drxjpc51wfj9ps",
+              "title": "Loz McKenzie - Rewriting Aunt Rhody",
+              "alternateLink": "https://docs.google.com/document/d/13J0aMjWjqbi0LZoovf6BLivFUjg18Drxjpc51wfj9ps/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNYkII9U_W4QmfyFBKtQ08Txf3P5WRIVJ-SMP7yQDqEALc4UX0YjjAtY2VXAxAcsoYJKCANBtVcGmXvPY3sDtOMvH17P32Xfz_kkImz1toUjPi5y_zndoajAGLG_0BmPrPY8MM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-01-07T18:46:52.907Z",
+    "updateTime": "2021-01-07T18:47:14.212Z",
+    "publicationTime": "2021-01-07T18:47:13.903Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1jSy4CqYsOSWjd4vx6F7r0kifeR_JlX_q5q8MAwe23MI",
+          "title": "[Template] Song Map Template",
+          "alternateLink": "https://docs.google.com/document/d/12b-x65plNVQnmwspwSc98vQgGJK1E0EZvrTwYVeGOVA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNmL5aX7c4wCselengkyXl9-QPcXhat3YHsLGqbYmrVOsbbQmVyeRF5QrrnFtAjyZuHcevZp2DfbbCixJi1U_z87e_tydhcW8ZJSPEmEh_rvlOR-8BjJ0suvTdEHP8FekwQG00\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Song Map 3",
+      "description": "This song map will now also ask you to mark which instrument has the melody. Please complete this map on a song you have not focused on yet.",
+      "descriptionHtml": "\u003cdiv\u003eThis song map will now also ask you to mark which instrument has the melody. Please complete this map on a song you have not focused on yet.\u003c/div\u003e",
+      "dueTime": "2021-01-11T20:35:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1SsTPRUvhfJlpOwviLZKg8NB2tZEv9cgvLSvxoCSYgSg",
+              "title": "Loz McKenzie - Song Map 3",
+              "alternateLink": "https://docs.google.com/document/d/1SsTPRUvhfJlpOwviLZKg8NB2tZEv9cgvLSvxoCSYgSg/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPwJN8v7U9gKFwtvYXe4l-DDcLRUA72eMo6AoXZoLmMGH1sRYIgDbzGkhze-Qk-RVSAoNo4LIg1Tl7Hmav5Uj51CgegZFbKTngyfUYGr3SqwYeK82fQRJ5QKnDTM4eFts6iDXw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-01-07T18:45:33.849Z",
+    "updateTime": "2021-01-07T18:47:48.953Z",
+    "publicationTime": "2021-01-07T18:45:55.662Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-8p8RtWkOX3jboWpjg-wKIhawOV8hnHr2Z79bqcJENU",
+          "title": "[Template] Song Map Template",
+          "alternateLink": "https://docs.google.com/document/d/1ZXym6yJhPsJcS7Ga3PEcj60Q4eK5uSBncDYybL3U7A8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOGSZZE7i9cJcjeA9oabF906U89oaHFRE_VPFQkSIixHoMS6t49h9ibHvZpcPY-3ZYjo1twFOSzAP0Cd2Cdv05i_xhm_9emPCvqHkpsrQB6X4wV7c6rdWmBPbT4yMT53J3mwWU\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Song Map 4",
+      "description": "This song map will now also ask you to mark which instrument has the melody. Please complete this map on a song you have not focused on yet.",
+      "descriptionHtml": "\u003cdiv\u003eThis song map will now also ask you to mark which instrument has the melody. Please complete this map on a song you have not focused on yet.\u003c/div\u003e",
+      "dueTime": "2021-01-11T20:35:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Xlvb3eMJ5EtOck-UT9aeObXvS_6HwPDcfsv30P1diu8",
+              "title": "Loz McKenzie - Song Map 4",
+              "alternateLink": "https://docs.google.com/document/d/1Xlvb3eMJ5EtOck-UT9aeObXvS_6HwPDcfsv30P1diu8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO0U4Y2qAKamYBVAccvln4HlCLCf5jdRmChb5zwtHijOiDX8iac_cbROKYcdYXqFnmw7vMe5NTsq38NCMyFX2QAjkPeQaP2hnq917kPQFRwOg7nL6vSZ90CFPASe2CCSeWrkok\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-01-05T17:45:12.712Z",
+    "updateTime": "2021-01-05T18:19:54.944Z",
+    "scheduledTime": "2021-01-05T18:15:00Z",
+    "publicationTime": "2021-01-05T18:19:54.538Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1zmYYDjgmqz56g8tP7q4o449nSXRto_M6URFFyz5IeLw",
+          "title": "[Template] Song Map",
+          "alternateLink": "https://docs.google.com/document/d/12e97h05dbBZALugpwkr5AjvcM-GQy0BuAMEkY-u1N00/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBODmjWxs7x9tLwjRPPjN6PoxUEyIXrCBlaUtz0OqNOiXfXlKYg2CxYbWjLELvQAmsma7R-pGQ305yMVmLmSMTSIlRpG3X3-AGTRGYI8Xf0v6pFMY5C9loh00P1_gE2e1SIWDPM\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Song Map 1",
+      "description": "Use this Google Doc to type your song map.",
+      "descriptionHtml": "\u003cdiv\u003eUse this Google Doc to type your song map.\u003c/div\u003e",
+      "dueTime": "2021-01-07T18:20:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FXTzsiPk9-kzydU2fB-8rDYNdStfh16w8HQ0oxixdYM",
+              "title": "Loz McKenzie - Song Map",
+              "alternateLink": "https://docs.google.com/document/d/1FXTzsiPk9-kzydU2fB-8rDYNdStfh16w8HQ0oxixdYM/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM-2Wr8MN66UsIa02DYzUOROoKvUFobElYE1deXw_kGIOVGAywwp_WB453mOqXcaxirGoy7IQhnEOxY9vhXJZRBX82xmFY1eGLNkVhZOG_Y7PTJKzv2p9yQ-rWio1nYedivLjE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Dominic Vitale"
+      }
+    },
+    "creationTime": "2021-01-05T17:46:49.599Z",
+    "updateTime": "2021-01-05T18:16:39.336Z",
+    "scheduledTime": "2021-01-05T18:15:00Z",
+    "publicationTime": "2021-01-05T18:16:39.286Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1YWiIe3p89DvLiPA6zA_rruMgpQ8QqNsmtllIKKYsEoU",
+          "title": "[Template] Song Map",
+          "alternateLink": "https://docs.google.com/document/d/1-AajUkS2k9mAduSNHtWcg4imCvzPn0ad7DpQy5XK-vc/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPO-CzfGI6xx0roHQJIsJjl2Pcs7XCMCwCjPvv1Gw81cEJUkHTHoP8JjWNNeeIC5VVA7zOuWihSsI_0j91Bl89NVg4_SQQuLm5agi7vKE7lEY-sSWqZLB7kdRtURErOfWfwJsI\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Song Map 2",
+      "description": "Use this Google Doc to type your song map.",
+      "descriptionHtml": "\u003cdiv\u003eUse this Google Doc to type your song map.\u003c/div\u003e",
+      "dueTime": "2021-01-07T18:20:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1O1o0QlAefuteKi5pXYSFmL0wzqcr74vakT7s5KsifP4",
+              "title": "Loz McKenzie - Song Map",
+              "alternateLink": "https://docs.google.com/document/d/1O1o0QlAefuteKi5pXYSFmL0wzqcr74vakT7s5KsifP4/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMTF0KzBlKoEIioRdZKWnHhleT7ygfKoOe3WaY6OlQH9SsL19-bD7hP_KESzDDWGsI0gnKswYPOzZT8sclbFEvQNRvELtFJcWYmPg3SKODL7ayaBLBDWwmmK5AMTtgiA4GmAHM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

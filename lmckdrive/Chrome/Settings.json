@@ -1,0 +1,529 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "profile.content_settings.exceptions.window_placement",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.storage_access",
+            "value": "{}"
+},
+        {
+            "name": "autofill.last_version_deduped",
+            "value": "125"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{}"
+},
+        {
+            "name": "net.network_prediction_options",
+            "value": "0"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"es\":0,\"und\":0,\"zh-CN\":0}"
+},
+        {
+            "name": "profile.content_settings.exceptions.anti_abuse",
+            "value": "{}"
+},
+        {
+            "name": "translate_allowlists",
+            "value": "{\"es\":\"en\"}"
+},
+        {
+            "name": "browser.enable_spellchecking",
+            "value": "true"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-US,en,ja\""
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"https://drive.google.com:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13298270803009457\",\"model\":0,\"setting\":1},\"https://mail.google.com:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13267214194699520\",\"model\":0,\"setting\":1},\"https://web.kamihq.com:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13297835798274654\",\"model\":0,\"setting\":1}}"
+},
+        {
+            "name": "session.startup_urls",
+            "value": "[\"https://classroom.google.com/h\",\"https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox\",\"https://sageridge.myschoolapp.com/app/student#calendar\"]"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"es\":8,\"sv\":1,\"und\":0,\"zh-CN\":0}"
+},
+        {
+            "name": "promos.ios_password_impressions_counter",
+            "value": "1"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "safebrowsing.enabled",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.local_fonts",
+            "value": "{}"
+},
+        {
+            "name": "default_search_provider.synced_guid",
+            "value": "\"485bf7d3-0215-45af-87dc-538868000001\""
+},
+        {
+            "name": "toolbar.pinned_actions",
+            "value": "[]"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"windows:Alt+Shift+M\":{\"command_name\":\"_execute_action\",\"extension\":\"ajphlblkfpppdpkgokiejbjfohfohhmk\",\"global\":false},\"windows:Alt+Shift+P\":{\"command_name\":\"toggle-pause\",\"extension\":\"mmeijimgabbpbgpdklnllpncmdofkcpn\",\"global\":false},\"windows:Alt+Shift+R\":{\"command_name\":\"toggle-recording\",\"extension\":\"mmeijimgabbpbgpdklnllpncmdofkcpn\",\"global\":false},\"windows:Alt+Shift+S\":{\"command_name\":\"_execute_browser_action\",\"extension\":\"mmeijimgabbpbgpdklnllpncmdofkcpn\",\"global\":false}}"
+},
+        {
+            "name": "translate_force_trigger_on_english_count_for_backoff_1",
+            "value": "-1"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"es\":5,\"und\":2,\"zh-CN\":1}"
+},
+        {
+            "name": "net.easter_egg_high_score",
+            "value": "14809"
+},
+        {
+            "name": "custom_links.list",
+            "value": "[{\"isMostVisited\":true,\"title\":\"Classes\",\"url\":\"https://classroom.google.com/h\"},{\"isMostVisited\":false,\"title\":\"Gmail\",\"url\":\"https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox\"},{\"isMostVisited\":true,\"title\":\"Web Store\",\"url\":\"https://chrome.google.com/webstore?hl=en\"},{\"isMostVisited\":false,\"title\":\"DuckDuckGo\",\"url\":\"https://duckduckgo.com/\"},{\"isMostVisited\":false,\"title\":\"Compass\",\"url\":\"https://sageridge.myschoolapp.com/app/student#studentmyday/progress\"}]"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"Q9PwxGlPK/Uhq13NOagnUA==\":{\"device_auth_secret\":\"QLJlEnNQB0HPPPopJW6ApA==\",\"device_capabilities\":2,\"device_fcm_token\":\"eFRW_hqJqKs:APA91bGmSHyZiYLNuKBw4K7AHZBaZOyXYC_7T1BlLWZe_R8JyNH3NG_C9cYNa-syIR2xagEOT5IoFyiBF3JOrzYvna6aBTAgv6zcb0jzHj00mwFqG2U9eNpB9_t9lcM-Lv7jy4a_NrQb\",\"device_p256dh\":\"BPWJ4r7zBSMP7LMrACo9LldrNXpkXgaXebijegPQyfXbM25zanzopAKuZLNnuGYZYyX15Rd7PVCzUgm66wY0V9E=\"},\"sdbpVIGURbQVVprnBydlPQ==\":{\"device_auth_secret\":\"gvKEe3KAsClt9rDYF/0Lxg==\",\"device_capabilities\":2,\"device_fcm_token\":\"fq6klg3itMo:APA91bHwLcFyNslQ4kBdEG9OqwEqjCi4FuI6sdgrKuhNLC7tgOSTcmy5HTfx_tzm35J_E9EaFAf6gF6H0HZWDNttzM_2N6BnOHoGh3tG98VuPy0r1Vh_8J8wGVpu49ACZgEIqhF9ZJKC\",\"device_p256dh\":\"BH9EqqJj7hnjCUT+sNPG7k/VNPDd35yApwJTXe/EGp2WFZffJHzTJ6CVehmS//TCmQwbtRndk6DLL8ihztzjyoA=\"},\"xZeobKbprE91g7m1vDiwzg==\":{\"device_auth_secret\":\"JblOz9I0//LrVbDpDeSJjw==\",\"device_capabilities\":2,\"device_fcm_token\":\"e4l0eLvZ59Y:APA91bFkwCjMtsYFFKYOK8vstBuQrzGUCJZsPunaeEE9Igz84aVg3_KJN8bCOjyg1QbZND-keghmJ7kya8lpH6CaENoWM3zoWsAwNeH6F964FlcyTkEH4OBd4mXOOkOM53gxH2vOne3C\",\"device_p256dh\":\"BKnPDeAbfR6MaDnbZPiH0GW4C/i7V2uuW3POn9RVz3biB0KhWhJZlGqG3ZeyqERb2BvIxBnI1v/RY7KILkwnMDI=\"},\"zA9cjnoay9uh6/ABUrOJsg==\":{\"device_auth_secret\":\"6CNSxDiihIhBrH4Hja4D3A==\",\"device_capabilities\":2,\"device_fcm_token\":\"c-42dMG6cn8:APA91bGfQZ9pmSWZqUOJTT8aJICZbtJ52BoLtj-Q-BN1q8Rh3IPaQ8vBlfbJbukc4r26XYu0Two8TBIYDw3RV84vf1C_RuWOi44NZBzjFyB8xAAoWa6cvsLXFE9emxBHl-cAJbiSfojC\",\"device_p256dh\":\"BNJ+DqqnFkGl28DR+sfT3TFMT3617tX0l0V88vba1aYhj0WNy0fGTTy2kbV8U8m6aYdhdzhA+0zQmkAGyFZZd/U=\"}}"
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "4"
+},
+        {
+            "name": "translate_site_blocklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "browser.clear_data.time_period_basic",
+            "value": "3"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13230790167271025\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgsHQfY3muRlEL5Ip/CC5QFTQdSIERloy63ir5cXwC7yOhRANCAAQER9YQmozDI9r7af21ULlT5yOdQ7H5yWshvzGxyGEriodTqMFy4BsK3OKSuGZL0JJIweKVj+lp38ZrK+G4AH3s\"}"
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"en-US,en,ja\""
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"ecnphlgnajanjnkcmbpancdjoidceilk\",\"bhlhnicpbhignbdhedgjhgdocnmhomnp\",\"lmjegmlicamnimmfhcmpkclmigmmcbeh\",\"ajphlblkfpppdpkgokiejbjfohfohhmk\",\"mmeijimgabbpbgpdklnllpncmdofkcpn\",\"ghbmnnjooekpmoecnnnilnnbdlolhkhi\"]"
+},
+        {
+            "name": "promos.ios_password_last_impression_timestamp",
+            "value": "\"13345535561666199\""
+},
+        {
+            "name": "alternate_error_pages.enabled",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{}"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "profile.content_settings.exceptions.font_access",
+            "value": "{}"
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.get_display_media_set_select_all_screens",
+            "value": "{}"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "extensions.pinned_extensions",
+            "value": "[\"mmeijimgabbpbgpdklnllpncmdofkcpn\"]"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{\"https://classroom.google.com:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13267214220517157\",\"model\":0,\"setting\":1},\"https://sageridge.myschoolapp.com:443,*\":{\"last_modified\":\"13325357892662084\",\"setting\":1},\"https://test.mapnwea.org:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13311362158429674\",\"model\":0,\"setting\":1}}"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"en\""
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.tracking_protection",
+            "value": "{}"
+},
+        {
+            "name": "NewTabPage.DisabledModules",
+            "value": "[]"
+},
+        {
+            "name": "ntp.custom_background_dict",
+            "value": "{\"attribution_action_url\":\"https://500px.com/photo/59843884/soft-and-steel-by-joshua-zhang\",\"attribution_line_1\":\"Photo by Joshua Zhang\",\"attribution_line_2\":\"\",\"background_main_color\":-12566957,\"background_url\":\"https://lh6.googleusercontent.com/proxy/p0j_F_ba1hPTtS3p0V42nK6hsBye7O9jl78qZyxJBQ7Tr6VKpz9aHHHr6UndLeOGIt2Doe_pNNANSxa6W26MT23UEPAz2JVfOqRMwMYOLvKz=w3840-h2160-p-k-no-nd-mv\",\"collection_id\":\"landscape_for_NTP\",\"refresh_timestamp\":0,\"resume_token\":\"\"}"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "true"
+},
+        {
+            "name": "settings.a11y.apply_page_colors_only_on_increased_contrast",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "translate_blocked_languages",
+            "value": "[\"ja\"]"
+}
+    ],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "credentials_last_password_checkup_time",
+            "value": "2022-12-02T22:45:39.414716Z"
+}},
+        {"preference": {
+            "name": "credentials_password_manager_warm_welcome_last_seen",
+            "value": "2020-04-29T16:56:07.462533056Z"
+}}
+    ],
+    "Themes": [
+        {
+            "autogenerated_theme": {"color": -16777216},
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ],
+    "App Lists": [],
+    "Web Apps": [],
+    "Search Engines": [
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13355507811330621,
+            "starter_pack_id": 3,
+            "url": "chrome://tabs/?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000003",
+            "short_name": "Tabs",
+            "keyword": "@tabs",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13360433945891487
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.britannica.com/favicon.png",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13355338942940774,
+            "starter_pack_id": 0,
+            "url": "https://www.britannica.com/search?query={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "6fac770e-0c9b-4c77-9127-37f953205ca0",
+            "short_name": "britannica.com",
+            "keyword": "britannica.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13355338942940774
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13279746359311425,
+            "url": "https://www.google.com/maps/search/{searchTerms}?hl=en&source=opensearch",
+            "new_tab_url": "",
+            "originating_url": "https://www.google.com/maps/preview/opensearch.xml?hl=en",
+            "sync_guid": "fa972a7b-476a-4892-be47-e7948df8eb6c",
+            "short_name": "Google Maps",
+            "keyword": "maps.google.com",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13279746359311425
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.wordreference.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13355616632887718,
+            "starter_pack_id": 0,
+            "url": "https://www.wordreference.com/enes/{searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "https://www.wordreference.com/home/OpenSearch?dict=enes",
+            "sync_guid": "73673590-ef02-4d0f-9775-21af3f851da7",
+            "short_name": "WR English-Spanish",
+            "keyword": "wordreference.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13355616632887718
+},
+        {
+            "suggestions_url": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
+            "favicon_url": "https://duckduckgo.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "starter_pack_id": 0,
+            "url": "https://duckduckgo.com/?q={searchTerms}",
+            "new_tab_url": "https://duckduckgo.com/chrome_newtab",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000092",
+            "short_name": "DuckDuckGo",
+            "keyword": "duckduckgo.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 92,
+            "last_modified": 13360871785841290
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://slidesgo.com/favicons/favicon-32x32.png",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13355012004254514,
+            "starter_pack_id": 0,
+            "url": "https://slidesgo.com/search?q={searchTerms}#rs=search",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "9b0ca686-0fdb-4c0b-b9ff-68173af2de4a",
+            "short_name": "slidesgo.com",
+            "keyword": "slidesgo.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13355012004254514
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13355507811330308,
+            "starter_pack_id": 1,
+            "url": "chrome://bookmarks/?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000001",
+            "short_name": "Bookmarks",
+            "keyword": "@bookmarks",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13360433945891483
+},
+        {
+            "suggestions_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:clientCacheTimeToLive}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey={google:suggestAPIKeyParameter}",
+            "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},processed_image_dimensions={google:processedImageDimensions}",
+            "favicon_url": "https://www.google.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "image_url": "{google:baseSearchByImageURL}upload",
+            "starter_pack_id": 0,
+            "url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000001",
+            "short_name": "Google",
+            "keyword": "google.com",
+            "input_encodings": "UTF-8",
+            "alternate_urls": [
+                        "{google:baseURL}#q={searchTerms}",
+                        "{google:baseURL}search#q={searchTerms}",
+                        "{google:baseURL}webhp#q={searchTerms}",
+                        "{google:baseURL}s#q={searchTerms}",
+                        "{google:baseURL}s?q={searchTerms}"
+            ],
+            "prepopulate_id": 1,
+            "last_modified": 0
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.sageridge.org/uploaded/themes/default_19/images/favicon_(13).ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13358360989656686,
+            "starter_pack_id": 0,
+            "url": "https://www.sageridge.org/search-results?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "16b78e1f-9470-4aef-80cc-5e8c37a79cf8",
+            "short_name": "sageridge.org",
+            "keyword": "sageridge.org",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13358360989656686
+},
+        {
+            "suggestions_url": "https://www.bing.com/osjson.aspx?query={searchTerms}&language={language}&PC=U316",
+            "image_url_post_params": "imageBin={google:imageThumbnailBase64}",
+            "favicon_url": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "image_url": "https://www.bing.com/images/detail/search?iss=sbiupload&FORM=CHROMI#enterInsights",
+            "starter_pack_id": 0,
+            "url": "https://www.bing.com/search?q={searchTerms}&PC=U316&FORM=CHROMN",
+            "new_tab_url": "https://www.bing.com/chrome/newtab",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000003",
+            "short_name": "Microsoft Bing",
+            "keyword": "bing.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 3,
+            "last_modified": 13360871785841276
+},
+        {
+            "suggestions_url": "https://suggest.yandex.com/suggest-ff.cgi?part={searchTerms}&{google:cursorPosition}&uil=en&v=3&sn=5",
+            "image_url_post_params": "upfile={google:imageThumbnail},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},prg=1",
+            "favicon_url": "https://yastatic.net/lego/_/rBTjd6UOPk5913OSn5ZQVYMTQWQ.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "image_url": "https://yandex.com/images/search?rpt=imageview",
+            "starter_pack_id": 0,
+            "url": "https://yandex.com/search/?text={searchTerms}&from=os&clid=1836588",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000015",
+            "short_name": "Yandex",
+            "keyword": "yandex.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 15,
+            "last_modified": 13360871785841292
+},
+        {
+            "suggestions_url": "https://search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas_sfp&command={searchTerms}",
+            "favicon_url": "https://search.yahoo.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 0,
+            "starter_pack_id": 0,
+            "url": "https://search.yahoo.com/search{google:pathWildcard}?ei={inputEncoding}&fr=crmas_sfp&p={searchTerms}",
+            "new_tab_url": "https://search.yahoo.com?fr=crmas_sfp",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000002",
+            "short_name": "Yahoo!",
+            "keyword": "yahoo.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 2,
+            "last_modified": 13360871785841283
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13242177363148475,
+            "starter_pack_id": 0,
+            "url": "https://drive.google.com/drive/search?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "https://drive.google.com/opensearch.xml",
+            "sync_guid": "738c49da-38d6-4653-9ef4-850f764438bd",
+            "short_name": "Google Drive",
+            "keyword": "drive.google.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13242177363148475
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.youtube.com/s/desktop/7c0eb0c2/img/favicon_32x32.png",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_UNSPECIFIED",
+            "date_created": 13319144595089368,
+            "starter_pack_id": 0,
+            "url": "https://www.youtube.com/results?search_query={searchTerms}&page={startPage?}&utm_source=opensearch",
+            "new_tab_url": "",
+            "originating_url": "https://www.youtube.com/opensearch?locale=en_US",
+            "sync_guid": "a2f50490-8559-49cd-a5f8-eb5f95d12656",
+            "short_name": "YouTube",
+            "keyword": "youtube.com",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13319144595089368
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13355507811330340,
+            "starter_pack_id": 2,
+            "url": "chrome://history/?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000002",
+            "short_name": "History",
+            "keyword": "@history",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13360433945891485
+},
+        {
+            "suggestions_url": "",
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "is_active": "ACTIVE_STATUS_TRUE",
+            "date_created": 13355507811330646,
+            "starter_pack_id": 4,
+            "url": "https://gemini.google.com/app?q={searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "ec205736-edd7-4022-a9a3-b431fc000004",
+            "short_name": "Gemini",
+            "keyword": "@gemini",
+            "input_encodings": "",
+            "prepopulate_id": 0,
+            "last_modified": 13360433945891489
+}
+    ]
+}

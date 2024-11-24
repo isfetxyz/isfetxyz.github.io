@@ -1,0 +1,550 @@
+{
+  "version": 1,
+  "name": "Advisory",
+  "section": "Kirkwood",
+  "description": "Advisory",
+  "room": "115",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classrooma1d5f835@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnfkFDcWJNV09VaXpPeFktWGY0RDcxRzNvUTdGTjFPQkZCakhOWlVIeTd5dFE",
+    "name": "Advisory Kirkwood",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnfkFDcWJNV09VaXpPeFktWGY0RDcxRzNvUTdGTjFPQkZCakhOWlVIeTd5dFE?resourcekey\u003d0-Wi8OB2P3y6Amk235TwpN3A"
+  },
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-08T16:36:01.490Z",
+    "updateTime": "2020-06-08T16:59:58.502Z",
+    "publicationTime": "2020-06-08T16:37:42.294Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Ndfy2eW2skgrY8ooWEapN1ppaPqMW0B-_9zQJlJSXL0",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Ndfy2eW2skgrY8ooWEapN1ppaPqMW0B-_9zQJlJSXL0"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "End of Year Speeches ",
+      "description": "Open a google doc and attach it to this assignment\nPlease write what you will say about the person you are given for Friendship Circle - Recognize them for something you think is outstanding about them and how they made a difference to you this year.\nWrite what your favorite memory of 4th grade was and why",
+      "descriptionHtml": "\u003cdiv\u003eOpen a google doc and attach it to this assignment\u003cbr\u003ePlease write what you will say about the person you are given for Friendship Circle - Recognize them for something you think is outstanding about them and how they made a difference to you this year.\u003cbr\u003eWrite what your favorite memory of 4th grade was and why\u003c/div\u003e",
+      "dueTime": "2020-06-09T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jLc5gVyktic-LlATQ_-PaIvCW_ne76noJ6r0c1G6oPw",
+              "title": "Loz McKenzie - End of Year Speeches ",
+              "alternateLink": "https://docs.google.com/document/d/1jLc5gVyktic-LlATQ_-PaIvCW_ne76noJ6r0c1G6oPw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN88xVV2xBtR1L9pf0YrdaEhZFy8e44T2bep6kGXvn4UWGE4m5ewX62v_yqABXJaXoE3LavKYk3ayMMgBPWXdHSDTSDfRdDyp6VdpZLMdbseCrKI3W2uEDCPXqwHJyDTXM4eVc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-02T16:01:04.089Z",
+    "updateTime": "2020-06-02T16:05:52.723Z",
+    "publicationTime": "2020-06-02T16:05:24.124Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1DFPwPP0CzXpT6IrzKjrS-P5m_JYbwqLwGIAKc2lkn_Q",
+          "title": "[Template] Untitled document",
+          "alternateLink": "https://docs.google.com/document/d/1IxjybvAg4S2xEAgxvlEmXJKoA37qRk8kF6hVwOGrtiE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMVUbLfW5mXZ0Ji8gMFi9Jy6Dvis0f8Q8sS98uz6klX7SKzXSra-uu4v-_9Vkn-qjzU6lPeDVpyKLOB00QNagD3KzPCNr8Sf58nxPQ6dmuzCil6Xt50vQixOD0m5CVkxHsTqA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Tuesday June 2nd How Full is Your Bucket? ",
+      "description": "Mrs. Kirkwood will read aloud and then answer these questions in the google doc. ",
+      "descriptionHtml": "\u003cdiv\u003eMrs. Kirkwood will read aloud and then answer these questions in the google doc.\u003c/div\u003e",
+      "dueTime": "2020-06-03T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1zmYy6Zrl9SGSZr80S1x6vk9l3phYASw6T-pi5qNp5AE",
+              "title": "Loz McKenzie - Untitled document",
+              "alternateLink": "https://docs.google.com/document/d/1zmYy6Zrl9SGSZr80S1x6vk9l3phYASw6T-pi5qNp5AE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMdWSN4zuPqYmYdOjpk3JLPw0Mg70KWZKsSMlglzlQt1LdbEXl3-_Q_0HSWixGwxeOzzn_PBPLnSNzaPSjPWYR1Pmn8azW3mNP-G1VE_JSdtnK8sFzKrIB_Mk7gC0RpiTOMzVc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-27T03:03:06.246Z",
+    "updateTime": "2020-05-28T15:02:24.524Z",
+    "scheduledTime": "2020-05-28T15:00:00Z",
+    "publicationTime": "2020-05-28T15:02:24.298Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVcLJKFMwFCWAgWRrxwZAXLyc9tiO6si9n5c3XI0yhmoFQAw/viewform?hr_submission\u003dChkI2--roZoBEhAIkaTPs4wDEgcItPXt_NMBEAE",
+        "title": "Day 5 I Notice, I Wonder, I Feel",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/-4XZR1wq8IcYlhoK_LmrxdC31McghNF8ZJ2ECiA1xHtmKFmVXI6N90sl1Kk9BVBs9Vhg1LUkENM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Thursday May 28th SEL I notice I wonder I feel Day 5",
+      "description": "For today\u0027s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.",
+      "descriptionHtml": "\u003cdiv\u003eFor today\u0026#39;s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.\u003c/div\u003e",
+      "dueTime": "2020-05-29T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-17T21:36:32.869Z",
+    "updateTime": "2020-05-21T15:01:46.287Z",
+    "scheduledTime": "2020-05-21T15:00:00Z",
+    "publicationTime": "2020-05-21T15:01:45.994Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdTge__4vAfPfuISBob9W_T9TH5jJovugJg_gqznW-Z3mfI9Q/viewform?hr_submission\u003dChkI2--roZoBEhAI0M7Zw4ADEgcItPXt_NMBEAE",
+        "title": "Day 4 I Notice, I Wonder, I Think ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/wyTAxe-y1AoIHKg7Vv3Aa6Lt3ybYOuXfskDn9Qu4gTU34NlklyZsTdAaLe77yF93iVbwueCAWPQ\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/21 SEL I Notice, I wonder, I feel Day 4",
+      "description": "For today\u0027s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.",
+      "descriptionHtml": "\u003cdiv\u003eFor today\u0026#39;s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.\u003c/div\u003e",
+      "dueTime": "2020-05-22T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-17T21:24:12.544Z",
+    "updateTime": "2020-05-19T15:02:52.978Z",
+    "scheduledTime": "2020-05-19T15:00:00Z",
+    "publicationTime": "2020-05-19T15:02:52.723Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdyPkP3-a-Gv8ythiw42jqSOamLCdk7BMwNfTTip4CKislr4A/viewform?hr_submission\u003dChkI2--roZoBEhAIkoH9zIADEgcItPXt_NMBEAE",
+        "title": "Day 3 I Notice, I Wonder, I Feel",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/AUr7rIbAGYsc0TUPgb3nGtL8qUJCGTpFdf5AKFrzFtxReLem1zulVsOP9pKMOdK8Nw0AqqIR_OE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/19 SEL I Notice, I wonder, I feel  Day 3",
+      "description": "For today\u0027s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.",
+      "descriptionHtml": "\u003cdiv\u003eFor today\u0026#39;s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.\u003c/div\u003e",
+      "dueTime": "2020-05-20T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T19:50:42.067Z",
+    "updateTime": "2020-05-14T15:02:35.011Z",
+    "scheduledTime": "2020-05-14T15:00:00Z",
+    "publicationTime": "2020-05-14T15:02:34.683Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWxt__v5A0oA1jeKea-Gcpw6IsHVytvz8GbA8kddyGveWx2g/viewform?hr_submission\u003dChkI2--roZoBEhAIlb_Q57kCEgcItPXt_NMBEAE",
+        "title": "Day 2 I Notice, I Wonder, I Feel ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/quKOXu9A_GVqNTZMTZ5u4FuuOIe8bl9Xn75ibtprupP-uuTLG_1kNyFEWDtVfA8QYiKoLpcV9hc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Notice, Wonder, and Feel Day 2",
+      "description": "For today\u0027s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form. ",
+      "descriptionHtml": "\u003cdiv\u003eFor today\u0026#39;s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.\u003c/div\u003e",
+      "dueTime": "2020-05-15T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T18:09:47.361Z",
+    "updateTime": "2020-05-18T03:01:27.399Z",
+    "scheduledTime": "2020-05-14T15:00:00Z",
+    "publicationTime": "2020-05-14T15:02:23.066Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Art \u0026 Craft Projects"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Sx7puiYC9i43CZ-3S1tpv5EdZnCCB18R",
+          "title": "[Template] Recycled Craft Project KTMB.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KmJHlMNhMblJv21ckj9HEkw_wh8qnLBE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNr8wUXP-G-T75a8CfkJWrdqAMBSz6RNbUGrQZnpkGcQKb_UouAnA7nuMuUIRNyz-SFeBv143FvoG8IH3XLFxDhT8NdYgdTg2VBvWBm5iwsCA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "link": {
+        "url": "https://us02web.zoom.us/j/4819708752",
+        "title": "Launch Meeting - Zoom",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://us02web.zoom.us/j/4819708752"
+      }
+    }],
+    "courseWork": {
+      "title": "Earth Day Recycled Craft Project Presentation Zoom Meeting",
+      "description": "Open the material and read the letter and directions on what to do for the craft.  You can be as creative as you like.  The materials you use must be 100% something you have used that you would otherwise throw away or recycle.  Examples of materials: glass bottles or jars, cans, plastic bottles or jugs, cardboard, used Styrofoam, and paper.  When you finish you will write about your project directly in the PDF attached and submit that for a writing grade. \nSave the PDF to your Google Drive\nOpen your PDF in Acrobat and write directly in it. \n\n**If you cannot type in the PDF, you can type a google doc and attach it to this assignment**\n\nZOOM LINK:\nMelissa Kirkwood is inviting you to a scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 481 970 8752\nPassword: 124928",
+      "descriptionHtml": "\u003cdiv\u003eOpen the material and read the letter and directions on what to do for the craft.  You can be as creative as you like.  The materials you use must be 100% something you have used that you would otherwise throw away or recycle.  Examples of materials: glass bottles or jars, cans, plastic bottles or jugs, cardboard, used Styrofoam, and paper.  When you finish you will write about your project directly in the PDF attached and submit that for a writing grade. \u003cbr\u003eSave the PDF to your Google Drive\u003cbr\u003eOpen your PDF in Acrobat and write directly in it. \u003cbr\u003e\u003cbr\u003e**If you cannot type in the PDF, you can type a google doc and attach it to this assignment**\u003cbr\u003e\u003cbr\u003eZOOM LINK:\u003cbr\u003eMelissa Kirkwood is inviting you to a scheduled Zoom meeting.\u003cbr\u003e\u003cbr\u003eJoin Zoom Meeting\u003cbr\u003ehttps://us02web.zoom.us/j/4819708752\u003cbr\u003e\u003cbr\u003eMeeting ID: 481 970 8752\u003cbr\u003ePassword: 124928\u003c/div\u003e",
+      "dueTime": "2020-05-20T16:30:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "141rc4W-rcSoU-NRp0OdFOlUpSE3oq6WI",
+              "title": "Loz McKenzie - Recycled Craft Project KTMB.pdf",
+              "alternateLink": "https://drive.google.com/file/d/141rc4W-rcSoU-NRp0OdFOlUpSE3oq6WI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhC2seV9G98XrTQiRi3ioREJUyYT5cvR72nPdwQH2fWGPoX7cBsrBlxJ-8W6Ps6QEVrwphJ0pPwmEvp55sRRmTzrZVdDGcUKawB5-iI6Sjp9o\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1ba2lFE9do4NeT-n8Q77mWe9otJx-1NNf6LZGt4Iuliw",
+              "title": "Loz McKenzie - Earth Day Recycled Craft Project Presentation Zoom Meeting",
+              "alternateLink": "https://docs.google.com/document/d/1ba2lFE9do4NeT-n8Q77mWe9otJx-1NNf6LZGt4Iuliw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOBSS0adRT1WdF9H7XP41dex4UtJ27vQxvcGQj6BtXa_8jy1ZUVl-obj_EvCcI58CxAYaZGf7CnfRHNn4jB4Xr6nrgccs63Pn_3cAGVqOnM9lWnXlHgk3O1syiKwfK7QUHv6CU\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-20T17:31:54.284Z",
+          "updateTime": "2020-05-20T17:31:53.897Z",
+          "comment": "Excellent and very creative I love that you made something that you can use to help you stay organized.",
+          "commentHtml": "\u003cdiv\u003eExcellent and very creative I love that you made something that you can use to help you stay organized.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T19:31:33.832Z",
+    "updateTime": "2020-05-12T15:01:57.373Z",
+    "scheduledTime": "2020-05-12T15:00:00Z",
+    "publicationTime": "2020-05-12T15:01:57.164Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQ5Dneq1OYZIwTs15mzBerwJ0lbRsAA8DZASjXMXtmzDSOqA/viewform?hr_submission\u003dChkI2--roZoBEhAIhuiE4vgCEgcItPXt_NMBEAE",
+        "title": "Day 1 I Notice, I Wonder, I Feel",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/XQHN9acSVUYnU-reXmiPaNU2Bq8xFgRBSkphd8xXLx9bCqOmX2jH4IN58fPwR-Myc4DLKrDzSW8\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "I Notice, Wonder, Feel Day 1",
+      "description": "For today\u0027s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form. ",
+      "descriptionHtml": "\u003cdiv\u003eFor today\u0026#39;s SEL lesson you are going to think about all that we know about feelings, facial expressions, and body language to write about what you see in the picture in the google form.\u003c/div\u003e",
+      "dueTime": "2020-05-13T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-03T20:46:50.849Z",
+    "updateTime": "2020-05-07T15:00:17.403Z",
+    "scheduledTime": "2020-05-07T15:00:00Z",
+    "publicationTime": "2020-05-07T15:00:17.111Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-OkCgZgIQzHTqiew_y2fRqTPJaO6K4SrJiOpAoeEqSPkIXw/viewform?hr_submission\u003dChkI2--roZoBEhAIj_-Lx-QCEgcItPXt_NMBEAA",
+        "title": "May 7th SEL at Home Day 10 Reflection",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/VFSepkWFEjzTyEa0LKFBJHk1eWUM073u3WvLP_iVxaEWzvoVkBCWW63nqHRzE9zr1h2LPwhrn8A\u003dw90-h90-p"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1098_1yJCa1JLzSmF9ZlPY9NGCsCaUTf2flvuMZN_Adg",
+          "alternateLink": "https://drive.google.com/open?id\u003d1098_1yJCa1JLzSmF9ZlPY9NGCsCaUTf2flvuMZN_Adg"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "May 7th SEL at Home Day 10",
+      "description": "With the class review the slides an watch the video.  \nAfter the class review, respond to the reflection here in Google Forms ",
+      "descriptionHtml": "\u003cdiv\u003eWith the class review the slides an watch the video.  \u003cbr\u003eAfter the class review, respond to the reflection here in Google Forms\u003c/div\u003e",
+      "dueTime": "2020-05-09T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-03T20:42:23.660Z",
+    "updateTime": "2020-05-05T15:03:56.863Z",
+    "scheduledTime": "2020-05-05T15:00:00Z",
+    "publicationTime": "2020-05-05T15:03:56.593Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Social Emotional Learning"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdOSz65BKg1UAtbmkijKVSBMSF7WNTYAHJmMkHGG1acuGfcVw/viewform?hr_submission\u003dChkI2--roZoBEhAIkf6Lx-QCEgcItPXt_NMBEAA",
+        "title": "May 5th SEL @ Home day 9",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/5EfLW6W5tLvrw5QSSmuTz29N7m6aVkyBb_ESavqpRPcgKS6dsDLaw8Y6iPfMCkXMZVJY78nQC0o\u003dw90-h90-p"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1JQwNvHIcnCALRqzBlDA20dKVncD_gPfx2yC3bIi6OZQ",
+          "alternateLink": "https://drive.google.com/open?id\u003d1JQwNvHIcnCALRqzBlDA20dKVncD_gPfx2yC3bIi6OZQ"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "May 5th SEL @ Home day 9",
+      "description": "With the class on zoom reveiw the slides and watch the video\nAfter class presentation click the google form and complete the reflection ",
+      "descriptionHtml": "\u003cdiv\u003eWith the class on zoom reveiw the slides and watch the video\u003cbr\u003eAfter class presentation click the google form and complete the reflection\u003c/div\u003e",
+      "dueTime": "2020-05-07T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-30T19:08:31.446Z",
+    "updateTime": "2020-04-30T19:09:05.944Z",
+    "publicationTime": "2020-04-30T19:09:05.894Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Class Art \u0026 Craft Projects"
+    }],
+    "courseWork": {
+      "title": "Volcano Class Drawing!",
+      "description": "Upload  your Volcano Directed Draw",
+      "descriptionHtml": "\u003cdiv\u003eUpload  your Volcano Directed Draw\u003c/div\u003e",
+      "dueTime": "2020-05-02T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1IpfC0QEJfWqHVq1n-GVJ9S1_NUSZqauO",
+              "title": "IMG_1583.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1IpfC0QEJfWqHVq1n-GVJ9S1_NUSZqauO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM7Ow6WnshaWXmXzaY5a3VZ2IdQTLMOPbL3rBkMNEK_e5jEz66Lxy_eU_XE8lnhgIiVBs8weuISpsiBwAS4dDXLmdoAv4W8Mntl-0n-z1iN8aE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

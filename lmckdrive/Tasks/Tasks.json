@@ -1,0 +1,42 @@
+{
+  "kind": "tasks#taskLists",
+  "items": [{
+    "kind": "tasks#tasks",
+    "id": "MDU5NjM3ODkxNjg5MTc0MDQwNDQ6MDow",
+    "title": "My Tasks",
+    "updated": "2024-05-10T20:22:06.911951Z",
+    "items": [
+      {
+        "kind": "tasks#task",
+        "created": "2024-05-10T20:22:06.890572Z",
+        "links": [{
+          "link": "https://mail.google.com/mail/#all/18f634ad97e54677",
+          "type": "email",
+          "desc": "Sub Plan Friday May 10"
+        }],
+        "id": "cFVRWmtYdzBMRjhXYWVjUw",
+        "title": "Sub Plan Friday May 10",
+        "task_type": "PERSONAL_TASK",
+        "updated": "2024-05-10T20:22:06.911951Z",
+        "selfLink": "https://www.googleapis.com/tasks/v1/lists/MDU5NjM3ODkxNjg5MTc0MDQwNDQ6MDow/tasks/cFVRWmtYdzBMRjhXYWVjUw",
+        "status": "needsAction"
+      },
+      {
+        "kind": "tasks#task",
+        "created": "2020-10-04T00:11:05.791826Z",
+        "links": [{
+          "link": "https://mail.google.com/mail/#all/174f0f221620d1e1",
+          "type": "email",
+          "desc": "Advisory"
+        }],
+        "id": "Z0E4RDlqZ0l5ZkNGWXNnaQ",
+        "title": "Advisory",
+        "task_type": "PERSONAL_TASK",
+        "updated": "2020-10-04T00:11:05.974527Z",
+        "selfLink": "https://www.googleapis.com/tasks/v1/lists/MDU5NjM3ODkxNjg5MTc0MDQwNDQ6MDow/tasks/Z0E4RDlqZ0l5ZkNGWXNnaQ",
+        "status": "needsAction"
+      }
+    ],
+    "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MDU5NjM3ODkxNjg5MTc0MDQwNDQ6MDow"
+  }]
+}

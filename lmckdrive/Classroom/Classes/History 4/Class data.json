@@ -1,0 +1,1314 @@
+{
+  "version": 1,
+  "name": "History 4",
+  "section": "G",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroom5175e8c5@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnfkx4SDRxeGRmZFpnRW02YjlFUGFPN2kxRklQZk9VUEFHUjF2VFU1azNBZjQ",
+    "name": "Nevada Historians",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnfkx4SDRxeGRmZFpnRW02YjlFUGFPN2kxRklQZk9VUEFHUjF2VFU1azNBZjQ?resourcekey\u003d0-u0ZVcM1yC3yGkurz-CEwAA"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/SocialStudies.jpg",
+  "subject": "Social Studies",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-01T04:34:27.792Z",
+    "updateTime": "2020-06-04T21:35:51.743Z",
+    "scheduledTime": "2020-06-04T15:00:00Z",
+    "publicationTime": "2020-06-04T15:01:04.810Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8 \"Entering a New Century\""
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1wiQE-HqhtUWub6ZRSncKpNPdUwCFF6JzfJFncQUHy4E",
+          "title": "[Template] Nevada Our Home Chapter 8 “Entering a New Century”",
+          "alternateLink": "https://docs.google.com/document/d/1k9KVlEEURZoAB2XksHOlIz-SXtuShu78Ozc8AUHeQdI/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOmmUXe8tGYHl2hH81zZ-KONgGBALEaHrLyIzN1yzeOtOHSpkhVUyfyvVFPtLVcfn9nJCvLnfbgjyx1XlqGf8aAPYpkGVvdgjBThDwlLN13-uCrMsG2-V92TmyvSQSB7LB-iGw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Nevada Our Home Chapter 8 “Entering a New Century” \nInventions\n",
+      "description": "Read pages 161 - 173 in Nevada Our Home\nOpen the Google Doc below and answer the Inventions Chart.  There are 2 pages with 8 total inventions to write about. \nUse complete sentences:\nRestate the question\nUse Text evidence\nCAPS\nSubmit your assignment when you are done. ",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 161 - 173 in Nevada Our Home\u003cbr\u003eOpen the Google Doc below and answer the Inventions Chart.  There are 2 pages with 8 total inventions to write about. \u003cbr\u003eUse complete sentences:\u003cbr\u003eRestate the question\u003cbr\u003eUse Text evidence\u003cbr\u003eCAPS\u003cbr\u003eSubmit your assignment when you are done.\u003c/div\u003e",
+      "dueTime": "2020-06-05T06:59:00Z",
+      "maxPoints": 32.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 32.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1bOxS2sEeJiKCDOMDaeEH2EgGnQh8YG3D8yoLFEYK5Uo",
+              "title": "Loz McKenzie - Nevada Our Home Chapter 8 “Entering a New Century”",
+              "alternateLink": "https://docs.google.com/document/d/1bOxS2sEeJiKCDOMDaeEH2EgGnQh8YG3D8yoLFEYK5Uo/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNl9Nr_hGuZw_602OtdaY6F5d07YZyHd-wNqXoanh3k1mWOKwnatGW9GsOINbq2Jkv2-cehUNKg5NIgxX5K-hlhpPLdG34dWKK_9zPjl8LRDeyDTLDAMsgdDVv3Q0VS_hNFUA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-01T04:15:34.440Z",
+    "updateTime": "2020-06-04T21:34:38.327Z",
+    "scheduledTime": "2020-06-01T15:00:00Z",
+    "publicationTime": "2020-06-01T15:02:07.659Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8 \"Entering a New Century\""
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "13IkglnU6y7m-HTq90sFtIEnfCgRTzpYAOW8g1CrJiCQ",
+          "title": "[Template] Anticipation Guide: Chapter 8 Nevada Our Home: Entering a New Century",
+          "alternateLink": "https://docs.google.com/document/d/14YcovC4sCrz3Sfg9He65-rOJ2B_8eY06jF7CBpibZ0I/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOCYziW-AYqlp1510pNimEA93ET0oqeow33BkwriyDhgMWtSCsgjDSRcdun6xwduO9tvB6usR5VWrUlp8pRxZy52dD7c7AnR1kj3wYdfJWKTIFlPnQ4RTVzNqldBLhjUZP6B_o\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "NVOH Chapter 8 \"Entering a New Century\" Anticipation Guide",
+      "description": "Use pages 156 - 157 the time line for Chapter 8 in Nevada Our Home\nOpen the Google Doc\nRead the directions\nType the answers to each question in the Before boxes to tell what you Know before reading.\nWe will check back on this after we read through the chapter to see if our predictions are correct or if we need to write an updated correct answer in the After boxes as we read. \nRemember that you need complete sentences to answer each question.",
+      "descriptionHtml": "\u003cdiv\u003eUse pages 156 - 157 the time line for Chapter 8 in Nevada Our Home\u003cbr\u003eOpen the Google Doc\u003cbr\u003eRead the directions\u003cbr\u003eType the answers to each question in the Before boxes to tell what you Know before reading.\u003cbr\u003eWe will check back on this after we read through the chapter to see if our predictions are correct or if we need to write an updated correct answer in the After boxes as we read. \u003cbr\u003eRemember that you need complete sentences to answer each question.\u003c/div\u003e",
+      "dueTime": "2020-06-02T06:59:00Z",
+      "maxPoints": 22.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 22.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Qk4eYE1swW_zQTwH5YiDggz1gthUnugQPK4i_RCFtNw",
+              "title": "Loz McKenzie - Anticipation Guide: Chapter 8 Nevada Our Home: Entering a New Century",
+              "alternateLink": "https://docs.google.com/document/d/1Qk4eYE1swW_zQTwH5YiDggz1gthUnugQPK4i_RCFtNw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMl_Ng37WYuSHjjnu9xv1abz11Bw_Le4Ha5xtpD3iOQW33ZHC2m54s216E65AnQ0XeEHjDUKSf37cwqAD8takfUE2qS-djlpsDTjFcKo4OoRkc6d-ekT4z70s74XnK4NkCrjw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-27T01:46:26.183Z",
+    "updateTime": "2020-06-04T21:27:51.420Z",
+    "scheduledTime": "2020-05-29T15:00:00Z",
+    "publicationTime": "2020-05-29T15:01:34.836Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assessments \u0026 Quizzes"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScZVy05ei7CvodYw2irHO8uOlLz5YNcOnVBHZMbuWQzjOk_yQ/viewform?hr_submission\u003dChkI2--roZoBEhAI_7D6rYwDEgcI4ufv3pgBEAE",
+        "title": "NVOH Chapter 7 Assessment",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/e1WYv2NaiDQcL8Fbig1TzORkyMS_6FUaJH2hx2KIWTDYeq68tMRSzTpgDbrxUlRjvNFIB7k8fyk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "NVOH Chapter 7 Assessment",
+      "description": "You may use your textbook and any materials from Chapter 7 \nYou may NOT use any internet searches or talking to classmates for the assessment\n\nMultiple Choice, Matching, and Fill in the blank are each worth 1 point and have 1 correct answer\nEssay questions require a paragraph format answer in 5 - 8 sentences that answer the question for a total of 10 points each.\nReread your answers.\nRemember:\nRestate questions\nUse evidence from the text\nCAPS",
+      "descriptionHtml": "\u003cdiv\u003eYou may use your textbook and any materials from Chapter 7 \u003cbr\u003eYou may NOT use any internet searches or talking to classmates for the assessment\u003cbr\u003e\u003cbr\u003eMultiple Choice, Matching, and Fill in the blank are each worth 1 point and have 1 correct answer\u003cbr\u003eEssay questions require a paragraph format answer in 5 - 8 sentences that answer the question for a total of 10 points each.\u003cbr\u003eReread your answers.\u003cbr\u003eRemember:\u003cbr\u003eRestate questions\u003cbr\u003eUse evidence from the text\u003cbr\u003eCAPS\u003c/div\u003e",
+      "dueTime": "2020-05-30T06:59:00Z",
+      "maxPoints": 38.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 34.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScZVy05ei7CvodYw2irHO8uOlLz5YNcOnVBHZMbuWQzjOk_yQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "NVOH Chapter 7 Assessment",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/e1WYv2NaiDQcL8Fbig1TzORkyMS_6FUaJH2hx2KIWTDYeq68tMRSzTpgDbrxUlRjvNFIB7k8fyk\u003dw90-h90-p"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-06-03T00:00:34.391Z",
+          "updateTime": "2020-06-03T00:00:33.986Z",
+          "comment": "Please open your returned work and read the feedback I wrote on your essay questions.",
+          "commentHtml": "\u003cdiv\u003ePlease open your returned work and read the feedback I wrote on your essay questions.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T00:54:57.349Z",
+    "updateTime": "2020-06-04T21:27:55.488Z",
+    "scheduledTime": "2020-05-21T15:00:00Z",
+    "publicationTime": "2020-05-21T15:03:15.944Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc1TCwMPXDZVrYym3bk8lf27A01hmA-cox7dG1WLMn-nVhMGA/viewform?hr_submission\u003dChkI2--roZoBEhAI2MqE34ADEgcI4ufv3pgBEAE",
+        "title": "5/21 NVOH Chapter 7 Lesson 4 - Independent work",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/OzRszswlMpma364ToVH3s_UaZk4KXyCsPsTc66DI7HFxrrHg6lvoAI-Pzn1ixTyr68u9ldwgWdg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/21 NVOH Chapter 7 Lesson 4 - Independent work",
+      "description": "Review pages 146 - 153\n\nComplete NVOH Chapter 7 Lesson 4 \n\nPeople to know, Vocabulary, \u0026 Memory master questions\n\nFor the People to Know:  Write a fact about each person in a short sentence.\n\nFor the Vocabulary Words you can use the text to help define it and check the glossary for accuracy.\n\n Remember that the Memory Master Questions need a 3 part text based answer:\n\n1) restate the question\n\n2) Use text evidence\n\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eReview pages 146 - 153\u003cbr\u003e\u003cbr\u003eComplete NVOH Chapter 7 Lesson 4 \u003cbr\u003e\u003cbr\u003ePeople to know, Vocabulary, \u0026amp; Memory master questions\u003cbr\u003e\u003cbr\u003eFor the People to Know:  Write a fact about each person in a short sentence.\u003cbr\u003e\u003cbr\u003eFor the Vocabulary Words you can use the text to help define it and check the glossary for accuracy.\u003cbr\u003e\u003cbr\u003e Remember that the Memory Master Questions need a 3 part text based answer:\u003cbr\u003e\u003cbr\u003e1) restate the question\u003cbr\u003e\u003cbr\u003e2) Use text evidence\u003cbr\u003e\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-22T06:59:00Z",
+      "maxPoints": 24.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 23.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc1TCwMPXDZVrYym3bk8lf27A01hmA-cox7dG1WLMn-nVhMGA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "5/21 NVOH Chapter 7 Lesson 4 - Independent work",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/OzRszswlMpma364ToVH3s_UaZk4KXyCsPsTc66DI7HFxrrHg6lvoAI-Pzn1ixTyr68u9ldwgWdg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T01:03:52.471Z",
+    "updateTime": "2020-05-29T22:31:06.530Z",
+    "scheduledTime": "2020-05-18T15:00:00Z",
+    "publicationTime": "2020-05-18T15:04:07.362Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework \u0026 Extensions"
+    }],
+    "courseWork": {
+      "title": "5/18 NVOH Homework Reading Response: ",
+      "description": "Read pages 146 - 153\nEarly Nevadans had a character trait we call perseverance (not giving up and continuing to try their best in the face of the unknown), give two examples of people persevering in lesson 4 of chapter 7 NVOH.  \nWrite a sentence or two to respond to this prompt after you read. ",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 146 - 153\u003cbr\u003eEarly Nevadans had a character trait we call perseverance (not giving up and continuing to try their best in the face of the unknown), give two examples of people persevering in lesson 4 of chapter 7 NVOH.  \u003cbr\u003eWrite a sentence or two to respond to this prompt after you read.\u003c/div\u003e",
+      "dueTime": "2020-05-20T06:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "One way the early Nevadans showed perseverance was when Sarah Winnemucca tried to teach her people about the importance of a good education so they would not give up.  The final way the early Nevadans showed perseverance was when Helen Stewart\u0027s husband  was killed she obtained the 1,000 acre ranch in Las Vegas and kept it going. "
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T00:35:10.924Z",
+    "updateTime": "2020-05-29T22:31:10.527Z",
+    "scheduledTime": "2020-05-18T15:00:00Z",
+    "publicationTime": "2020-05-18T15:00:30.733Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfEqdcmenyYSIjnU-0M8cw-ZiFDR-bJKyv-DJHCsmAw8miIFQ/viewform?hr_submission\u003dChkI2--roZoBEhAInLqD34ADEgcI4ufv3pgBEAE",
+        "title": "5/18 NVOH Chapter 7 Lesson 3",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/kCWxXwDA2Ebn7G2Niukf3FxacZz7AqHVayJOwrVu4Mm91LL4bt4bM13QrIMysZ1Vm9a7OC5ZtO4\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/18 NVOH Chapter 7 Lesson 3",
+      "description": "Read pages 141 to 145 with your partner.  \nThen together you will answer the Lesson 3 questions in the google form below answer the Vocabulary words to know and the memory master questions.\nFor the Vocabulary Words you can use the text to help define it and check the glossary for accuracy. \nRemember that the Memory Master Questions need a 3 part text based answer:\n1) restate the question\n2) Use text evidence\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 141 to 145 with your partner.  \u003cbr\u003eThen together you will answer the Lesson 3 questions in the google form below answer the Vocabulary words to know and the memory master questions.\u003cbr\u003eFor the Vocabulary Words you can use the text to help define it and check the glossary for accuracy. \u003cbr\u003eRemember that the Memory Master Questions need a 3 part text based answer:\u003cbr\u003e1) restate the question\u003cbr\u003e2) Use text evidence\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-19T06:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfEqdcmenyYSIjnU-0M8cw-ZiFDR-bJKyv-DJHCsmAw8miIFQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "5/18 NVOH Chapter 7 Lesson 3",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/kCWxXwDA2Ebn7G2Niukf3FxacZz7AqHVayJOwrVu4Mm91LL4bt4bM13QrIMysZ1Vm9a7OC5ZtO4\u003dw90-h90-p"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-28T21:28:13.335Z",
+          "updateTime": "2020-05-28T21:28:12.991Z",
+          "comment": "Please ope your returned work and read feedback where you missed points.  This will help you to improve for future assignments",
+          "commentHtml": "\u003cdiv\u003ePlease ope your returned work and read feedback where you missed points.  This will help you to improve for future assignments\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-12T00:26:59.782Z",
+    "updateTime": "2020-05-29T22:31:14.575Z",
+    "scheduledTime": "2020-05-15T15:00:00Z",
+    "publicationTime": "2020-05-15T15:04:10.057Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework \u0026 Extensions"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwJFj0aOm74isvVpVTtDYV9nLBW5URN-UQk2B-HTZoC3-ADQ/viewform?hr_submission\u003dChkI2--roZoBEhAIg-TilvkCEgcI4ufv3pgBEAE",
+        "title": "5/15 Homework Chapter 7.2 Vocabulary and People",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/W2ZxNJzikoD3iF2hAYRGR2nC56d32gwkYu6H7pfcSeVUNe-YivAnNyXps3L5dkkl-ISqmZ7Idmg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/15 Homework Chapter 7.2 Vocabulary and People",
+      "description": "Open the assignment below, this goes with pages 133 - 140 Chapter 7. 2 NVOH that we read today in History \n Write one fact about each \"Person to Know\" \n Write the definition for each Vocabulary word. \n",
+      "descriptionHtml": "\u003cdiv\u003eOpen the assignment below, this goes with pages 133 - 140 Chapter 7. 2 NVOH that we read today in History \u003cbr\u003e Write one fact about each \u0026quot;Person to Know\u0026quot; \u003cbr\u003e Write the definition for each Vocabulary word.\u003c/div\u003e",
+      "dueTime": "2020-05-17T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 12.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwJFj0aOm74isvVpVTtDYV9nLBW5URN-UQk2B-HTZoC3-ADQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "5/15 Homework Chapter 7.2 Vocabulary and People",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/W2ZxNJzikoD3iF2hAYRGR2nC56d32gwkYu6H7pfcSeVUNe-YivAnNyXps3L5dkkl-ISqmZ7Idmg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-12T00:21:30.438Z",
+    "updateTime": "2020-05-29T22:31:19.306Z",
+    "scheduledTime": "2020-05-15T15:00:00Z",
+    "publicationTime": "2020-05-15T15:02:31.695Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwi-MA-rgpU4HRX9Q6kCoct9tPNXX-7C8ZKbSVpPx3Gscmfg/viewform?hr_submission\u003dChkI2--roZoBEhAIt83ilvkCEgcI4ufv3pgBEAE",
+        "title": "Chapter 7.2 Memory Masters and Essay Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/siZ5ltgQgnwHl9pVXJDWqktRtFDDP_CddwdOceF5u0QzD9fOvCpbqRZlMB3UNKiFFP3NV38JKlk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 7.2 Memory Masters and Essay Questions",
+      "description": "Read pages 133 - 140 in Chapter 7 NVOH\nOpen the assignment and respond to the questions \nRemember that a text based answer has 3 elements:\n1) Restate the Question\n2) Use evidence from the text\n3) CAPS\n\nEssay Questions need to be in paragraph format:\nTopic sentence\nDetail/Explanation sentences\nClosing Sentence ",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 133 - 140 in Chapter 7 NVOH\u003cbr\u003eOpen the assignment and respond to the questions \u003cbr\u003eRemember that a text based answer has 3 elements:\u003cbr\u003e1) Restate the Question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003cbr\u003e\u003cbr\u003eEssay Questions need to be in paragraph format:\u003cbr\u003eTopic sentence\u003cbr\u003eDetail/Explanation sentences\u003cbr\u003eClosing Sentence\u003c/div\u003e",
+      "dueTime": "2020-05-16T06:59:00Z",
+      "maxPoints": 17.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 16.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwi-MA-rgpU4HRX9Q6kCoct9tPNXX-7C8ZKbSVpPx3Gscmfg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 7.2 Memory Masters and Essay Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/siZ5ltgQgnwHl9pVXJDWqktRtFDDP_CddwdOceF5u0QzD9fOvCpbqRZlMB3UNKiFFP3NV38JKlk\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T23:42:30.721Z",
+    "updateTime": "2020-05-29T22:31:23.562Z",
+    "scheduledTime": "2020-05-13T15:00:00Z",
+    "publicationTime": "2020-05-13T15:04:35.775Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf9syq_6sy4wApUq6R6jsoSBJ8QM0BF12ALIf1nGVVKbcO5wA/viewform?hr_submission\u003dChkI2--roZoBEhAIq7us_PgCEgcI4ufv3pgBEAE",
+        "title": "Where\u0027s the Beef Cattle Rangers Close Read Comprehension Questions.",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/9wZ3uFK6XS1qv1jFFTuGbEx-tKolXe4EIUD1Bj94M42jp7r8qDaEbkJGwSyKLQ_k8veUxUDmTtw\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Where\u0027s the Beef Cattle Rangers Close Read Comprehension Questions.",
+      "description": "Click the assignment below and answer the comprehension questions.\nSome questions will be Multiple Choice and have 1 answer\nSome questions will be short answer and you will need to answer in complete text based answers. \n1) Restate the question\n2) Use evidence from the text\n3) CAPS",
+      "descriptionHtml": "\u003cdiv\u003eClick the assignment below and answer the comprehension questions.\u003cbr\u003eSome questions will be Multiple Choice and have 1 answer\u003cbr\u003eSome questions will be short answer and you will need to answer in complete text based answers. \u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003c/div\u003e",
+      "dueTime": "2020-05-14T06:59:00Z",
+      "maxPoints": 19.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 17.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf9syq_6sy4wApUq6R6jsoSBJ8QM0BF12ALIf1nGVVKbcO5wA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Where\u0027s the Beef Cattle Rangers Close Read Comprehension Questions.",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/9wZ3uFK6XS1qv1jFFTuGbEx-tKolXe4EIUD1Bj94M42jp7r8qDaEbkJGwSyKLQ_k8veUxUDmTtw\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-03T22:25:47.379Z",
+    "updateTime": "2020-05-29T22:31:28.606Z",
+    "scheduledTime": "2020-05-07T15:00:00Z",
+    "publicationTime": "2020-05-07T15:02:06.175Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYeoqitBVEyjqK6GEr_yH3cUY9rU-YLPCvCy4P6c6Z4vzJbQ/viewform?hr_submission\u003dChkI2--roZoBEhAIw5Sg2OQCEgcI4ufv3pgBEAE",
+        "title": "People To Know",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/R4RVJMKR69RcJaJnAm1NHH4SINWanvwEIRC2_CQql0v2qGkVlst-CF5U7IaexefXVIv2a-JS2K0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 7 Lesson 1 NVOH",
+      "description": "Read Nevada our Home Chapter 7 pages 126 - 132\nComplete the following activity answering about People to Know, Vocabulary, and Memory Master Questions. \nRemember Memory Master questions MUST have a 3 part text based answer\n1) Restate the question\n2) Use evidence from the text\n3) CAPS\n***Read ALL directions Carefully***",
+      "descriptionHtml": "\u003cdiv\u003eRead Nevada our Home Chapter 7 pages 126 - 132\u003cbr\u003eComplete the following activity answering about People to Know, Vocabulary, and Memory Master Questions. \u003cbr\u003eRemember Memory Master questions MUST have a 3 part text based answer\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e3) CAPS\u003cbr\u003e***Read ALL directions Carefully***\u003c/div\u003e",
+      "dueTime": "2020-05-09T06:59:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 25.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYeoqitBVEyjqK6GEr_yH3cUY9rU-YLPCvCy4P6c6Z4vzJbQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "People To Know",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/R4RVJMKR69RcJaJnAm1NHH4SINWanvwEIRC2_CQql0v2qGkVlst-CF5U7IaexefXVIv2a-JS2K0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-03T21:51:19.507Z",
+    "updateTime": "2020-05-29T22:31:32.667Z",
+    "scheduledTime": "2020-05-04T15:00:00Z",
+    "publicationTime": "2020-05-04T15:02:17.370Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScSsLLmmvScP5Lz424KyKhwTnGJ2aaqvIqpPm3D32Cx8-_A6g/viewform?hr_submission\u003dChkI2--roZoBEhAIgfCg1-QCEgcI4ufv3pgBEAE",
+        "title": "Exploring in a Time Machine \u0026 Schools Then \u0026 Now",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/5dj5Ydu6eQa02qhahQ96AW1xoKXQPFGTzK4fJdAAc0NrSAnoYEyIfQ2WeyOge1Fzg6bXbvRIW3E\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Exploring in a Time Machine \u0026 Schools Then \u0026 Now",
+      "description": "Read pages 149 - 151 in Nevada Our Home Chapter 7\nComplete the assignment to accompany the material you read about what school might have been like back in the 1800\u0027s \nMake sure to use evidence from the text to answer each question. \n***Read ALL Directions Carefully***  \n\nHere are some supplemental links to help see what school was like in the 1800\u0027s\nhttps://www.history.com/news/in-early-1800s-american-classrooms-students-governed-themselves\nhttps://curioushistorian.com/schools-in-the-1800s-insight-into-the-life-of-a-pioneer-school-teacher",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 149 - 151 in Nevada Our Home Chapter 7\u003cbr\u003eComplete the assignment to accompany the material you read about what school might have been like back in the 1800\u0026#39;s \u003cbr\u003eMake sure to use evidence from the text to answer each question. \u003cbr\u003e***Read ALL Directions Carefully***  \u003cbr\u003e\u003cbr\u003eHere are some supplemental links to help see what school was like in the 1800\u0026#39;s\u003cbr\u003ehttps://www.history.com/news/in-early-1800s-american-classrooms-students-governed-themselves\u003cbr\u003ehttps://curioushistorian.com/schools-in-the-1800s-insight-into-the-life-of-a-pioneer-school-teacher\u003c/div\u003e",
+      "dueTime": "2020-05-06T06:59:00Z",
+      "maxPoints": 38.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 38.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScSsLLmmvScP5Lz424KyKhwTnGJ2aaqvIqpPm3D32Cx8-_A6g/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Exploring in a Time Machine \u0026 Schools Then \u0026 Now",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/5dj5Ydu6eQa02qhahQ96AW1xoKXQPFGTzK4fJdAAc0NrSAnoYEyIfQ2WeyOge1Fzg6bXbvRIW3E\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T02:54:17.373Z",
+    "updateTime": "2020-05-29T22:31:36.414Z",
+    "scheduledTime": "2020-05-01T15:00:00Z",
+    "publicationTime": "2020-05-01T15:01:50.672Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "link": {
+        "url": "http://www.tscrabrands.com/design-brand.html",
+        "title": "Texas Brand Registration | How To Design A Brand",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttp://www.tscrabrands.com/design-brand.html"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "Am2PuCNwWGw",
+        "title": "History in Iron: The Family Brand",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dAm2PuCNwWGw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Am2PuCNwWGw/default.jpg"
+      }
+    }],
+    "courseWork": {
+      "title": "Design Your Own Brand",
+      "description": "Nevada Our Home Chapter 7\n\nRead pages 136 \u0026 137\n\nReview the links in History Google Classroom on Brands and Designing your own brand. \n\nOn a piece of blank paper (Use as much of the paper as you can) create your own brand.  Make this something unique to you, think, \"what would be important to you if you owned your own ranch?\"  What would this brand say about your ranch?  Write a sentence that tells why it would represent your ranch and what it means.\n\nTake a picture and upload your brand to this assignment. ",
+      "descriptionHtml": "\u003cdiv\u003eNevada Our Home Chapter 7\u003cbr\u003e\u003cbr\u003eRead pages 136 \u0026amp; 137\u003cbr\u003e\u003cbr\u003eReview the links in History Google Classroom on Brands and Designing your own brand. \u003cbr\u003e\u003cbr\u003eOn a piece of blank paper (Use as much of the paper as you can) create your own brand.  Make this something unique to you, think, \u0026quot;what would be important to you if you owned your own ranch?\u0026quot;  What would this brand say about your ranch?  Write a sentence that tells why it would represent your ranch and what it means.\u003cbr\u003e\u003cbr\u003eTake a picture and upload your brand to this assignment.\u003c/div\u003e",
+      "dueTime": "2020-05-02T06:59:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 25.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1j_ENikCNmBt_7Fi87lmBnDYxRC7MmFWX",
+              "title": "IMG_1964.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1j_ENikCNmBt_7Fi87lmBnDYxRC7MmFWX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPK8vptjWJVG-lO1mvRMzmwTRE5MofSFLM2iW9N8azC8zldSf6zR_wTLQqVkPyqoAcv3wxRrP1j3uRICHndhNvdRsJhGEih0B7YBbK3RCNpag\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1hUqlXLmeFM4cwAippbhn-p0W3WJSMZgY",
+              "title": "IMG_1963.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1hUqlXLmeFM4cwAippbhn-p0W3WJSMZgY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3IlEh60L942CYUfipewnKQlsF83P27Af001RedkqIs9nMHcVFsgMe1ql1_InnKcIXNSCBNnL0SvvCdLvdmBLJ8aGweEiFhbPepCl1nUWHLw\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-04T17:11:56.104Z",
+          "updateTime": "2020-05-04T17:11:55.886Z",
+          "comment": "I love this very insightful",
+          "commentHtml": "\u003cdiv\u003eI love this very insightful\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T02:43:50.904Z",
+    "updateTime": "2020-05-29T22:31:40.911Z",
+    "scheduledTime": "2020-04-29T15:00:00Z",
+    "publicationTime": "2020-04-29T15:01:06.246Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "courseWork": {
+      "title": " Growing Nevada Map Activity",
+      "description": "Chapter 7 Nevada Our Home Map Activity\n\nUse a full sheet of paper to draw the map of Nevada on page 131\n\nDuring 1866 \u0026 1867 many different cultures set up life in Nevada\u0027s regions.  These groups lived in different physical regions of Nevada.  \n\nDraw on the map where the following people lived and establishments were formed, their facts are on the pages listed with each\n\nFor each group of people or establishment draw something that represents that culture.  For example: Basques lived in the high deserts and mountains, you can draw sheep near Elko, Carson City, and Ely to represent these people. \n\nBoomtowns (p. 128)\nRanches (pgs. 133 - 135)\nBasques (pgs. 138 \u0026 139)\nFarms (p. 140)\nRailroad City (p. 141)\n\nDraw your Map Key on the outside of the Map and tell what each picture symbol means\n\n\nWhen you finish drawing your map please take a picture of it and upload it to this assignment",
+      "descriptionHtml": "\u003cdiv\u003eChapter 7 Nevada Our Home Map Activity\u003cbr\u003e\u003cbr\u003eUse a full sheet of paper to draw the map of Nevada on page 131\u003cbr\u003e\u003cbr\u003eDuring 1866 \u0026amp; 1867 many different cultures set up life in Nevada\u0026#39;s regions.  These groups lived in different physical regions of Nevada.  \u003cbr\u003e\u003cbr\u003eDraw on the map where the following people lived and establishments were formed, their facts are on the pages listed with each\u003cbr\u003e\u003cbr\u003eFor each group of people or establishment draw something that represents that culture.  For example: Basques lived in the high deserts and mountains, you can draw sheep near Elko, Carson City, and Ely to represent these people. \u003cbr\u003e\u003cbr\u003eBoomtowns (p. 128)\u003cbr\u003eRanches (pgs. 133 - 135)\u003cbr\u003eBasques (pgs. 138 \u0026amp; 139)\u003cbr\u003eFarms (p. 140)\u003cbr\u003eRailroad City (p. 141)\u003cbr\u003e\u003cbr\u003eDraw your Map Key on the outside of the Map and tell what each picture symbol means\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eWhen you finish drawing your map please take a picture of it and upload it to this assignment\u003c/div\u003e",
+      "dueTime": "2020-05-01T06:59:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 25.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1w3SXhUAMLolvKsb0wa6_KHsNYLmZhOo6",
+              "title": "IMG_1962.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1w3SXhUAMLolvKsb0wa6_KHsNYLmZhOo6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOFbSdKfwhJ89XJYn6GZl0pI9uRHxMxXdUMK_C_kjttPeTR9Zlwyrd6NaGCHhD6gFE5ceAApmjRtQKyR0EGZAdCx-SnZesx6i6JEKkYNqQw_g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T00:21:33.573Z",
+    "updateTime": "2020-05-29T22:31:44.684Z",
+    "scheduledTime": "2020-04-23T15:00:00Z",
+    "publicationTime": "2020-04-23T15:01:41.925Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "courseWork": {
+      "title": "People to Know in Nevada",
+      "description": "9:30 - 10:30\n\nIndependent Work (no zoom)\n\nPeople to Know in Nevada Chapter 7:\n\n1) Look at the \"People to Know\" lists in Chapter 7 (page 126, page 133, and page 146).   \n\n2) Choose one historical figure \n\n3) Read about the historical figure you choose in Chapter 7\n\n4) Create a Google Doc to write about your historical figure \n\n5) Write a paragraph about your person: Include how this person had an impact on a place or region of Nevada \n\n\n\nThis should be written in a Paragraph format:\n\nOpen a Google Doc by clicking the + Create button \n\nPlease put your name, date, and title at the top of the paragraph \n\nPress enter once to start your paragraph \n\nRemember to Indent.\n\nTopic Sentence \n\n3 sets of detail/explanation sentences (6 total sentences for detail/explanation) \n\nClosing Sentence \n\nCAPS",
+      "descriptionHtml": "\u003cdiv\u003e9:30 - 10:30\u003cbr\u003e\u003cbr\u003eIndependent Work (no zoom)\u003cbr\u003e\u003cbr\u003ePeople to Know in Nevada Chapter 7:\u003cbr\u003e\u003cbr\u003e1) Look at the \u0026quot;People to Know\u0026quot; lists in Chapter 7 (page 126, page 133, and page 146).   \u003cbr\u003e\u003cbr\u003e2) Choose one historical figure \u003cbr\u003e\u003cbr\u003e3) Read about the historical figure you choose in Chapter 7\u003cbr\u003e\u003cbr\u003e4) Create a Google Doc to write about your historical figure \u003cbr\u003e\u003cbr\u003e5) Write a paragraph about your person: Include how this person had an impact on a place or region of Nevada \u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eThis should be written in a Paragraph format:\u003cbr\u003e\u003cbr\u003eOpen a Google Doc by clicking the + Create button \u003cbr\u003e\u003cbr\u003ePlease put your name, date, and title at the top of the paragraph \u003cbr\u003e\u003cbr\u003ePress enter once to start your paragraph \u003cbr\u003e\u003cbr\u003eRemember to Indent.\u003cbr\u003e\u003cbr\u003eTopic Sentence \u003cbr\u003e\u003cbr\u003e3 sets of detail/explanation sentences (6 total sentences for detail/explanation) \u003cbr\u003e\u003cbr\u003eClosing Sentence \u003cbr\u003e\u003cbr\u003eCAPS\u003c/div\u003e",
+      "dueTime": "2020-04-24T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1JP6RzwZOMib-mPTQjknNnNqHec7PhmwRzkZ3LtDCW8c",
+              "title": "Loz McKenzie - People to Know in Nevada",
+              "alternateLink": "https://docs.google.com/document/d/1JP6RzwZOMib-mPTQjknNnNqHec7PhmwRzkZ3LtDCW8c/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPYnW0zm_6WcB2jkaZVRHLWbYtVlOjhkKXcnAwWfCp67tGC3xywLKCBfQ7rM14o4EEZFEvyHPIh2RoM92N0Cx3T5TY0g-JMnMiae0pEcyj2utzmwfjgLdHxtftXrqm0-qKs7A\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-19T23:39:16.076Z",
+    "updateTime": "2020-04-24T00:46:57.662Z",
+    "scheduledTime": "2020-04-20T15:00:00Z",
+    "publicationTime": "2020-04-20T15:03:37.952Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 7 \"A Time of Growth \u0026 Change\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSenT_lIFh0PtzjoRj5MJ2Q4zrJ1aVVKGgnfvewBotjxMQF9VQ/viewform?hr_submission\u003dChkI2--roZoBEhAIuuzmpIoCEgcI4ufv3pgBEAE",
+        "title": "How Nevada Got its Shape Note Taker",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/QIZTomXOtUJm_RsbfugMPJiovqASQL3DUas2nCNgeNB-vUgy-Hg4Fo8RWZartfIBKDfuZKLxNFM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "How Nevada Got its Shape Note Taker",
+      "description": "Click on the Google Form and complete the Note taker after watching about how Nevada Got its Shape. \n\nhttps://play.history.com/shows/how-the-states-got-their-shapes/videos/nevada",
+      "descriptionHtml": "\u003cdiv\u003eClick on the Google Form and complete the Note taker after watching about how Nevada Got its Shape. \u003cbr\u003e\u003cbr\u003ehttps://play.history.com/shows/how-the-states-got-their-shapes/videos/nevada\u003c/div\u003e",
+      "dueTime": "2020-04-22T06:59:00Z",
+      "maxPoints": 18.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 18.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSenT_lIFh0PtzjoRj5MJ2Q4zrJ1aVVKGgnfvewBotjxMQF9VQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "How Nevada Got its Shape Note Taker",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/QIZTomXOtUJm_RsbfugMPJiovqASQL3DUas2nCNgeNB-vUgy-Hg4Fo8RWZartfIBKDfuZKLxNFM\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-13T04:54:42.531Z",
+    "updateTime": "2020-04-24T00:47:04.166Z",
+    "scheduledTime": "2020-04-17T15:00:00Z",
+    "publicationTime": "2020-04-17T15:00:18.393Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assessments \u0026 Quizzes"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdIMJWXflIZFTtV1dVrsePDBkBefEOJeQPBqJ3UUGcVjT_TMw/viewform?hr_submission\u003dChkI2--roZoBEhAIguOk8IICEgcI4ufv3pgBEAE",
+        "title": "Chapter 6 \"Making a Home in Nevada\" Assessment - Multiple Choice Part 1",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/Tfg1TJ5XHnU3sVDrM8RMJCvmas49PZcQNqBu-lnjiWGhhtpUxSta2leBchapmj8pvpCC-xm8trc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 6 \"Making a Home in Nevada\" Assessment",
+      "description": "This assessment is open book, you may use your Nevada Our Home Textbook to answer the questions.  This work is Independent, not partner time.  We will zoom through this to be able to monitor that everyone is working independently.\nThere are 5 sections to this assessment including:\n1) Multiple Choice\n2) Vocabulary matching\n3) Fill in the Blank\n4) Chart skills\n5) Essay questions\nRemember that on short answer and essay questions you need to use text based format:\n1) Restate the question\n2) use text evidence\n3)CAPS",
+      "descriptionHtml": "\u003cdiv\u003eThis assessment is open book, you may use your Nevada Our Home Textbook to answer the questions.  This work is Independent, not partner time.  We will zoom through this to be able to monitor that everyone is working independently.\u003cbr\u003eThere are 5 sections to this assessment including:\u003cbr\u003e1) Multiple Choice\u003cbr\u003e2) Vocabulary matching\u003cbr\u003e3) Fill in the Blank\u003cbr\u003e4) Chart skills\u003cbr\u003e5) Essay questions\u003cbr\u003eRemember that on short answer and essay questions you need to use text based format:\u003cbr\u003e1) Restate the question\u003cbr\u003e2) use text evidence\u003cbr\u003e3)CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-18T06:59:00Z",
+      "maxPoints": 45.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 38.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdIMJWXflIZFTtV1dVrsePDBkBefEOJeQPBqJ3UUGcVjT_TMw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 6 \"Making a Home in Nevada\" Assessment - Multiple Choice Part 1",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/Tfg1TJ5XHnU3sVDrM8RMJCvmas49PZcQNqBu-lnjiWGhhtpUxSta2leBchapmj8pvpCC-xm8trc\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-13T04:36:46.428Z",
+    "updateTime": "2020-04-24T00:47:27.409Z",
+    "scheduledTime": "2020-04-15T15:00:00Z",
+    "publicationTime": "2020-04-15T15:00:21.185Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 6 \"Making a Place in Nevada\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoe5maBH_JYXd4MSXRPPw65grYg5wfi6qOXEPDz1ThkwiDtw/viewform?hr_submission\u003dChkI2--roZoBEhAI3JHc74ICEgcI4ufv3pgBEAE",
+        "title": "Geography \u0026 The Pony Express",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/D_i4p7ieN_0oXfvSq2GihJmd5PNnxQ3Oa6EJvbncfoxtxJ9PY3uxKu9NW0GNUF91-20b0qHfV7o\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Geography \u0026 The Pony Express",
+      "description": "Activity is on page 122 in your textbook \nSee page 109 for the Map to answer the questions\n",
+      "descriptionHtml": "\u003cdiv\u003eActivity is on page 122 in your textbook \u003cbr\u003eSee page 109 for the Map to answer the questions\u003c/div\u003e",
+      "dueTime": "2020-04-17T06:59:00Z",
+      "maxPoints": 27.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 27.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoe5maBH_JYXd4MSXRPPw65grYg5wfi6qOXEPDz1ThkwiDtw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Geography \u0026 The Pony Express",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/D_i4p7ieN_0oXfvSq2GihJmd5PNnxQ3Oa6EJvbncfoxtxJ9PY3uxKu9NW0GNUF91-20b0qHfV7o\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-04T01:01:31.764Z",
+    "updateTime": "2020-04-24T00:47:30.905Z",
+    "scheduledTime": "2020-04-09T15:00:00Z",
+    "publicationTime": "2020-04-09T15:01:03.198Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 6 \"Making a Place in Nevada\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesLDSMt-NCkRa60IiP_nd8OUNiK4ZRacdJXAXwsesVdXfOjA/viewform?hr_submission\u003dChkI2--roZoBEhAIpdab5_oBEgcI4ufv3pgBEAE",
+        "title": "Chapter 6 Lesson 2 Vocabulary",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/0ycty2QjDWT6XJ3Ha3mGkrBRIMKqH7ZJw7daRFsqIbXwMhXIX865PxFc6TJ33LVcNGAJGx2R73w\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 6 Lesson 2 Vocabulary",
+      "description": "Read pages 112 - 121 \nwrite definitions to each vocabulary word using context clues\nYou may also check the glossary for accuracy or if you cannot figure out the definition from the context clues. ",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 112 - 121 \u003cbr\u003ewrite definitions to each vocabulary word using context clues\u003cbr\u003eYou may also check the glossary for accuracy or if you cannot figure out the definition from the context clues.\u003c/div\u003e",
+      "dueTime": "2020-04-11T06:59:00Z",
+      "maxPoints": 16.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 14.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesLDSMt-NCkRa60IiP_nd8OUNiK4ZRacdJXAXwsesVdXfOjA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 6 Lesson 2 Vocabulary",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/0ycty2QjDWT6XJ3Ha3mGkrBRIMKqH7ZJw7daRFsqIbXwMhXIX865PxFc6TJ33LVcNGAJGx2R73w\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-04T00:46:04.303Z",
+    "updateTime": "2020-04-24T00:47:39.544Z",
+    "scheduledTime": "2020-04-06T15:00:00Z",
+    "publicationTime": "2020-04-06T15:04:48.430Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework \u0026 Extensions"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJkkpNZMAayvII-nWradzJn8_1I_Tkodnw055RzwM1bL2jAg/viewform?hr_submission\u003dChkI2--roZoBEhAIkLSb5_oBEgcI4ufv3pgBEAE",
+        "title": "Chapter 6 homework - Inventions ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/x7RLNO2BjdqAdzUggukCpwRayO4F-vObIKaiuY45hb9FKi76VyzG-CiA1j-4ON5AqX3Ns0BQGoA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 6 homework - Inventions ",
+      "description": "April 6th ",
+      "descriptionHtml": "\u003cdiv\u003eApril 6th\u003c/div\u003e",
+      "dueTime": "2020-04-08T06:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 14.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJkkpNZMAayvII-nWradzJn8_1I_Tkodnw055RzwM1bL2jAg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 6 homework - Inventions ",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/x7RLNO2BjdqAdzUggukCpwRayO4F-vObIKaiuY45hb9FKi76VyzG-CiA1j-4ON5AqX3Ns0BQGoA\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-04T00:17:05.840Z",
+    "updateTime": "2020-04-24T00:47:41.393Z",
+    "scheduledTime": "2020-04-06T15:00:00Z",
+    "publicationTime": "2020-04-06T15:00:53.796Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 6 \"Making a Place in Nevada\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScHH8sgyE-oD7z_vtYUz8l1CO3RXrmGzaGZZdezhXOgdNkV9w/viewform?hr_submission\u003dChkI2--roZoBEhAIqISJ5voBEgcI4ufv3pgBEAE",
+        "title": "Chapter 6 Lesson 2:  People ",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/pX4IDVaCifdW5oLwJCW3zHXguArBTXHM8KVLvU8IPVjyccumc5FwAwPYkBjalSWXYitVU3x9sFM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 6 Lesson 2 People \u0026 Memory Master Questions",
+      "description": "Read Pages 112 - 121 in Nevada Our Home and Complete these questions\n\nFor the People section you can use simple sentences or note style\n\nFor the Memory Master Questions you will need a 3 Part answer (text based answers)\n1) Restate the question\n2) Use evidence from the text\n2)CAPS",
+      "descriptionHtml": "\u003cdiv\u003eRead Pages 112 - 121 in Nevada Our Home and Complete these questions\u003cbr\u003e\u003cbr\u003eFor the People section you can use simple sentences or note style\u003cbr\u003e\u003cbr\u003eFor the Memory Master Questions you will need a 3 Part answer (text based answers)\u003cbr\u003e1) Restate the question\u003cbr\u003e2) Use evidence from the text\u003cbr\u003e2)CAPS\u003c/div\u003e",
+      "dueTime": "2020-04-08T06:59:00Z",
+      "maxPoints": 22.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 22.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScHH8sgyE-oD7z_vtYUz8l1CO3RXrmGzaGZZdezhXOgdNkV9w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 6 Lesson 2:  People ",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/pX4IDVaCifdW5oLwJCW3zHXguArBTXHM8KVLvU8IPVjyccumc5FwAwPYkBjalSWXYitVU3x9sFM\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-29T01:51:09.131Z",
+    "updateTime": "2020-04-24T00:47:57.998Z",
+    "scheduledTime": "2020-04-03T15:00:00Z",
+    "publicationTime": "2020-04-03T15:01:13.235Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 6 \"Making a Place in Nevada\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSec-8uroTgUL-SIeR-a5s00Vx32CFQErLlbDMmQsXRb-YBY4w/viewform?hr_submission\u003dChgI2--roZoBEg8IyJWV50sSBwji5-_emAEQAQ",
+        "title": "Chapter 6 Lesson 1  - People",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/mjqx0nhy9tTLvTqXOvvSPzFgoB6-HOHAwepRwqniH4JgHGKI3yU9vr9KpvHe_RZbD-4vrj4IBe0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 6 Lesson 1 ",
+      "description": "Read pages 100 - 111 in Nevada Our Home and complete the assignment.  Remember that there are three sections - People, Vocabulary, and Memory master questions.  \nEach of the People \u0026 Vocabulary words are wroth 1 point each.  \nEach Memory Master question is worth 3 points each and require text based answer:\n1 - Restate the question\n2 - Use evidence from the text\n3 - CAPS (capitals, all sentences make sense, punctuation, spelling/spacing)",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 100 - 111 in Nevada Our Home and complete the assignment.  Remember that there are three sections - People, Vocabulary, and Memory master questions.  \u003cbr\u003eEach of the People \u0026amp; Vocabulary words are wroth 1 point each.  \u003cbr\u003eEach Memory Master question is worth 3 points each and require text based answer:\u003cbr\u003e1 - Restate the question\u003cbr\u003e2 - Use evidence from the text\u003cbr\u003e3 - CAPS (capitals, all sentences make sense, punctuation, spelling/spacing)\u003c/div\u003e",
+      "dueTime": "2020-04-04T06:59:00Z",
+      "maxPoints": 29.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 27.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSec-8uroTgUL-SIeR-a5s00Vx32CFQErLlbDMmQsXRb-YBY4w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 6 Lesson 1  - People",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/mjqx0nhy9tTLvTqXOvvSPzFgoB6-HOHAwepRwqniH4JgHGKI3yU9vr9KpvHe_RZbD-4vrj4IBe0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-29T01:39:40.435Z",
+    "updateTime": "2020-04-24T00:47:54.713Z",
+    "scheduledTime": "2020-04-01T15:00:00Z",
+    "publicationTime": "2020-04-01T15:03:53.953Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 6 \"Making a Place in Nevada\""
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfr07Oac2POJy4OCDINOcX3kO9rJtgoZlyab6a97JGE5Vvk6g/viewform?hr_submission\u003dChgI2--roZoBEg8IkNOS50sSBwji5-_emAEQAQ",
+        "title": "Read A Timeline (pages 98- -99 in Nevada Our Home)",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/5VrbMv49njTjlvuRIPy1lQd_nNl-9-IBafZ6PW7SI3ZtH6tXPsYAQSCsfLhMS14HnCrSzWvyawA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Read A Timeline (pages 98- -99 in Nevada Our Home)",
+      "description": "Complete these questions while reviewing the opening to \"Making a Home in Nevada\"  Chapter 6 in Nevada Our Home Textbook",
+      "descriptionHtml": "\u003cdiv\u003eComplete these questions while reviewing the opening to \u0026quot;Making a Home in Nevada\u0026quot;  Chapter 6 in Nevada Our Home Textbook\u003c/div\u003e",
+      "dueTime": "2020-04-03T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-02T16:01:02.104Z",
+    "updateTime": "2020-04-24T00:47:46.859Z",
+    "publicationTime": "2020-03-02T16:04:08.793Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Chautauqua Script",
+      "description": "Good Morning,\nPlease click create and select doc\nPut your Name and number at the top\nGive your Chautauqua a title\nPlease use 12 point font in Arial or Times New Roman for your script\nPlease click the spacing tool and make your script double (2.0) spaced.\nReread for accuracy before you turn in. ",
+      "descriptionHtml": "\u003cdiv\u003eGood Morning,\u003cbr\u003ePlease click create and select doc\u003cbr\u003ePut your Name and number at the top\u003cbr\u003eGive your Chautauqua a title\u003cbr\u003ePlease use 12 point font in Arial or Times New Roman for your script\u003cbr\u003ePlease click the spacing tool and make your script double (2.0) spaced.\u003cbr\u003eReread for accuracy before you turn in.\u003c/div\u003e",
+      "dueTime": "2020-03-07T07:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1cx-UsOF2RaniNCDCgwv5L5UNoNVFD7uBflxvAczHnyY",
+              "title": "Loz McKenzie - Chautauqua Script",
+              "alternateLink": "https://docs.google.com/document/d/1cx-UsOF2RaniNCDCgwv5L5UNoNVFD7uBflxvAczHnyY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPglfdKJ6tDqAtNzelRwVGS_zYYFmeU00jlyl2T2tC7ILg7opJBtRxZD-tYd-GinHFeaSB8lnLxkLzG84IKltC8n8DRz-tPF5yKCtZiuxSIgCwwhG96ojxmD-RFcgJU_okuDA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-03-05T21:05:11.717Z",
+          "updateTime": "2020-03-05T21:05:11.608Z",
+          "comment": "Loz this seems quite short.  Please work on adding more detail.  For example you say \"I encountered John C. Fremont\" ...When, Where, What happened, Why?  You need to tell why this is important.  What are things you can add more detail about to this script. \nYou have a lot of \" I Kit Carson\" sentences starters.  It reads and sounds repetitive. Think of how you can develop these sentences to say more and you don\u0027t have to say Kit Carson in every sentence.  I will know you are in character as Kit Carson.  Speak as if you would about yourself on the daily.",
+          "commentHtml": "\u003cdiv\u003eLoz this seems quite short.  Please work on adding more detail.  For example you say \u0026quot;I encountered John C. Fremont\u0026quot; ...When, Where, What happened, Why?  You need to tell why this is important.  What are things you can add more detail about to this script. \u003cbr\u003eYou have a lot of \u0026quot; I Kit Carson\u0026quot; sentences starters.  It reads and sounds repetitive. Think of how you can develop these sentences to say more and you don\u0026#39;t have to say Kit Carson in every sentence.  I will know you are in character as Kit Carson.  Speak as if you would about yourself on the daily.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-12-16T16:29:46.566Z",
+    "updateTime": "2020-04-24T00:46:44.950Z",
+    "publicationTime": "2019-12-16T16:30:21.245Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1GRJhi5DL7RrlBNrvmT_JyB6sIEVCllc1F2eFRQHM5jo",
+          "title": "Artifact Card ",
+          "alternateLink": "https://docs.google.com/document/d/1GRJhi5DL7RrlBNrvmT_JyB6sIEVCllc1F2eFRQHM5jo/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNjlUbTrm_4oYsosbAArbRpYmsfxndO7qZUcUWcAkQXOR0hKrK8OtAeifRMHVwco3mFqMBMTGle9DI1-rJt-aksXshv0I7lCM8LhR6LMTqZ3UbuevQIxzeRNTHGq-EV_Hw-wRU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Artifact Card",
+      "description": "Here is a template for you to type your artifact card and post it so I can print it out for you",
+      "descriptionHtml": "\u003cdiv\u003eHere is a template for you to type your artifact card and post it so I can print it out for you\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EjsJrD_00WnfyCLWl1I7C-Pq17LmRcqcroFcR91Yr38",
+              "title": "Loz Artifact Card",
+              "alternateLink": "https://docs.google.com/document/d/1EjsJrD_00WnfyCLWl1I7C-Pq17LmRcqcroFcR91Yr38/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPAe0JSZ0nFXKOU-VxBYOhvTtOqt90_YRGt0ShggMOZdeHiwtxKc22Gr7SwyxzPDZxJKHUvlnrYcBVUTicLOlXxVGmTBCdou7rOzTzmFd3p5OTdpDvomGf_dDHphQlZVIWkCg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-10-18T00:21:23.703Z",
+    "updateTime": "2020-04-24T00:46:53.008Z",
+    "publicationTime": "2019-10-18T00:27:23.224Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1v2Jf-OQTJuirnBIaFAfl7TOw8Jz8L3a0qfzQS8D9-N0",
+          "alternateLink": "https://drive.google.com/open?id\u003d1v2Jf-OQTJuirnBIaFAfl7TOw8Jz8L3a0qfzQS8D9-N0"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Which shirt do you want for 4th grade?",
+      "description": "Open the google doc to see the 2 T-Shirt Designs\nLook at both Shirt designs.  \nReturn to classroom\nSelect which you like Best and submit your answer",
+      "descriptionHtml": "\u003cdiv\u003eOpen the google doc to see the 2 T-Shirt Designs\u003cbr\u003eLook at both Shirt designs.  \u003cbr\u003eReturn to classroom\u003cbr\u003eSelect which you like Best and submit your answer\u003c/div\u003e",
+      "workType": "MULTIPLE_CHOICE_QUESTION",
+      "multipleChoiceQuestion": {
+        "choices": ["Kraken Kirkwood\u0027s ", "Kauai Kirkwood\u0027s"]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "multipleChoiceSubmission": {
+          "answer": "Kauai Kirkwood\u0027s"
+        }
+      }]
+    }
+  }]
+}

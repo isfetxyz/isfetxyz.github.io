@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "posts": [{
+    "courseWork": {
+      "submissions": [{
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1aEBKGXS2L5ppdgoZGgf5LZxIQW8Um_iXFUldGC7DtFI",
+              "title": "Loz McKenzie - \"The Gift of the Magi\" and short story terms",
+              "alternateLink": "https://docs.google.com/document/d/1aEBKGXS2L5ppdgoZGgf5LZxIQW8Um_iXFUldGC7DtFI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMtcLX3vA2-ZFt-ry6t5UpddMqH_MJcNLWSfrQmsww4Ur54fFis7k6iY9Wxms3rM0ww4Dr14wnuTAPBhGGFDKKdcdpnOxrjd6hJ2bTfpZt5nx20o0LdCumbdITVNbnv_WhLnDk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "courseWork": {
+      "submissions": [{
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dr2bd9DveoFhG2wnmcq7OlKR1flNT79lk0hNXIuOFHA",
+              "title": "Loz McKenzie - AWIT In-Class Essay",
+              "alternateLink": "https://docs.google.com/document/d/1dr2bd9DveoFhG2wnmcq7OlKR1flNT79lk0hNXIuOFHA/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN1leiytTzskaWg-4YNTryHYzqV_yU-Mf00r-cWH5AROJNt7Qfrxlv3hRpiflGZnCojasdOubHvnWqKBbUTO6QJkdpRXgybSALpv7SrA9yxHfC87aCY-eFGXV-f97J0g9UEl2w\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
