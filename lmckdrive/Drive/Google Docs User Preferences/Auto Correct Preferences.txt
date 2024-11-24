@@ -1,0 +1,149 @@
+autocorrect_links: true
+autocorrect_smart_quotes: true
+enable_string_replacement: true
+rule {
+  key: "(c)"
+  replacement: "\302\251"
+  enabled: true
+}
+rule {
+  key: "(r)"
+  replacement: "\302\256"
+  enabled: true
+}
+rule {
+  key: "tm"
+  replacement: "\342\204\242"
+  enabled: true
+}
+rule {
+  key: "c/o"
+  replacement: "\342\204\205"
+  enabled: true
+}
+rule {
+  key: "..."
+  replacement: "\342\200\246"
+  enabled: true
+}
+rule {
+  key: "1/2"
+  replacement: "\302\275"
+  enabled: true
+}
+rule {
+  key: "1/3"
+  replacement: "\342\205\223"
+  enabled: true
+}
+rule {
+  key: "1/4"
+  replacement: "\302\274"
+  enabled: true
+}
+rule {
+  key: "1/5"
+  replacement: "\342\205\225"
+  enabled: true
+}
+rule {
+  key: "1/6"
+  replacement: "\342\205\231"
+  enabled: true
+}
+rule {
+  key: "1/8"
+  replacement: "\342\205\233"
+  enabled: true
+}
+rule {
+  key: "2/3"
+  replacement: "\342\205\224"
+  enabled: true
+}
+rule {
+  key: "3/4"
+  replacement: "\302\276"
+  enabled: true
+}
+rule {
+  key: "2/5"
+  replacement: "\342\205\226"
+  enabled: true
+}
+rule {
+  key: "3/5"
+  replacement: "\342\205\227"
+  enabled: true
+}
+rule {
+  key: "4/5"
+  replacement: "\342\205\230"
+  enabled: true
+}
+rule {
+  key: "5/6"
+  replacement: "\342\205\232"
+  enabled: true
+}
+rule {
+  key: "3/8"
+  replacement: "\342\205\234"
+  enabled: true
+}
+rule {
+  key: "5/8"
+  replacement: "\342\205\235"
+  enabled: true
+}
+rule {
+  key: "7/8"
+  replacement: "\342\205\236"
+  enabled: true
+}
+rule {
+  key: "<--"
+  replacement: "\342\206\220"
+  enabled: true
+}
+rule {
+  key: "<=="
+  replacement: "\342\207\220"
+  enabled: true
+}
+rule {
+  key: "<=>"
+  replacement: "\342\207\224"
+  enabled: true
+}
+rule {
+  key: "==>"
+  replacement: "\342\207\222"
+  enabled: true
+}
+rule {
+  key: "-->"
+  replacement: "\342\206\222"
+  enabled: true
+}
+rule {
+  key: "himsself"
+  replacement: "himself"
+  enabled: true
+}
+rule {
+  key: "adjectives"
+  replacement: "adjetivos"
+  enabled: true
+}
+rule {
+  key: "california%20condors%20are%20the%20largest"
+  replacement: "california%20condors%20are%20the%20 largest"
+  enabled: true
+}
+autocorrect_paragraph_direction: true
+autocorrect_lists: true
+autocorrect_auto_capitalization: true
+autocorrect_spelling: true
+autocorrect_markdown: false
+show_markdown_promo: true
