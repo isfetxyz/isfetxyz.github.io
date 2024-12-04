@@ -1,0 +1,1619 @@
+{
+  "version": 1,
+  "name": "Science 4",
+  "section": "C",
+  "description": "Science 4th Grade",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroomf6bd4f66@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnfmJ5LUxxUDJTSy1Ha1VnV3kyaXZkWVFnbFZfQ3VFUVBRWVV6NEUxc0dHY3M",
+    "name": "4C Science 19-20",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnfmJ5LUxxUDJTSy1Ha1VnV3kyaXZkWVFnbFZfQ3VFUVBRWVV6NEUxc0dHY3M?resourcekey\u003d0-3BELdbP4EwZGnsKtkF8KOg"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-06-05T18:26:09.086Z",
+    "updateTime": "2020-06-05T18:41:30.796Z",
+    "publicationTime": "2020-06-05T18:41:30.658Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quizzes"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1n9qa4n5t1pbaVWQHCQzrfVGIAMoJxhNzUWhDsOZugo0",
+          "title": "[Template] Simple Machines Quiz",
+          "alternateLink": "https://docs.google.com/document/d/1ESbUCvwyVaGlMJ_-mVrQx5nvCL3ew-VILm--VjyCfqk/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMMXeIOnsiRQVouD2bW1xldBejAVOC4Gjr5juT17aefq7rJK7gT4iu7A-ePSJYAWLY90JzXN0_8hK6U7qaLsLiaYorw7rgvaxwhk18Idr9FrsHA9NL_lN87TweJz5dmp03ibw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Simple Machines Quiz\n",
+      "dueTime": "2020-06-05T19:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 19.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vYlcbuKSHsTqLruimqzPsUfwGPTD7cBOILrWPvpAfOo",
+              "title": "Loz McKenzie - Simple Machines Quiz",
+              "alternateLink": "https://docs.google.com/document/d/1vYlcbuKSHsTqLruimqzPsUfwGPTD7cBOILrWPvpAfOo/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBP7xJY6xlSTVcUZBl-DaHsQy6YHOBI0RwEr-9puYjLvGeLUfEmLqs0GW-SG86-nLCldBXMDj43ZH6WCalteKoU6p5PPh3MJ404pilToKCpkaqAT3pdCRsPjK9vzf0FNcfIlggQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-06-03T15:34:50.968Z",
+    "updateTime": "2020-06-03T16:24:41.950Z",
+    "publicationTime": "2020-06-03T16:24:41.818Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Weekly Design Challenges"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_gNKh7N1dafil0a-ksxraNhS_rFncpCN1OQHTf--lbw",
+          "title": "[Template] Pick your own  Design Challenge ",
+          "alternateLink": "https://docs.google.com/document/d/132vxXI4b92trq0zhgBykO5-mQZf-vBd7j9h0yFupUXs/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNc7B6lvMz_vlBKQU3Ah1Wd1whbOPrHxeXF-hA1qYfFms4GTGDt636TbkQ3IBEHC-isc-gI-civRAYbrzs_LYW7DMjlDXvuECZIu551qV3gFGxoPzhYJyCcD6DEL3jIWnGgsA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Pick Your Own Design Challenge ",
+      "dueTime": "2020-06-05T22:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1i8BZfWo0lIL51u9_9p4B2uInrWcnBDcAKnoXWhZ7ITc",
+              "title": "Loz McKenzie - Pick your own  Design Challenge ",
+              "alternateLink": "https://docs.google.com/document/d/1i8BZfWo0lIL51u9_9p4B2uInrWcnBDcAKnoXWhZ7ITc/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNqXEiQI6JmUXzLKEfwj15926PcEg2txCvlYKTgHsu_kN2ne5JRr6fZEQvPasPH4WMGJLrFWItm57y2BBsCd6L8H5UhzcVjlHAd4-N-1hr4xpIMVX38F574pNaTfnPMuMOI-nA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-06-03T15:36:40.366Z",
+    "updateTime": "2020-06-03T16:01:52.039Z",
+    "scheduledTime": "2020-06-03T16:01:00Z",
+    "publicationTime": "2020-06-03T16:01:51.854Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1GCtzFz9e6uDlTdmWcWkV3Dxq-DQrFf9fAG3SucTS6qs",
+          "title": "[Template] Simple Machine Scavenger Hunt",
+          "alternateLink": "https://docs.google.com/document/d/1TQX3OXRXO9PnY6SU24qPFwdZZyXjzg7SXQWVZ9x5ZcA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN_HVK9hmPS5bVcTa_dRtKW9UruW-rY_VfrQpQUs7JCTylFh8_cjU_maSF2p_lTb5tt8fMY2j7TEnXTnVFjDZfA6s0u_IlAm45UVZ-32pyW1L4UfFYZJz8F0B5UA99x7tsYSw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Simple Machine Scavenger Hunt ",
+      "dueTime": "2020-06-03T17:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "10PafAZkWzP3hAApuKoCnPe0IEsFiGL39fJvMkdb6ZVw",
+              "title": "Loz McKenzie - Simple Machine Scavenger Hunt",
+              "alternateLink": "https://docs.google.com/document/d/10PafAZkWzP3hAApuKoCnPe0IEsFiGL39fJvMkdb6ZVw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNtfEf22-YoW7LIY2GkglpBzeebVw12hHzi4eAK61Jq0HnX75VkS0OcOWI4OFAZYwEQdbUmiQ0rxN24554D18VAG8YUWI6CiK4uwwxS813DxSqQxFbOpcy6bdXMST1s4BFGcGo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-28T05:54:47.332Z",
+    "updateTime": "2020-05-28T16:38:20.612Z",
+    "publicationTime": "2020-05-28T16:38:20.509Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Weekly Design Challenges"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1VHn0UaWE_H0w3GOOPJkf-LdbFasHpWBugZ2fXp28x_k",
+          "title": "[Template] Catapult  Design Challenge ",
+          "alternateLink": "https://docs.google.com/document/d/1uttvUUEgm2CGlHoJrX3okjZb20DRn_TZPV0Zb9nr5qw/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOiAIZJecYRiX2J-j2gv4z64RltOPVGhvbJx6ghEwL_PVtv4dPV_I8NUH4cZ_aQDcf9qg1qYpoZsfA3CUkdgCFhvEib8QkYZ55xE1iA2tAy1ndt3waYW9ORq4oX8XAKhL2SGA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Catapult Design  Challenge ",
+      "dueTime": "2020-05-29T22:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1UGHDFpGfz1NtaMybyyVMaKpTUPmS2lNWlztJB7Py7AU",
+              "title": "Loz McKenzie - Catapult  Design Challenge ",
+              "alternateLink": "https://docs.google.com/document/d/1UGHDFpGfz1NtaMybyyVMaKpTUPmS2lNWlztJB7Py7AU/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOEcKrsyIwEHHP4jSBvNSPF3onMFLw9DIqdXzSvDU7SJEdd8BicmrX5JFrWGgWb96cEA5ZTKeb4uxbnwEPcbOSLhvHvIEC2WzQI93ytdx54bflF5VyWqY6X8GQF7bckDn4SM4k\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-22T04:49:07.160Z",
+    "updateTime": "2020-05-22T19:12:05.519Z",
+    "scheduledTime": "2020-05-22T19:10:00Z",
+    "publicationTime": "2020-05-22T19:12:05.481Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1csE6U4wiUdvQ4MJG2kFXKxMkoD3dv92yASQVNjKnYUg",
+          "title": "[Template] Simple Machine Worksheet #2",
+          "alternateLink": "https://docs.google.com/document/d/1fcDQFyup3hiPr4HAr1tWUX6JhRQpGzDbda13Eq9-LlA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOBOooe2jCf9d_Kc9lQcfa8IGbZqTrHNcGf0Km7vjQaPjZaQLQX30Nglj659NemcKkjk9EfinghknC3MS24by5PWwc6twiU30JpqMjL3wbm6YuuWihVwpMVjZV4ixcZ_ciVvQ\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Simple Machines Worksheet #2 ",
+      "dueTime": "2020-05-28T16:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yi6-z1WkjK3g1rIsc8YfOsd9sz1NtZWJ4iAVMh_VVq8",
+              "title": "Loz McKenzie - Simple Machine Worksheet #2",
+              "alternateLink": "https://docs.google.com/document/d/1yi6-z1WkjK3g1rIsc8YfOsd9sz1NtZWJ4iAVMh_VVq8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPMLe8pVR_QBLwJ0Gt36r1LyhxPtpi1ccmKzHEJlkug8T4p17ZNDxmFgX3eOt47Ss9--E1HFFZ4fpMpuWlm3DOXDhTZ9zCF9H8vnBz759gSfuqTQvyb800zNdPtecU10TQf6_w\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-22T04:47:03.959Z",
+    "updateTime": "2020-05-22T19:10:50.829Z",
+    "scheduledTime": "2020-05-22T18:35:00Z",
+    "publicationTime": "2020-05-22T18:37:08.580Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Weekly Design Challenges"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1m6BrJDE5VDQiuP1zP_ePk3JhVRAY-FGCd4AHWxM4CkE",
+          "title": "[Template] Bridge Design Challenge ",
+          "alternateLink": "https://docs.google.com/document/d/1f8gamX_K57cnc4meobQ25HBn90G9up7mDbb9-tMihz8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMWOpeWF7-ZmKw5CIQ4Osb5jrvOxy5HpQXkgkxMXWIRYcJCvTucBCNzHtaDYx0uOJKa9Dup-IhSbCOeSOQylfjCgy9h8-HNQY_AjiTVKxthsMQYGszRMbAslPyZgly0o3oZCA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Bridge Design Challenge",
+      "dueTime": "2020-05-22T19:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1R15c1yhXyjZiAQkrecO_qfNJ89jMQapHjsNiJgxfsrY",
+              "title": "Loz McKenzie - Bridge Design Challenge ",
+              "alternateLink": "https://docs.google.com/document/d/1R15c1yhXyjZiAQkrecO_qfNJ89jMQapHjsNiJgxfsrY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOoHjd89I1NuwSouzFSjldzm02gj5hYy94iQms2HU19HnHax8JDGFzBqUUGUuDQDlZ23a8_EyDKuB5-opUFDuixbc4bITFiWlU8Crtn47Vbhr33pe2BpT3ub-cdCIgEZN3cXG8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-20T05:38:07.136Z",
+    "updateTime": "2020-05-20T16:33:43.586Z",
+    "publicationTime": "2020-05-20T16:33:43.477Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1B4KWlYmn4rY8EMIZ-yC8hnsnpcMfXEcZq9V148_4S98",
+          "title": "[Template] Introductions to Simple Machines ",
+          "alternateLink": "https://docs.google.com/document/d/1fjSHuL4tSu5h56UxXdqczZQ5d-r_SBLLvqOVCYIlFgo/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPvUBWqOYEZMUu6KWnN0s9wwK8saY6j6BvT7SpBRQcY-jSu6UPlbKqhHrEPjzeVX5eHzMoz_YGpD-xdDOy5c2AYjt-c2y1g5ohZGSDUh_yNfrXUEb9OZRZLmMaZsX25k9b3Vw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Introductions to Simple Machines ",
+      "dueTime": "2020-05-22T18:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GGjamnpnHL7zUUpcTfISH_8QIvBXjbu1OleraRluTdk",
+              "title": "Loz McKenzie - Introductions to Simple Machines ",
+              "alternateLink": "https://docs.google.com/document/d/1GGjamnpnHL7zUUpcTfISH_8QIvBXjbu1OleraRluTdk/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNQc_1siAwq_DyjNw7njs-85HLhq1r-uFS-drYh9_IKSY8-fCBJwtM_5ZCt7jGfcoq-uojL0aQrE7C5HglEThbRsN_daRIe8D8XJEqUk1WDYNJXhWXJjHRWA_Ic8x8V442fzV8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-20T15:56:55.642Z",
+    "updateTime": "2020-05-20T16:13:56.302Z",
+    "publicationTime": "2020-05-20T16:13:56.196Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quizzes"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "18IkK_99rwbD8rFIo5Xx9Hb0EmJ8lFOq3MQCNgEAM0qo",
+          "title": "[Template] Renewable Energy Quiz",
+          "alternateLink": "https://docs.google.com/document/d/1KdcAS_8mUkZ8L0gmAR1oeMhQhzwwWfsOC2UFlksr7s4/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM4SkGgRLbG3do3tiogh69bTpEzILbGsrYe1_6nFywf652mEJ_s2F4X99_JYUTLHdtKaxKiai-eihzcqlzlhZ0Ibgo_zHoUvuLcpYitwWUPl0OoqIymblRiNWA_bDJ79qCT0Q\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Renewable Energy Quiz ",
+      "dueTime": "2020-05-20T17:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 16.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wKm64Oi9XyjVgSfKXiLNn06pvFXAQ9dyIknFAZJiWQ8",
+              "title": "Loz McKenzie - Renewable Energy Quiz",
+              "alternateLink": "https://docs.google.com/document/d/1wKm64Oi9XyjVgSfKXiLNn06pvFXAQ9dyIknFAZJiWQ8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMVjSF0I6F7BYogn0PYLV8zDqPPQQkQWc4Lb_KH7VAAkcH5wkYK2xlzj9vdTFuVOBtotbWgcNWJ1S2kXQpXix3vRIpEbCjUuBVMUJfS6jhYWlNGR9yk2STi0OLVgILRUlhVgtY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-14T15:24:51.769Z",
+    "updateTime": "2020-05-14T17:16:59.975Z",
+    "publicationTime": "2020-05-14T16:45:13.982Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1S0dndVLxzQeTcVXvc99bG5hmKDxOEABOVN-DYTeYAKU",
+          "title": "[Template] Renewable Energy Pros and Cons",
+          "alternateLink": "https://docs.google.com/document/d/1Vss4EwWlRZD0IYJWyfWEZ-TzRQ6F8b_3orW47h97AEk/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNfuNlGABunrTF8J3mq7m-0S5dbwKedzJn2OEsTWnR3YkybPvSt_uTDvvqIYRS0mH0Bbe0xWLPAvETIRlrOC09CfTvZndW6Juw3Xi9BazNGTZWJJRtnk3Ct1j3NiHHaUZxnTw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Renewable Energy Pros and Cons \n",
+      "dueTime": "2020-05-20T16:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1VLg3MdjDC6ju9hy84Plnyv28xRsFoV4VSnO4RtYROQo",
+              "title": "Loz McKenzie - Renewable Energy Pros and Cons",
+              "alternateLink": "https://docs.google.com/document/d/1VLg3MdjDC6ju9hy84Plnyv28xRsFoV4VSnO4RtYROQo/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNgXj1Xw-Rmgnyob-rucfy9SsySAiKxAI4NYRxcIJZvRT6uWJWeMUz7ZjzdCs5fQPkaxzfmhXbPEAikDQZk6FSQVDDAJ9PNNBeJVFAxFVcyDrDa2dOcb0mDA2iV1JX7olM0bxI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-14T02:48:02.087Z",
+    "updateTime": "2020-05-14T02:48:36.807Z",
+    "publicationTime": "2020-05-14T02:48:36.697Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discussion and Participation"
+    }],
+    "courseWork": {
+      "title": "4th Grade Textbook Survey ",
+      "description": "https://forms.gle/FWVdYazgsMyXj3do7",
+      "descriptionHtml": "\u003cdiv\u003ehttps://forms.gle/FWVdYazgsMyXj3do7\u003c/div\u003e",
+      "dueTime": "2020-05-14T17:30:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-11T17:29:46.034Z",
+    "updateTime": "2020-05-11T21:40:11.400Z",
+    "publicationTime": "2020-05-11T21:40:11.034Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Weekly Design Challenges"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1uiHGefX7Bf89aTIYCRIs1-F12k9WDetlVR0v9QPyy90",
+          "title": "[Template] Boat Design Challenge ",
+          "alternateLink": "https://docs.google.com/document/d/1jOIPokj2Pes6POH5xq0WoMX_gFSU1eVnkaM3SxujMBU/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNko7olqmxBkEFVcEVRbziaSlN23Ay-LU8Kqyjy9uuplN63kaQZxBRVfmNqDshdyG2VXNv3golvZv0IQYxsUZiQsmVX52F5CdguYJEu6xb99-xI4_VsFMI7YtHOqED20lJPcQ\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Boat Design Challenge ",
+      "dueTime": "2020-05-15T22:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12V_USdG9hBHW0v0XQXxkn3S_loXhhHs3NBGnvAx_3jY",
+              "title": "Loz McKenzie - Boat Design Challenge ",
+              "alternateLink": "https://docs.google.com/document/d/12V_USdG9hBHW0v0XQXxkn3S_loXhhHs3NBGnvAx_3jY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMfSmN7nvc75R2rBysU2E7Us3MxIlz4u0tLjPbhCxrrnYrebDXeXHwJ2DCEpbWvr64UhW40NSeLMvUpB5ya6Xg03blO92iUf2qLxPPvcHQ_IqSMj3iR98XAhktDVKAHiTNR1IM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-11T17:31:29.016Z",
+    "updateTime": "2020-05-11T21:08:20.102Z",
+    "publicationTime": "2020-05-11T21:08:19.871Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rW-odMuFaTq9f2WQz-hOuMSU5QfpGiBuWeZav_Yzp94",
+          "title": "[Template]  Renewable Resources and Nonrenewable Resources #2",
+          "alternateLink": "https://docs.google.com/document/d/1_uamibPBnG-HXX0fVgY7eInxYjreHAZvYbtapUqeEyk/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPDjjK6muAFo4uhqUJ0uQQIs0iZxikUZJKE9iiph1danUIiT-EW9G8K2-f7WaFjonuIZErknbOJRs1NaaD74V9PYLCrmGcndj5y3picWq6xME60v3CPiRvymKuAL4g_bNIg2Q\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Renewable Resources and Nonrenewable Resources #2",
+      "dueTime": "2020-05-11T22:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13iDZCJMC6P7dDLuWT0Ulri2wJACfp00t6V5f_EbLtr8",
+              "title": "Loz McKenzie -  Renewable Resources and Nonrenewable Resources #2",
+              "alternateLink": "https://docs.google.com/document/d/13iDZCJMC6P7dDLuWT0Ulri2wJACfp00t6V5f_EbLtr8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO8_oFdBY_QdlcJO8zY0KOWzCjiDygH_vsP3asnNrMLW3mJ5Gh7T8P80MuQfK3tC8Jr76Xo9R8dVZZCOSBa-U9081vRVcpPyK3lKnY27St4tFKslM-X9G7-81jHssJMDVLDdOE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-08T17:41:11.708Z",
+    "updateTime": "2020-05-11T17:00:36.924Z",
+    "publicationTime": "2020-05-08T20:26:45.784Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1BP95qVO5D-xSZuOhr9OERZK1bbok6nIZG4NtQ7AIzhY",
+          "title": "[Template] Renewable and Nonrenewable Energy Brainstorming",
+          "alternateLink": "https://docs.google.com/document/d/10DLPZGjEW9lVUiMSnEcoK_XmY1CkPZVZwGc7ru0Zbb0/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOBUMJVDpIQVQIM6HcRm1cFdWOX7yLXFFEMIrlvCwdALqJEX_GPUEf_N5mBvJZ7fLLUlNzrzxywSg6tf81KWEPNZp638-WiQT6neC6wldR3mvAwaJMMRbTogRg80cs0SCQCGA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Renewable and Nonrenewable Energy Brainstorming\n",
+      "dueTime": "2020-05-11T22:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FC5YqiAQJh0zJ9WmrFbk8R_puwZdaEa8QQ5aYj50wS0",
+              "title": "Loz McKenzie - Renewable and Nonrenewable Energy Brainstorming",
+              "alternateLink": "https://docs.google.com/document/d/1FC5YqiAQJh0zJ9WmrFbk8R_puwZdaEa8QQ5aYj50wS0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOOxMRT_dBhjFK2qJ9dSf51E5aB5mGbweyzpEIsPawN01zSPDAW2VxHSsG3B2bvkEJabiO2plbu63qHl2arJevvUcYB2BDNvq2wGzRJfVy0LLOCq6frCeT0guI8qxBBQNqnt9c\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-08T18:03:08.112Z",
+    "updateTime": "2020-05-08T19:02:15.359Z",
+    "publicationTime": "2020-05-08T19:02:15.179Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discussion and Participation"
+    }],
+    "courseWork": {
+      "title": "Wealthy City Takeaways ",
+      "description": "What are three takeaways you learned from the wealthy city game? ",
+      "descriptionHtml": "\u003cdiv\u003eWhat are three takeaways you learned from the wealthy city game?\u003c/div\u003e",
+      "dueTime": "2020-05-08T19:30:00Z",
+      "maxPoints": 5.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "One takeaway I learned was which materials were nonrenewable or renewable.  Another takeaway I learned is how to build a city with nonrenewable and renewable resources.  The final takeaway I learned is where gold comes from.  "
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-08T05:27:20.645Z",
+    "updateTime": "2020-05-08T16:06:58.127Z",
+    "publicationTime": "2020-05-08T05:27:19.672Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discussion and Participation"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://app.legendsoflearning.com/join/session-1038768?google\u003dtrue",
+        "title": "Login | Legends of Learning",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://app.legendsoflearning.com/join/session-1038768?google%3Dtrue"
+      }
+    }],
+    "courseWork": {
+      "title": "Wealthy City",
+      "description": "Click the link attached to join the assignment.",
+      "descriptionHtml": "\u003cdiv\u003eClick the link attached to join the assignment.\u003c/div\u003e",
+      "dueTime": "2020-05-08T19:30:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-06T04:37:25.262Z",
+    "updateTime": "2020-05-06T16:56:01.325Z",
+    "publicationTime": "2020-05-06T16:56:01.218Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16GR4zO5QwhYu9m7TegHXtGUANn0SUt4M47DWbFmR3Vc",
+          "title": "[Template] Renewable VS. Nonrenewable Resources",
+          "alternateLink": "https://docs.google.com/document/d/1h2iBkqDpKVP4mJuAYtyx_JZC1EStJGr-SJLvM2t-C4E/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNO1hUF0Xew9xC7-5mYPvCvv-ZH2aYkeKc0gaI2RwGSg3Gap0bMgRYi2KhI-8cHAnU9nUlVTqSHo9ZIg4ozY8ohXbYc9PsJX3soidi9zWw08LdEzB9jiFv2oYNGEOCPxUcuxA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Renewable VS. Nonrenewable Resources\n",
+      "dueTime": "2020-05-08T18:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MqIlXYlc6PUzMAkq7Qe08_oq8SQc_Crs103Xlpoh5b4",
+              "title": "Loz McKenzie - Renewable VS. Nonrenewable Resources",
+              "alternateLink": "https://docs.google.com/document/d/1MqIlXYlc6PUzMAkq7Qe08_oq8SQc_Crs103Xlpoh5b4/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMzMpY9dPIITeK3Af-vWqHS9Kpw9kj1joO53OYndZt7hA-uWBGaEQs7z6wwa4flRonyzd1MBqojx43eomFIGz97iOF0OXKxw8VSzWTSea8f_2f1zsbVaJiJzGXlEKl37JRlEew\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-06T04:40:59.350Z",
+    "updateTime": "2020-05-06T16:53:17.375Z",
+    "publicationTime": "2020-05-06T16:24:16.959Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1cZlP17dRmhfm23eCrIPydKLWkf6N_1qMTTYFJQ0x73I",
+          "title": "[Template] Energy Webquest ",
+          "alternateLink": "https://docs.google.com/document/d/1vcyd8NefukwglAn2g6zpVfOM0M_c3UCAwdYtcdtXpLY/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMNuIyze7dtCCMX_XV-DBRYlgmPmq9cvo2Ffm9BtN05u23kX-iMWJopcyMx2XnPyZhh_Z_XaLw_nnn82m5IYxSKxcKTkWU-KFOx-E2Pj9MlXjf0Uo4PrtzCcCDfGMBZQIye1Q\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Energy Webquest ",
+      "dueTime": "2020-05-06T21:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 15.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1iRsBFReozVV9k7W4L1iMy-Ydz8HN-FW69IyV1OjLvRQ",
+              "title": "Loz McKenzie - Energy Webquest ",
+              "alternateLink": "https://docs.google.com/document/d/1iRsBFReozVV9k7W4L1iMy-Ydz8HN-FW69IyV1OjLvRQ/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBObAxnCQ1d1vlVCwNGWFWjzkhZ1LGYJ2QhJBAq9p0RqG7dlE0G34SAL01zyt7jjOKTqsHUbBd6drP8Aha7z_ywY62anDx3kCzIbco_TWsVQ_bArg-mwIdDQBVDp3scB8jAd0bs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-05-06T04:45:54.454Z",
+    "updateTime": "2020-05-06T16:12:41.475Z",
+    "publicationTime": "2020-05-06T16:12:12.723Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Weekly Design Challenges"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1TZaGy5VoDp7US53CldZUfImPVlPjPkvLJ2Jf1_uiuH8",
+          "title": "[Template] Paper Structure Design Challenge ",
+          "alternateLink": "https://docs.google.com/document/d/1Qu0EP7vRHI8TdzyTQu4NmjYtIsrdzatfpgIf1hivIpo/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOkXqoCvK4qVVbGhH_1sNCVDaqaJCa_1Qh52_7mtl9fKO2RUuQR_1ZBX-vLmdWIlgDUKii0CGe3SuILpiMhAEiTDvt4FQJimOX7X87l8n1rMjUDqk1bZJymUTd6G04sfBu8-w\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Paper Structure Design Challenge ",
+      "dueTime": "2020-05-08T22:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Vnsj0x6g5PXQFWrDxI2pMILJ_3LSPueyIPBpt_wsgZE",
+              "title": "Loz McKenzie - Paper Structure Design Challenge ",
+              "alternateLink": "https://docs.google.com/document/d/1Vnsj0x6g5PXQFWrDxI2pMILJ_3LSPueyIPBpt_wsgZE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNdgpBGWZGU7EICLcSmhCNW81dsg4OZ9_1BPNh1Ero9oT7TredvJhCH2_QeDFdleCLTmxx7TfHWiC0WXJvQsWbjZ8K_eBXMSszUkvCFLIeBDsX0tVA8LYFznI_AA6CGAVoFBwc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-30T15:40:29.760Z",
+    "updateTime": "2020-04-30T16:41:42.732Z",
+    "publicationTime": "2020-04-30T16:41:42.635Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "12Y_jDYCBzGv4EoDzOb3k_SZ-aRBe4RHUkT_cFyZUj98",
+          "title": "[Template] 4.30 what is energy worksheets ",
+          "alternateLink": "https://docs.google.com/document/d/13bpI93xC-FycweAFYR60ve115V_wqOlU9xLNs5Cb774/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPqCe5d_S-yJeiPs6Ta0W2Ucu5G-tQKCaMkKDapUJZQAyoc85KYr8TU1peXOVI_V_UnWyMQ6eF2mHuEHGyDheOG-JPFtXqH78bpM-Mc1C6G-F8F6q_lcNNNx_1Afx_bXoLTsA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1SqjdVes-rkL0iJv14wy4eUQ8R1hIDzz7",
+          "title": "4.30 What is Energy worksheets.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1SqjdVes-rkL0iJv14wy4eUQ8R1hIDzz7/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNht8waQp5-trkjNuMyS8IVBdMkmfZsJk-nMa2va3ZEuPtfCQh3Dwvbfk-IiLxacw986nkebLwzJGyaJWwD1c99ilHyl4625NOwhWmoK8s0BA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "4.30 what is energy worksheets ",
+      "dueTime": "2020-04-30T17:30:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 14.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FO0loPUz_CD9LAw9kiqQkrfdxxrs8zEw-YmYRLoFqO0",
+              "title": "Loz McKenzie - 4.30 what is energy worksheets ",
+              "alternateLink": "https://docs.google.com/document/d/1FO0loPUz_CD9LAw9kiqQkrfdxxrs8zEw-YmYRLoFqO0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMrSvwExmj2eAYIsRg_DzojP4wda7jAhkNe4Fvu9BLHwXXOSrTQd51INqk9xJbjGPviwBf7M9cq2QT0qBleaEwRvVC6PXRb0Sd3QLiP2SQQ5xTUYxaVrzAxe_tFkM96jf8ooi0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-30T15:39:24.567Z",
+    "updateTime": "2020-04-30T16:41:32.333Z",
+    "publicationTime": "2020-04-30T16:41:32.161Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discussion and Participation"
+    }],
+    "courseWork": {
+      "title": "Forces and Motion: Basics interactive",
+      "description": " Write three takeaways in the discussion post\nhttps://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html",
+      "descriptionHtml": "\u003cdiv\u003eWrite three takeaways in the discussion post\u003cbr\u003ehttps://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_en.html\u003c/div\u003e",
+      "dueTime": "2020-04-30T17:30:00Z",
+      "maxPoints": 5.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "One takeaway from the motion basics was that when you used the items on the skateboard it went fast.  Another takeaway was when you were pushing the items another direction when it was going really fast it took a long time to stop the items on the skateboard.  The final takeaway was that the fridge took a long time to pick up speed. "
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-27T20:22:54.815Z",
+    "updateTime": "2020-04-27T21:22:52.204Z",
+    "publicationTime": "2020-04-27T21:22:51.971Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Weekly Design Challenges"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "19CgPuM4j7zi2cu6xmn-R-kmxzsX8gIoOl5B8-8Zu6Tk",
+          "title": "[Template] Paper Airplane Design Challenge ",
+          "alternateLink": "https://docs.google.com/document/d/1yQ3DTm-Kik5BKVGmnWbeiq_sif2WEQ-iImDlHbRCF5A/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOCkg9VFEvtGk9L9rTcl5_14_mAeWfNmEIzKQWvDI71XNtctkzIOU1cyx07D2lSSwqdHLW-DWeuD2Gg_OvGAlaf06G9EP6rwe14RHNXA2SLtYe6HRo04K29D6ijRVyytRDmnA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Paper Airplane Design Challenge ",
+      "dueTime": "2020-05-01T22:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 17.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BJJ-wygFgu1AFyAQ2spxQnfBOoyFqVmRf8aAyR-4gu0",
+              "title": "Loz McKenzie - Paper Airplane Design Challenge ",
+              "alternateLink": "https://docs.google.com/document/d/1BJJ-wygFgu1AFyAQ2spxQnfBOoyFqVmRf8aAyR-4gu0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM0WAAfrKqdYei1FDFUC75u1euBhTNMxfYCjpy3Httqwd35J1-xdu7ZMEZ414ot6NT5gEfVVrrY_UMp4aCZ0XV3kLQqZybhjCtETZysvpN_UHIlvLK-WwKz1tUPKvqkSUpXGdk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-27T02:51:18.727Z",
+    "updateTime": "2020-04-27T21:27:51.630Z",
+    "publicationTime": "2020-04-27T21:22:34.132Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discussion and Participation"
+    }],
+    "courseWork": {
+      "title": "Energy Skate Park: Basics ",
+      "description": "https://phet.colorado.edu/en/simulation/energy-skate-park-basics\n\nPost 3 take a ways from the interactive. ",
+      "descriptionHtml": "\u003cdiv\u003ehttps://phet.colorado.edu/en/simulation/energy-skate-park-basics\u003cbr\u003e\u003cbr\u003ePost 3 take a ways from the interactive.\u003c/div\u003e",
+      "dueTime": "2020-04-27T22:00:00Z",
+      "maxPoints": 5.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": " One interactive from the skate park is that it had a lot of speed.  Another interactive was the person went upside down.  Finally what I learned in the interactive was when the person went up the hill it couldn\u0027t go up but down."
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-22T04:19:50.097Z",
+    "updateTime": "2020-04-22T16:58:14.374Z",
+    "publicationTime": "2020-04-22T16:58:14.124Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "courseWork": {
+      "title": "Materials Around the House Survey ",
+      "description": "https://forms.gle/AdYu7q6ckVHN6XuC8",
+      "descriptionHtml": "\u003cdiv\u003ehttps://forms.gle/AdYu7q6ckVHN6XuC8\u003c/div\u003e",
+      "dueTime": "2020-04-23T22:10:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-22T04:34:17.227Z",
+    "updateTime": "2020-04-27T21:44:16.498Z",
+    "publicationTime": "2020-04-22T16:18:21.950Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-5DxsQc2sy9G4k1ysuQtPtfNjxjrvejvDEj9mPI0g1o",
+          "title": "[Template] Energy Conversions Questions and Key Terms ",
+          "alternateLink": "https://docs.google.com/document/d/1s4WoCTtsaPokmgHdP8HPJ4aOqWvekRNzpxH9sFGReOM/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN6FPWHAmmus79koPDtDhjq77pa7-9PLffUdFmxbMfuWp5JRLBm-myKN0p1wczn6GyXs5jcLrm6cjzkocXvEGTwtuvay4KHAhHBpy5X3Q28Bgfwhli1P1vv89IBrKvJJQDWvQ\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "180nTJ1cxLZp27CeF1iRDOuhSjrArUygA",
+          "title": "Energy Conversions Packet 2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/180nTJ1cxLZp27CeF1iRDOuhSjrArUygA/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGI3RO03rRUme9DGzALS13pzuJd7zgVF2xuw4CsD1AMvqb-8IZ1Wo0TYu04X1nSXTZx3RRLM0k0yjoFqNbrOj81k8nas8tvqpGE0Gs85taVA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Energy Conversions Packet ",
+      "dueTime": "2020-04-30T16:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Vibr1-SNfqxOqAQneJzPAOgslv2lsOYWiCpOmzZ9zTI",
+              "title": "Loz McKenzie - Energy Conversions Questions and Key Terms ",
+              "alternateLink": "https://docs.google.com/document/d/1Vibr1-SNfqxOqAQneJzPAOgslv2lsOYWiCpOmzZ9zTI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOlg2yfCPR5gXx4piPGzXyFFO7xi5FGskjzTNb436DbN0LlcT5iYAcNHPlY1Niat1oV5AecbmXYNHuP-ejEcD60XbcBzHqNs9VV5_xNKUUJygkhCBZzlY8JeoE-DIbIudlJZVg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-16T15:29:12.517Z",
+    "updateTime": "2020-04-16T16:53:12.211Z",
+    "publicationTime": "2020-04-16T16:53:11.890Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quizzes"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1fieKQ9pQy00NCtvdDs96aucwPs3gumS7U8t8yZn1saI",
+          "title": "[Template] Electric Circuit Quiz ",
+          "alternateLink": "https://docs.google.com/document/d/1uykJ9Bbz6cAFBefGO2YVzox_l4ws3prQT_zY6Hjt0Y0/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOokeEBYYWBG-4kvj9_ajnDAulQu8Px37dBa3k4WORcMPQJdROIz_osMV3tL9q-0StUHEhJZsiPXJoJ-dmYRgq2hgJ7ImRD0CUR36DW5CYF0XJAAwt6HkrpuXMQk7Dpd6EM1Q\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Electric Circuit Quiz ",
+      "dueTime": "2020-04-16T17:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Iv0UDMiKcfS1aP1qf7QICLNJ4fR13RxPEff0LdNVcdU",
+              "title": "Loz McKenzie - Electric Circuit Quiz ",
+              "alternateLink": "https://docs.google.com/document/d/1Iv0UDMiKcfS1aP1qf7QICLNJ4fR13RxPEff0LdNVcdU/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOx-uMOe6KJYXoMAG_mkkfZZwwbekoEsMCGn2HFkP8ZPw2xbUrFSKkmUgk6KmeepXGRqTR4sajCMerV1sUOK78Mva_hVoO704gj6HT6EFAxkxJWQafMs46gEO7s0lauUid6cFk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-13T04:41:52.208Z",
+    "updateTime": "2020-04-13T20:20:36.045Z",
+    "publicationTime": "2020-04-13T04:42:25.977Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1R1WYrAKC2hMeKoM7eWnL0Tc05Mo9red0LXAB6OzYSn8",
+          "title": "[Template] Electric Circuit Packet Student Answers ",
+          "alternateLink": "https://docs.google.com/document/d/1XR4ypXLXhOjionSWJKmfUJpz0OzbAE2SIttIu-8QpuA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPMHvoGfUeILyyUlGQ4NC0dXSgtEFIFmKESrFnRzX34ydFiO_Tvm3sHSZeQkUxikYerNEOyYG9G9h2Cqw1_iVzpOo80E1QWTF6_Bfapl80JZeihobXtO-b4yIStIyoTokAh4g\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1YgQpz3ba-lsIOBPs8Z0BsXms0A9F6mfN",
+          "title": "Electric Circuit Packet.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1YgQpz3ba-lsIOBPs8Z0BsXms0A9F6mfN/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP2LBv4VX40Hxbu6soaKJowyJ_IrZ1CMLuMjhjU1QXQLeBT2WhCbbaLScgVwUkIu5y_lCBLfz1E-7fZXr5m62R3BxETR9y4LZjbcldwK6aSwg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Electric Circuit Packet",
+      "dueTime": "2020-04-13T22:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xjPeEp6K6vnv7c-jHv3_Hb1YK6WBmrgrugZf92f0vgk",
+              "title": "Loz McKenzie - Electric Circuit Packet Student Answers ",
+              "alternateLink": "https://docs.google.com/document/d/1xjPeEp6K6vnv7c-jHv3_Hb1YK6WBmrgrugZf92f0vgk/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBODp4KUoc0RQbhG6RVAzQJ8SyzKSjKW30JOZbENVFnIEQGYgp_AT-UmlKym2gduTXDtq1Uk57n0Axk2F4kdaRUYgvrpKGTERE6wUpwTWZ_wvsdSBOvEZGVE22gxUeKSNNm5STg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-13T04:12:04.408Z",
+    "updateTime": "2020-04-13T20:21:06.007Z",
+    "publicationTime": "2020-04-13T04:16:43.685Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1b9FRQm6rKoFmifPbnHagsqJ1wLqHePK0AgcIm1EG5WM",
+          "title": "[Template] Electricity Facts to Know and True or False  post answers here ",
+          "alternateLink": "https://docs.google.com/document/d/1RxJoClUAYDYT1gSQXW8XbI_TtxLlSO5M7lQLiwUkFfM/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO6b2fbG_WCOoV73K8EWNbncXAmGmKR2fNzdsoAWt5Nz2sgtokXscQbh6L7q5AV31cynR3sEdZZ2w9b55HLAnwCqUvhptjhQuwaxrLl_7vnVu-yViixdoVVc9yjZWR09NE3dw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1hylkk3es_SH0kBdqDfmH1rxJe9eONKs4",
+          "title": "Electricity Facts to know and true or false.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1hylkk3es_SH0kBdqDfmH1rxJe9eONKs4/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMkz1cydKAszXnGq-ks5jxYwxF5XZoeC2PihTIUuSgHPiNAoWPTLofQKRGLP9rvXqYY5iPYMFgvx3gpYinea8mUu52Lo1XZb-2SkZ8_J3Y7rA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Electricity Facts to Know and True or False ",
+      "description": "Please read through the worksheets on the PDF and fill out the answers on the document \"Electricity Facts to Know and True or False\" ",
+      "descriptionHtml": "\u003cdiv\u003ePlease read through the worksheets on the PDF and fill out the answers on the document \u0026quot;Electricity Facts to Know and True or False\u0026quot;\u003c/div\u003e",
+      "dueTime": "2020-04-16T16:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NuvFc-J_Z6eZi_CKlK8CxunNEoG_9C8yjVp9nvxzKT0",
+              "title": "Loz McKenzie - Electricity Facts to Know and True or False  post answers here ",
+              "alternateLink": "https://docs.google.com/document/d/1NuvFc-J_Z6eZi_CKlK8CxunNEoG_9C8yjVp9nvxzKT0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMeWFwkincpy4aEu3KkJ6X5SGlhxWD4cDYR1hHnjPeowMlPLCEXn04LmBPyjAfhaudZHk2EKhtkMnfltUpunscx9C7ZjJ1UFizF7I_-IMgS1BB4cQ1svRxnVVxw1bbAWAdLVns\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-10T17:05:54.070Z",
+    "updateTime": "2020-04-10T19:14:39.949Z",
+    "scheduledTime": "2020-04-10T19:10:00Z",
+    "publicationTime": "2020-04-10T19:14:39.713Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1FHOyF6qPpyXk5K3n7QOgo543MKbKCt_bhj9ajOd4OWk",
+          "title": "[Template] Electric Circuit Worksheet ",
+          "alternateLink": "https://docs.google.com/document/d/1I1vwswlgE51-1kFAHrlzM5Z_ebAihOrmGDGypAMm870/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPtMlNFLQB9_u4-8Fq_T9l0aXPHjqwrsdoG8CRXaf9bX8YYXRe39OAJbsp7jg3ysrVZWRirdOuSRNBJEFc-pAVmTyTgYASG4FT3p7C2HUhByNvhhSKai0bRxzqJPyOq00aT5w\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Electric Circuit Worksheet ",
+      "dueTime": "2020-04-13T21:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dbVPtw1Id1VQs8bRtvnI7bElXlAz8abC6U4-tgIYCxI",
+              "title": "Loz McKenzie - Electric Circuit Worksheet ",
+              "alternateLink": "https://docs.google.com/document/d/1dbVPtw1Id1VQs8bRtvnI7bElXlAz8abC6U4-tgIYCxI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOxNehD2nzcropH8XCb571044lJAqSuTXRm0MJYMzsqHI7qcM-4b8ukq702QnuSsOXEQpRqnUIhSvAMM_0y_Tz7dsAP3XaH_WECoDXK3xe2LOp56nqal95abAlqHONGeY-Aa3Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-08T15:21:18.050Z",
+    "updateTime": "2020-04-09T21:08:53.932Z",
+    "publicationTime": "2020-04-08T15:23:28.429Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ww2eZJQL3I-0BiYQ9Xqn6atYzpjTK9d2ucJ8OBFbVWE",
+          "title": "[Template] National Geographic It\u0027s Electrifying Magazine ",
+          "alternateLink": "https://docs.google.com/document/d/1OU7xF1DjBWLrTo8vSLNF-KbloVc8I4L7b4r2grQcvnM/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN7fx0dxrqMTmfemVIGHmJPeYIPywon29mTYQIELFAfsFT03ZELniLvDdsDV9eZvubFpmVCzP4BdBV3Uy91zTO8iYllkZUOkKJDGoTjRKLFNp4ogPt4jeqCVUJzNsjjgMA2bg\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "159k7ETVWqF9UHNtCW-oG_v4zCZRBPmhw",
+          "title": "V2 National Geographic Electricity.pdf",
+          "alternateLink": "https://drive.google.com/file/d/159k7ETVWqF9UHNtCW-oG_v4zCZRBPmhw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMpvkMmV9B-n2vRlEvEljUoY55O5XUSQh3_1c3iyvd1XBo7bJcRbFL4shhNX16a8vuX4ckLj6xZTHaBFNv3azeoYvaOTccHbi-70vibcS3EWA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": " Pages 2- 6 in National Geographic It’s Electrifying and questions 1-15 ",
+      "description": "Please answer the questions in complete sentences and in your own words. \nThe magazine is an attachment on Google Classroom \nPlease turn in through Google Classroom \n",
+      "descriptionHtml": "\u003cdiv\u003ePlease answer the questions in complete sentences and in your own words. \u003cbr\u003eThe magazine is an attachment on Google Classroom \u003cbr\u003ePlease turn in through Google Classroom\u003c/div\u003e",
+      "dueTime": "2020-04-10T18:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12sTIqQqkN2841tCQtc9lHtOtMiHMI13Tkbxq638M3MY",
+              "title": "Loz McKenzie - National Geographic It\u0027s Electrifying Magazine ",
+              "alternateLink": "https://docs.google.com/document/d/12sTIqQqkN2841tCQtc9lHtOtMiHMI13Tkbxq638M3MY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNm4zqzX26OsEh4cQMh5gYM0tf3ZMijKoucnos3SLaq8WD7OI5peLqWaCbyckHDQXmyNr6ndKazDHD3I95XrocSVU4GhPPpXnEr3vqJYPGuD74lUBvamJmKf9BgOzQPEvL6Wrw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-08T15:20:08.912Z",
+    "updateTime": "2020-04-10T19:00:01.948Z",
+    "publicationTime": "2020-04-08T15:20:50.898Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Labs, Projects and Activities"
+    }],
+    "courseWork": {
+      "title": "Electric Circuit Interactive",
+      "description": "https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc\n\nAfter you experiment with the interactive please share five different combinations you used. You can describe what you did and what happened.  Please feel free to share about the combinations that didn’t make the light bulb light up as well as the things that worked. Remember, scientists learn through trial and error and by reflecting on how to improve! ",
+      "descriptionHtml": "\u003cdiv\u003ehttps://phet.colorado.edu/en/simulation/circuit-construction-kit-dc\u003cbr\u003e\u003cbr\u003eAfter you experiment with the interactive please share five different combinations you used. You can describe what you did and what happened.  Please feel free to share about the combinations that didn’t make the light bulb light up as well as the things that worked. Remember, scientists learn through trial and error and by reflecting on how to improve!\u003c/div\u003e",
+      "dueTime": "2020-04-08T17:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "When I was doing it  I put two batteries and a reactor at first when I turned the volts up the wires and stuff went on fire but when I put a reactor in it stopped the fire and I got it to stay not on fire."
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-02T05:58:18.629Z",
+    "updateTime": "2020-04-02T17:14:51.875Z",
+    "publicationTime": "2020-04-02T17:09:38.327Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discussion and Participation"
+    }],
+    "courseWork": {
+      "title": "What are two take aways from the Static electricity interactive? ",
+      "maxPoints": 10.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "One take away is the balloon is drawn to the sweater.  Another if its farther it won\u0027t come to the sweater\n"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Elizabeth Kenney"
+      }
+    },
+    "creationTime": "2020-04-02T15:51:20.055Z",
+    "updateTime": "2020-04-02T15:51:55.343Z",
+    "publicationTime": "2020-04-02T15:51:55.316Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homework"
+    }],
+    "courseWork": {
+      "title": "Sit Spot Expectations",
+      "description": "Find an outside spot  to observe (Being outside is preferred, however you may complete your sit spot by a window inside your house if needed.) \n\n Spend 15 minutes observing the world around you\n\nUse your senses\n\nWhat do you smell? \n\nWhat do you see? \n\nWhat do you hear? \n\nWhat do you feel? \n\nRecord your observations on a piece of paper \n\nYour observations can be in any format -- a list or pictures usually works best. \n\nStay in one spot during the sit spot. The longer you are in one area the more you observe!\n\nBring a stopwatch, set a timer, or bring a watch with you to know when 15 minutes are up. \n\nHave fun! Be creative! \n\nIf you are enjoying it stay longer, or move to another spot and compare! \n\nBring your sit spot assignment to the next science class (on Wednesday)",
+      "descriptionHtml": "\u003cdiv\u003eFind an outside spot  to observe (Being outside is preferred, however you may complete your sit spot by a window inside your house if needed.) \u003cbr\u003e\u003cbr\u003e Spend 15 minutes observing the world around you\u003cbr\u003e\u003cbr\u003eUse your senses\u003cbr\u003e\u003cbr\u003eWhat do you smell? \u003cbr\u003e\u003cbr\u003eWhat do you see? \u003cbr\u003e\u003cbr\u003eWhat do you hear? \u003cbr\u003e\u003cbr\u003eWhat do you feel? \u003cbr\u003e\u003cbr\u003eRecord your observations on a piece of paper \u003cbr\u003e\u003cbr\u003eYour observations can be in any format -- a list or pictures usually works best. \u003cbr\u003e\u003cbr\u003eStay in one spot during the sit spot. The longer you are in one area the more you observe!\u003cbr\u003e\u003cbr\u003eBring a stopwatch, set a timer, or bring a watch with you to know when 15 minutes are up. \u003cbr\u003e\u003cbr\u003eHave fun! Be creative! \u003cbr\u003e\u003cbr\u003eIf you are enjoying it stay longer, or move to another spot and compare! \u003cbr\u003e\u003cbr\u003eBring your sit spot assignment to the next science class (on Wednesday)\u003c/div\u003e",
+      "dueTime": "2020-04-08T16:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,49 @@
+{
+  "assignments": [{
+    "title": "Welcome Google Slide",
+    "rubric": [{
+      "title": "Welcome Google Slide",
+      "criteria": [{
+        "title": "Your Name/Nick Name",
+        "ratings": [{
+          "points": 2.0
+        }, {
+          "points": 1.0
+        }, {
+        }]
+      }, {
+        "title": "Pictures/Emojis",
+        "ratings": [{
+          "points": 2.0
+        }, {
+          "points": 1.0
+        }, {
+        }]
+      }, {
+        "title": "Info About You",
+        "ratings": [{
+          "points": 2.0
+        }, {
+          "points": 1.0
+        }, {
+        }]
+      }, {
+        "title": "Favorite Cartoon Character/SuperHero/Spirit Animal",
+        "ratings": [{
+          "points": 2.0
+        }, {
+          "points": 1.0
+        }, {
+        }]
+      }, {
+        "title": "What are you Excited to learn About this Year in Computer Science?",
+        "ratings": [{
+          "points": 2.0
+        }, {
+          "points": 1.0
+        }, {
+        }]
+      }]
+    }]
+  }]
+}

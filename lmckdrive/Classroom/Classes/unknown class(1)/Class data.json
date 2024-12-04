@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "posts": [{
+    "courseWork": {
+      "submissions": [{
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1hyGx6lBAeZypKCAJnPoSVmSIDzJ0siyS5zWaY9Mlx-A",
+              "title": "Loz McKenzie - Welcome Slide",
+              "alternateLink": "https://docs.google.com/presentation/d/1hyGx6lBAeZypKCAJnPoSVmSIDzJ0siyS5zWaY9Mlx-A/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOyxh4Jf-fVOVnxUilw_-PhWfS6AuE4alKOCI8haM1Dj-F6Wc58e9Tr3HtraR3JG9z3D8MjqZBq0cFM5Ni0Qhbloyv9IOY7w9mURBBTjo22gXleHnQNtAFNqlj8kgmuVDRFaa4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

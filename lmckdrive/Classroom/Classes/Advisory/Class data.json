@@ -1,0 +1,1632 @@
+{
+  "version": 1,
+  "name": "Advisory",
+  "section": "Trainor 20-21",
+  "description": "Advisory",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroomf987272b@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnflFBeURtQzhTM0NEY2dWRlhxeUIyX1ZjajRHSktzREhaMDAwQ1NIQmVvaHc",
+    "name": "Advisory Trainor",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnflFBeURtQzhTM0NEY2dWRlhxeUIyX1ZjajRHSktzREhaMDAwQ1NIQmVvaHc?resourcekey\u003d0-cSqIFu7lPLicnpFMjCTcBg"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-05-27T21:51:31.100Z",
+    "updateTime": "2021-06-01T17:10:08.702Z",
+    "scheduledTime": "2021-06-01T17:10:00Z",
+    "publicationTime": "2021-06-01T17:10:08.454Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1yJdZPIOZWOvpFt7zxKA59_1knqRjQNg2",
+          "title": "TheBoyWhoTalkedtoAnimals.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1yJdZPIOZWOvpFt7zxKA59_1knqRjQNg2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN7ClR8AQ-MSr7TtxtJzy2os27J-edXpvc2jwRVTPBr6hRgIjVYm6hB_gXnPWqAkRpUX1pdadGOuM3htSiMGAo6tNF-aMduIPt2kJCHm1TUlVI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "The Boy Who Talked to Animals",
+      "dueTime": "2021-06-02T15:25:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-05-25T20:57:12.054Z",
+    "updateTime": "2021-05-26T17:04:34.091Z",
+    "scheduledTime": "2021-05-26T17:00:00Z",
+    "publicationTime": "2021-05-26T17:04:33.923Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HpoagwkwEDwVJhzcjtjCzlfQx5yZtWrS",
+          "alternateLink": "https://drive.google.com/open?id\u003d1HpoagwkwEDwVJhzcjtjCzlfQx5yZtWrS"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Krishna Coloring Sheet",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-05-25T20:57:55.420Z",
+    "updateTime": "2021-05-26T16:17:16.485Z",
+    "publicationTime": "2021-05-25T20:58:21.708Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Upload Lesson Work Here",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-05-21T20:38:57.524Z",
+    "updateTime": "2021-05-24T15:32:35.088Z",
+    "scheduledTime": "2021-05-24T15:30:00Z",
+    "publicationTime": "2021-05-24T15:32:34.895Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1azAVKEXLBFtMs_f_zBX-Lb--iBgYZu8l",
+          "title": "Lesson Plan.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1azAVKEXLBFtMs_f_zBX-Lb--iBgYZu8l/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMOvfN3Mks2GTQr07baUiTvAxWDhZ6rdUTNT72-Zbzd_w0RkeNYw2BfvDqOsHAZoY-afO9JgIIZih1szL6bsAdL98KVBI2c-3dhjobphSD9848\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lesson Plan",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18ldnB0bf-CLfCFeol41_PA3ffsSzrHrN",
+              "title": "Scanned Documents - 2021-05-24T092852.416.pdf",
+              "alternateLink": "https://drive.google.com/file/d/18ldnB0bf-CLfCFeol41_PA3ffsSzrHrN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOsgceO11hZrGBDP_gzUStbTi3SfNitHazs3-RF1gHiGqegtZ46XfIqDRBCJsDVqtnuohEvJiflFYvY4vlcy7IiMcZ7wu8EPg_vM5x7t4DBSRE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Michelle Gallivan"
+      }
+    },
+    "creationTime": "2021-05-20T15:10:22.697Z",
+    "updateTime": "2021-05-20T15:10:29.491Z",
+    "publicationTime": "2021-05-20T15:10:28.842Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1R5iUgT6ncXyyJHm3AofdMNlQQjPY6MTmT9q9CBj3pac",
+          "title": "2021 LS \u0026 MS Sage Session Info for Students",
+          "alternateLink": "https://docs.google.com/document/d/1R5iUgT6ncXyyJHm3AofdMNlQQjPY6MTmT9q9CBj3pac/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPyqBR_uz7N05yijUilk2-0NwRoP1bm_T3_0am7MaQnxDQ2B9YKQhuQGN62ESKkAWwMzF4w9GG6obM3_V-mWfV9r3qsCCR5XpaaEZYjXn0MAV2TcfW3IMswt6qfIQ8b6qnnC6U\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Sage Session Information and Class Schedule",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Michelle Gallivan"
+      }
+    },
+    "creationTime": "2021-05-17T18:30:12.193Z",
+    "updateTime": "2021-05-17T18:30:21.843Z",
+    "publicationTime": "2021-05-17T18:30:21.227Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScl0CTb9VDRVx7Ry2krxG97NQXPUOK8l8YHmU55f2ZuMgW8yQ/viewform?hr_submission\u003dChkI2--roZoBEhAIt-nd54AKEgcIwbHzlcUDEAE",
+        "title": "Student Pillar Awards Quarter 4",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/JRViWpH5ewxwzL30vUupExebeffael1bTA-XsUkwyy_LDfNMqaxNxplLWHddSs7jCOPgjGXvDRY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quarter 4 Pillar Nomination Form",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-04-05T20:52:01.190Z",
+    "updateTime": "2021-04-05T21:00:40.822Z",
+    "scheduledTime": "2021-04-05T21:00:00Z",
+    "publicationTime": "2021-04-05T21:00:40.695Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1NNj74nyd3yN_U8DnPQR5KnRK308WJ1dI",
+          "title": "PATHs13.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1NNj74nyd3yN_U8DnPQR5KnRK308WJ1dI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP9rj-NHk4_bpKxn5baFFAm_v9DlLOI2g2-CRMGkKEH7XllbzsFWi4BEQOjI9xVapd4E463Ubm2_-kNhpyJXuPks2uGX2JwDNU6Q-ksoe3LOaE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "PATHs - Study Skills Checklist",
+      "dueTime": "2021-04-05T22:15:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Aow7GtFq64gNpNpq1Qoci1YabHx3F3bG",
+              "title": "Kami Export - Loz McKenzie - PATHs13.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Aow7GtFq64gNpNpq1Qoci1YabHx3F3bG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPKG3Q3VbsQFyV9KlxqoM-S6BvW7Vybm9ota8t5G3V4idn21be-oagsiG_cTb6W_bMITXsicG5PPmYrb5w4VMQ6aHHZ8M13rKHGmZ9QNZnKY2s\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-03-04T21:22:32.903Z",
+    "updateTime": "2021-03-08T20:39:44.561Z",
+    "scheduledTime": "2021-03-08T20:35:00Z",
+    "publicationTime": "2021-03-08T20:39:44.417Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_TpJLidbnpQL5PEE0eVVTUbeKiWPFDQzWCrdGeedKBM",
+          "title": "Copy of Student Led Conferences Spring 2020",
+          "alternateLink": "https://docs.google.com/document/d/1_TpJLidbnpQL5PEE0eVVTUbeKiWPFDQzWCrdGeedKBM/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMfc9D13wY4rGl-TM6faRr8RHP7HOPm1Hofqi3vsa5f2qgB39Pf2tC5v--pb_TgJy55nI8pEn8rmgzhn71fg69okpcvPrmhJx0omQh_FloxpZ9b93-ZqPlO6ztwEMXHfDFhUHI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Spring SLC Form",
+      "dueTime": "2021-03-09T23:15:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1piOY84VXIwxpS7645fTcXu9Iy5r6rbV4",
+              "title": "5 Grade 5 Student Led Conferences.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1piOY84VXIwxpS7645fTcXu9Iy5r6rbV4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1ZvtP4_svEqt0QGYXqsql2r1usyK3bNvwcxKhfnaPky3rnG0_ehhkw_QtZgWNkpCn9zOLKw80nghFyApamX2ftaOaqoVhf34ZLP9JkDmC45w\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Josiann Trainor"
+            }
+          },
+          "creationTime": "2021-03-10T17:45:23.565Z",
+          "updateTime": "2021-03-10T17:45:23.337Z",
+          "comment": "Loz, you did a good job on this!",
+          "commentHtml": "\u003cdiv\u003eLoz, you did a good job on this!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2021-02-26T22:00:44.337Z",
+    "updateTime": "2021-03-05T18:20:00.729Z",
+    "scheduledTime": "2021-03-05T18:20:00Z",
+    "publicationTime": "2021-03-05T18:20:00.539Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LsaIftnH8u_gF4KJqXGKtbjhagRNqUub",
+          "title": "PATHsLesson12.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1LsaIftnH8u_gF4KJqXGKtbjhagRNqUub/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMHWsVZIhgCGMZncJ9XpHjNL8K9PbPUSoTzdTncT4RfRM4cDRaIvJx444gveO2GBgRwrhc5cB2CMlszpt5fEfm1Pf6_T2-YTtU-PvEkvKrp500\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "PATHs Lesson 12",
+      "dueTime": "2021-03-05T19:35:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1-WUMJvdexKBs_yFZymtDk9WtrQAClV9C",
+              "title": "PATHS Activity Sheet (1).pdf",
+              "alternateLink": "https://drive.google.com/file/d/1-WUMJvdexKBs_yFZymtDk9WtrQAClV9C/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_PAi_wkAeoCgQs_1cxWaDr4fWACQrSzltePufKJG14Ty7OxbZHh9XuTKLI144oazOnVviv4wWuJARqfnSIXXr02kc6v7iLINXS3ZMMN314wI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Michelle Gallivan"
+      }
+    },
+    "creationTime": "2021-01-10T19:28:46.301Z",
+    "updateTime": "2021-01-10T19:29:00.252Z",
+    "publicationTime": "2021-01-10T19:28:59.436Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfhm_09VxP6Z5PB792-FmGC14ond6NGMK9fhROGf6buPqOC1w/viewform?hr_submission\u003dChkI2--roZoBEhAIi5bF0qkHEgcIwbHzlcUDEAE",
+        "title": "Ask Spike",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/IXRy4gziqKdBjHdY_ZhP73_zMh38Qf7So9QqafjXOdS9w-JcPggDApwzCzx2bf4R2s3v-fAkqHE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Ask Spike 2nd Semester",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-12-16T18:52:00.632Z",
+    "updateTime": "2021-01-09T23:39:25.156Z",
+    "scheduledTime": "2021-01-08T16:45:00Z",
+    "publicationTime": "2021-01-08T16:49:36.829Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1izcKrLE4CjEBzlmRacyP1kWSYK4Q-v52",
+          "title": "AngerCanHijackYou.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1izcKrLE4CjEBzlmRacyP1kWSYK4Q-v52/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMnMysNXwjtjTe5IjF2bn2Kbb7MUWx3SIIlMecfAZwsj7ljqW-TSfSZjJjPYKfcVBLVUgz_J07KTXlPMDT3V74HbIwp2ZXqcUJ68sLXnIiJkAE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Anger Can Hijack You",
+      "dueTime": "2021-01-08T23:15:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HIU9OPcogd5cDWKFnWMXQ-vnxYYASZM0",
+              "title": "PATHS Supplementary Activity (1).pdf",
+              "alternateLink": "https://drive.google.com/file/d/1HIU9OPcogd5cDWKFnWMXQ-vnxYYASZM0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMe-jl38ejtN36B43YSbYx-Ae6-nBVKS1mACz5RJxS0D40JAR1X2NqvLUMjxMwY1Esl4TEAAHI_Mapa6OFSAESKHQQ2-nSdoUmwz9Q1UUyqK_c\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-12-16T17:48:44.897Z",
+    "updateTime": "2020-12-16T17:48:57.310Z",
+    "publicationTime": "2020-12-16T17:48:57.138Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1GPORaSJJw1Eda8pLWuwB62J8OUtHlqid",
+          "title": "HinkPinks.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1GPORaSJJw1Eda8pLWuwB62J8OUtHlqid/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQJt5yoiK_ePuQsso8zWFA3AnQFQNhk8gRI-7dQTTNweFUpTsi4iKh_vjNP27K81kasGDLGjqbIZBMHp8-zqYk2JTF7uA1jYg_vEy6KO5kAc8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Hink Pinks",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CVUMp9bHq0-DZ2UA6o92bnTc9G_vHrrL",
+              "title": "Kami Export - Loz McKenzie - HinkPinks.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1CVUMp9bHq0-DZ2UA6o92bnTc9G_vHrrL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOpaAjJ5Vtt_nFz-z1NgZqG44HuKXspMewa1gzKJEbi-1XuFrx491LEZmPVYh9l14pEJminfvDjNR5cMHL-Gfd4sdWSowWv6ZYU-2lt5TlCWP4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-12-14T21:50:29.772Z",
+    "updateTime": "2020-12-14T22:40:02.698Z",
+    "scheduledTime": "2020-12-14T22:05:00Z",
+    "publicationTime": "2020-12-14T22:09:47.141Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1A1D7kiVFnJra1ouZnPdYZc99aumu90wC",
+          "title": "SynonymsAntonymsConnotations.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1A1D7kiVFnJra1ouZnPdYZc99aumu90wC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPzDhpbKr-HpY69XhAXh5mc99pE3dgk4fkbyJOBCjSARN1zzyXZt3w7w0QtCpyyE2T9zV1nFXZX-IoykI8zgW3C9CjYGRc00DbNjCZOsEe_OIs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1VuSC6OAtDX5f5G3o2mwXHdGw8CvfsOej",
+          "title": "PATHsFeelingThesaurus.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1VuSC6OAtDX5f5G3o2mwXHdGw8CvfsOej/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNpffiqivLJfOkH82YuKp3i2ip0lrUifAvbrptk2UxzREcDYjJWsq_7ioBnEB0jWAg09Y0kFz-FfFmlJzZF3ZkxTRGSreCdSyoEt3ht0EpVZMU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "PATHs Lesson 9 - Feelings Thesaurus ",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jcHQHVUsb5QtEZJsAO6TlaySuVgNXP0Y",
+              "title": "PATHS Supplementary Activity.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1jcHQHVUsb5QtEZJsAO6TlaySuVgNXP0Y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPwFQG6YicgpNyxyi_JK4Dz0hxlJpwNGZElnkDznJldKLCuUpKwFZg_hVutHTVEWlVCJcbdGXNKEBBEgeO3X74A0CLZubIdE5PpuvqlEyT9DwQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-12-11T20:24:18.698Z",
+    "updateTime": "2020-12-14T16:25:53.680Z",
+    "scheduledTime": "2020-12-14T16:25:00Z",
+    "publicationTime": "2020-12-14T16:25:53.504Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16adq38rQAYRXQv-y3IRPAIvdqU3YBzR3",
+          "alternateLink": "https://drive.google.com/open?id\u003d16adq38rQAYRXQv-y3IRPAIvdqU3YBzR3"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1oqsEPiKqAckoW6EZ3KZr-h5Juuk9J1ai",
+          "title": "AI.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1oqsEPiKqAckoW6EZ3KZr-h5Juuk9J1ai/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPIA69KTkSzRvAKH55Bu75gZpu3L5POKUmiK4HlFTJR4l-qv9NOV-2sGtzGiNYttWuISL0iAZ9jmAC_liFQ6hjPZH-azV2itfvsJiFMaxE_I4Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1_Gnyl5kmM4lZA0rk79NphFTqJH2yCnjj",
+          "alternateLink": "https://drive.google.com/open?id\u003d1_Gnyl5kmM4lZA0rk79NphFTqJH2yCnjj"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Coordinate Grid Pictures",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Loz McKenzie"
+      },
+      "emailAddress": "lmckenzie@sageridge.org"
+    },
+    "creationTime": "2020-12-07T17:57:06.418Z",
+    "updateTime": "2020-12-07T17:57:06.373Z",
+    "publicationTime": "2020-12-07T17:57:06.110Z",
+    "state": "PUBLISHED",
+    "announcement": {
+      "text": "The campus meeting is not letting me in",
+      "textHtml": "\u003cdiv\u003eThe campus meeting is not letting me in\u003c/div\u003e"
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "Justin Sloyan"
+        }
+      },
+      "creationTime": "2020-12-07T18:07:18.724Z",
+      "updateTime": "2020-12-07T18:07:18.448Z",
+      "comment": "I don\u0027t even see the advisory zoom link",
+      "commentHtml": "\u003cdiv\u003eI don\u0026#39;t even see the advisory zoom link\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }, {
+      "creator": {
+        "name": {
+          "fullName": "Loz McKenzie"
+        },
+        "emailAddress": "lmckenzie@sageridge.org"
+      },
+      "creationTime": "2020-12-07T18:26:20.839Z",
+      "updateTime": "2020-12-07T18:26:20.556Z",
+      "comment": "We were having recess at that time.",
+      "commentHtml": "\u003cdiv\u003eWe were having recess at that time.\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-11-09T21:46:47.903Z",
+    "updateTime": "2020-11-09T22:34:57.802Z",
+    "publicationTime": "2020-11-09T21:47:40.533Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1vog_6pmYmHNYQEw4MG1sYTJPirg0DEzG",
+          "title": "PATHsLesson7.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1vog_6pmYmHNYQEw4MG1sYTJPirg0DEzG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNfo8QHnnxQl6h8RKxC6F2absXUng2yWMKSwgnUdcHhFGtjVUVkM05hZirnP-0f5gUQ2lJJP7_JBXnMtElxfE_EQ4x5qao5YD4zqlznPB-DGBg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "PATHS Lesson 7",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ST797pltzS3NmGgSASHlgSffISY8YGhj",
+              "title": "Loz McKenzie - PATHsLesson7.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ST797pltzS3NmGgSASHlgSffISY8YGhj/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOQaU1vjXNcQIYp5OV6B6lHZc5fQmCjY_OUUuC6bbl9CaA42hllhw8J15i6yfMMoMukBaHJ9e_pPsYCQDGhP6I_OmSCc97FONs1opOv97B184Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Michelle Gallivan"
+      }
+    },
+    "creationTime": "2020-11-05T19:15:01.824Z",
+    "updateTime": "2020-11-06T16:04:05.843Z",
+    "scheduledTime": "2020-11-06T16:00:00Z",
+    "publicationTime": "2020-11-06T16:04:05.280Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdYWgSFZl-7Lc2eS6BpcMDlLKoLTt6UxLOHvmOg5Xrzvg3IAg/viewform?hr_submission\u003dChkI2--roZoBEhAI853s7a0GEgcIwbHzlcUDEAE",
+        "title": "Veterans Day Questionnaire",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/kpu1V5rwHGLHiPLN0OYdQxJjeUVS-Cz6fhsirHRAEssTjh4YSGM4A1erhe1OElUBzE6E1B3I-6M\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Veterans Day Google Form",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-11-01T21:31:38.211Z",
+    "updateTime": "2020-11-03T16:27:59.164Z",
+    "scheduledTime": "2020-11-03T16:25:00Z",
+    "publicationTime": "2020-11-03T16:27:58.973Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1hMsZY-AW5HhD6x18ECC5myhTtXI3PKJj",
+          "title": "PATHs20WaystoCalmDown.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1hMsZY-AW5HhD6x18ECC5myhTtXI3PKJj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMBtcPlLh5Ee2-uJpqzeuUgT_yhUQsqcK0NZPs-3CqMsv2QvmaJk34HCss41opE7LhkQJeSfGksXPq9p048Q5wICdNGn1SzLvdDjkZdNjfM7nU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "20 Ways to Calm Down",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-10-28T20:21:27.661Z",
+    "updateTime": "2020-10-28T20:21:58.361Z",
+    "publicationTime": "2020-10-28T20:21:57.963Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "link": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSddbOaZVzFj2SPw7fzsOwgvC2i8bSYjVqY_dPxrcwPCCk_F7g/viewform?usp\u003dsf_link",
+        "title": "Google Forms: Sign-in",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://docs.google.com/forms/d/e/1FAIpQLSddbOaZVzFj2SPw7fzsOwgvC2i8bSYjVqY_dPxrcwPCCk_F7g/viewform?usp%3Dsf_link"
+      }
+    }],
+    "courseWork": {
+      "title": "Trunk or Treat Vote",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Michelle Gallivan"
+      }
+    },
+    "creationTime": "2020-10-23T20:53:10.137Z",
+    "updateTime": "2020-10-26T15:04:29.031Z",
+    "scheduledTime": "2020-10-26T15:00:00Z",
+    "publicationTime": "2020-10-26T15:04:28.492Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Dean Documents from Mrs. Gallivan"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScqMFxyAVb29vvOMtKAkAng2gcnWuVYVBPOJQMpSr8ZU4foEw/viewform?hr_submission\u003dChkI2--roZoBEhAInsPw1PIFEgcIwbHzlcUDEAE",
+        "title": "Lower School Advisory Survey",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/FjnWLrEjMZZSQ3JLQA5tuW2e-sEzqQdv3uiwYhwGCjyJqFy4nTMMP7Gb66tVBQzuO_Z9Jz4l0nY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Needs Assessment",
+      "description": "Please complete this google form to help the school understand how we can improve or continue our advisory programming.\nYour name and email are NOT being recorded.  This is anonymous.",
+      "descriptionHtml": "\u003cdiv\u003ePlease complete this google form to help the school understand how we can improve or continue our advisory programming.\u003cbr\u003eYour name and email are NOT being recorded.  This is anonymous.\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-10-21T19:49:33.524Z",
+    "updateTime": "2020-10-22T15:04:34.999Z",
+    "scheduledTime": "2020-10-22T15:00:00Z",
+    "publicationTime": "2020-10-22T15:04:34.803Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "17h6cvGjXIAeB7Mio-rkDAiU1ZKHYVNHu",
+          "title": "ProblemDiary.pdf",
+          "alternateLink": "https://drive.google.com/file/d/17h6cvGjXIAeB7Mio-rkDAiU1ZKHYVNHu/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOMqIy8O1i4iyoFUwW7tSM2cddqo0j5ep0lUm016E1fSHwjmIrNCbBd9eqJuBaLRqTjhZ2Z-rm5JJSe7dNwLqfqQweKhkFzEhSLq0Z27vrCvvw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "PATHs - Problem Diary",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YHjcj_tT37fSiIdvNWgBGyClABZTsXH2",
+              "title": "WAYS TO CALM.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1YHjcj_tT37fSiIdvNWgBGyClABZTsXH2/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPXhz7DH_pswBB7Z8TBxjzut-0P59loE-w6L20eGRdXSsNMKDCf2mWdJd3t1FvDQvPHo91RfPc49FH-PQ4hrpx9RSEeLkbWRhmLi85F_Ev4FgQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-10-01T19:58:37.207Z",
+    "updateTime": "2020-10-06T15:48:09.405Z",
+    "scheduledTime": "2020-10-05T19:35:00Z",
+    "publicationTime": "2020-10-05T19:36:31.599Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "SLC Form"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1eBLcx1xCNXjaRFqcenqxT7SpdUYlJo7p9EG46cR8q_M",
+          "title": "2020 Student-Led Conferences: Pillar Profiles/Brainstorm",
+          "alternateLink": "https://docs.google.com/document/d/1eBLcx1xCNXjaRFqcenqxT7SpdUYlJo7p9EG46cR8q_M/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM-EuwOHyCnitgLAHWO_giGVN0w7CRzlnQVYV0eCbJa4SQQ2udScyAnfqIQHgLkc5suQKdmtAW2Qvo-s0xjbazfgdi7BjMbZWhI_7-QfOuInCoT9Wx_1qAeZz8tbsws4oUX9gw\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1eBLcx1xCNXjaRFqcenqxT7SpdUYlJo7p9EG46cR8q_M",
+          "title": "2020 Student-Led Conferences: Pillar Profiles/Brainstorm",
+          "alternateLink": "https://docs.google.com/document/d/1eBLcx1xCNXjaRFqcenqxT7SpdUYlJo7p9EG46cR8q_M/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM-EuwOHyCnitgLAHWO_giGVN0w7CRzlnQVYV0eCbJa4SQQ2udScyAnfqIQHgLkc5suQKdmtAW2Qvo-s0xjbazfgdi7BjMbZWhI_7-QfOuInCoT9Wx_1qAeZz8tbsws4oUX9gw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "SLC Form",
+      "description": "Use complete sentences when filling out this form.\nListen to directions in class. ",
+      "descriptionHtml": "\u003cdiv\u003eUse complete sentences when filling out this form.\u003cbr\u003eListen to directions in class.\u003c/div\u003e",
+      "dueTime": "2020-10-19T15:25:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BrNEBb7wS11DItRu2JJN9RRV-7v_BjTlzZEEiqOBuns",
+              "title": "Loz McKenzie - 2020 Student-Led Conferences: Pillar Profiles",
+              "alternateLink": "https://docs.google.com/document/d/1BrNEBb7wS11DItRu2JJN9RRV-7v_BjTlzZEEiqOBuns/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPJoh24BPKyxYGtY_mZbbVbcq7HiJH8Vc187yqD80rZdHvduwoDjI7neUg_6x588Galfj4dc_4IlkRdGxxxMws_itWQ2xtX9vaiYZiOexfWtWnnLa8eiqFqC_-5ED_8wd9dyT8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-09-28T14:57:23.362Z",
+    "updateTime": "2020-09-28T20:55:38.739Z",
+    "scheduledTime": "2020-09-28T20:55:00Z",
+    "publicationTime": "2020-09-28T20:55:38.625Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Q1 Self Assessment"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EAUFwWPXnVNV8BsyNIm5H5THCpcqucuTPuiF738IyrU",
+          "title": "[Template] Quarter 1 Self Assessment",
+          "alternateLink": "https://docs.google.com/document/d/110_XlZqiDIR2lOLoVM8HxQelcjBEwGj42OCRaarg7gE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNBDJKIV9Fd97W1PTem6XZDf-ACVh18W8elkM0C0pyuYC1i5agfeWx7CnbjnEpXqE1OT-BHpp0_I5ZXlLjp-xyCnskPCpfT3ar6x0Wllza-K9BXIwDFeR16o11HCrk9cYdUbs4\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1eyEeTQPZkju0u4lnETHwgNMgt9cDkCvfo3tGa5Q92jk",
+          "title": "Learning Behaviors",
+          "alternateLink": "https://docs.google.com/document/d/1eyEeTQPZkju0u4lnETHwgNMgt9cDkCvfo3tGa5Q92jk/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMJSqT55OlZPe9EmkVPYaRgRCsXAgjYXftdb_tEh8GUmB9A1c_gzkd---aVCOSZKpvw_rR-jbKeXsq8SBSBZ4LYmUvPL7eccGy_jqh8eo4hEgUnhd7daX8I4vflCaicC1hu3U4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Q1 Self Assessment",
+      "dueTime": "2020-09-29T15:25:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1S-WsreVvNHOoibn9TqHi2o97wgXd6FND_cm17lG2n3o",
+              "title": "Loz McKenzie - Quarter 1 Self Assessment",
+              "alternateLink": "https://docs.google.com/document/d/1S-WsreVvNHOoibn9TqHi2o97wgXd6FND_cm17lG2n3o/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOWSZuMN14tV3kisYsK00mNKZe4zmdEc9XcgpLzizLR1MUumdlF10fbmO_YMxSPs_jWFjuAHWgEHWCVMNMYUw0EnzSNPxPzvifDc3vQ3JGDk8ex2-KZC2Z46jDrVz1DLY00TDs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-09-22T23:01:24.955Z",
+    "updateTime": "2020-09-22T23:04:07.093Z",
+    "publicationTime": "2020-09-22T23:04:06.706Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Honor Code"
+    }],
+    "courseWork": {
+      "title": "Honor Code ",
+      "description": "Copy the Honor Code (found below) on a 4 x 6 index card and upload it here. \n\nIntegrity is an essential component of the Sage Ridge experience in order to support the pursuit of academic and personal honesty. We expect the highest standard of respect towards the School and all members of our community.\nI pledge to uphold the Sage Ridge honor code. \n(print name) [sign name]",
+      "descriptionHtml": "\u003cdiv\u003eCopy the Honor Code (found below) on a 4 x 6 index card and upload it here. \u003cbr\u003e\u003cbr\u003eIntegrity is an essential component of the Sage Ridge experience in order to support the pursuit of academic and personal honesty. We expect the highest standard of respect towards the School and all members of our community.\u003cbr\u003eI pledge to uphold the Sage Ridge honor code. \u003cbr\u003e(print name) [sign name]\u003c/div\u003e",
+      "dueTime": "2020-09-24T15:25:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lwwXjkSROZPgxq3FEUckOYYNydazJq0B",
+              "title": "ToGl RO3 CRomfie.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1lwwXjkSROZPgxq3FEUckOYYNydazJq0B/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPMKD9kPZsTUfLeafgrfsle5iw18fzv-HXjBgSq9WhtgJh4K3Wr3FOjT924WqtJBTQmSZgZT-dYZ_NSbhtqz9kNEDLY9eUWphSdckUOfObtQXU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-09-20T01:39:02.984Z",
+    "updateTime": "2020-09-22T20:59:51.547Z",
+    "scheduledTime": "2020-09-22T20:55:00Z",
+    "publicationTime": "2020-09-22T20:59:51.377Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Dr. Yunus Bio"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rkFywG5Q41cBTvtiWEwnPGCO8IIAtvJj",
+          "title": "BioQuestions.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1rkFywG5Q41cBTvtiWEwnPGCO8IIAtvJj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPdTXjujlESqcLv3CS6dns2Gbdnx7kyc2UF7h7_dz-vylXB4InrkgizSLwRG-Q5hxuIqN8CDrt0L609LPVe9gmE4tG5AU0nw9e9zwcWIdPDOI4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1cv0Cuy66HsJvxd2z7V21yXLBBD_wmhzT",
+          "title": "Dr. Yunus.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1cv0Cuy66HsJvxd2z7V21yXLBBD_wmhzT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPHgwWgER1I91HJP4ru4-rn7O1d1SKqAeqRiIVrs2ORb9zj_SFtVGmeku8ejqPkbtmywyXKw0vTIHkSp-0SgBIvLrucCzvnoD5ciXIauL19GWo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1hLG2MxMH9HkwfBF63QKG03gUVKe_vNfI",
+          "title": "ProblemSolvingPoster.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1hLG2MxMH9HkwfBF63QKG03gUVKe_vNfI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOHGXT5zof_zTTOqc5Api4-hewJM2qXmmBKh_Peqph5qVrUZeX3oAAl2qbR1eSWGfbkFhT0kuRi57kFvQH3kFqmTLjsrZx06KvdU1Zo_Y7x3Hk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Dr. Yunus Biography",
+      "dueTime": "2020-09-23T15:25:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Loz McKenzie"
+      },
+      "emailAddress": "lmckenzie@sageridge.org"
+    },
+    "creationTime": "2020-09-18T15:32:43.822Z",
+    "updateTime": "2020-09-18T15:32:43.762Z",
+    "publicationTime": "2020-09-18T15:32:43.405Z",
+    "state": "PUBLISHED",
+    "announcement": {
+      "text": "Nooooooooooooooooooooooooooooooooo",
+      "textHtml": "\u003cdiv\u003eNooooooooooooooooooooooooooooooooo\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Loz McKenzie"
+      },
+      "emailAddress": "lmckenzie@sageridge.org"
+    },
+    "creationTime": "2020-09-18T15:32:16.120Z",
+    "updateTime": "2020-09-18T15:32:16.060Z",
+    "publicationTime": "2020-09-18T15:32:15.702Z",
+    "state": "PUBLISHED",
+    "announcement": {
+      "text": "same guys I think we have to do another zoom meeting",
+      "textHtml": "\u003cdiv\u003esame guys I think we have to do another zoom meeting\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Loz McKenzie"
+      },
+      "emailAddress": "lmckenzie@sageridge.org"
+    },
+    "creationTime": "2020-09-18T15:16:54.628Z",
+    "updateTime": "2020-09-18T15:16:54.568Z",
+    "publicationTime": "2020-09-18T15:16:54.214Z",
+    "state": "PUBLISHED",
+    "announcement": {
+      "text": "There is no Mrs. Power link for zoom at 8:25.",
+      "textHtml": "\u003cdiv\u003eThere is no Mrs. Power link for zoom at 8:25.\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-09-13T16:04:42.037Z",
+    "updateTime": "2020-09-14T17:19:01.278Z",
+    "scheduledTime": "2020-09-14T17:15:00Z",
+    "publicationTime": "2020-09-14T17:19:00.882Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Discovery Sheet - PATHs"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1yFBD3P-chjiGdiHqa1BwqHTiwxKl0cE3",
+          "title": "PATHs Discovery Sheet.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1yFBD3P-chjiGdiHqa1BwqHTiwxKl0cE3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNOPf7Cg9xnA4a4Cp2SjWBC15PKq8rH-4SjiTs-9gdYxK1XQVe4gpYYxlaKrSKzr-aMhKGETlP9V_LIbYAR0Mo6MyzMyaxAfvs8T7qP8ADh8Lw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Discovery Sheet",
+      "dueTime": "2020-09-15T15:25:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1m28QnMEg-c12pIOJyl13IzsLDFaIl8ZN",
+              "title": "IMG_0406.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1m28QnMEg-c12pIOJyl13IzsLDFaIl8ZN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOonvVtxsoSVJ11vD4ptR1Cw1tfN4N13OrN7s6BTr1WYSs8o4igENkNj_M6Zk2EUIjyoTriU9iU3aE7ZHILwqs4mvb0COE5jtO5sGJy_HniB2M\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1QfTkeYsjKcjzMADoflOjsxMnpIBbtpcp",
+              "title": "IMG_0407.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1QfTkeYsjKcjzMADoflOjsxMnpIBbtpcp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOH-N_J-ATGSy_wKkiPPBCLZ4ra8-uycRNykPJt3yRLbFyZUrOn_sZrNYXQX_VnE8puJvAu3Qn7iwtU0Rf2I7XyYGobMP_us-9hPM--5NBv7Jo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-09-01T14:40:04.966Z",
+    "updateTime": "2020-09-01T14:42:44.350Z",
+    "publicationTime": "2020-09-01T14:42:43.947Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Who Am I?"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EUuD607rM0wXX5NF67L84VBz2smusL851EQWwrqfJnY",
+          "title": "Who Am I?",
+          "alternateLink": "https://docs.google.com/document/d/1EUuD607rM0wXX5NF67L84VBz2smusL851EQWwrqfJnY/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOhIvC8ses2r1K5gdcGbBHtAsw_7Hf51J8_4IX__K1D4fzPdBlINX3EmrNY4-mN_1CfVmrKMS3Ty5G7ljvQVuPOie_IMy-7-C63_h8i2onddZv5vUA2dYJdPBP2lE9PtG5ZPjA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Who Am I?",
+      "description": "Read the attached instructions. You\u0027ll need to create a google doc.\n\nPlease have this done and turned in by 1:45 today so we can guess who\u0027s who\nthis afternoon. ",
+      "descriptionHtml": "\u003cdiv\u003eRead the attached instructions. You\u0026#39;ll need to create a google doc.\u003cbr\u003e\u003cbr\u003ePlease have this done and turned in by 1:45 today so we can guess who\u0026#39;s who\u003cbr\u003ethis afternoon.\u003c/div\u003e",
+      "dueTime": "2020-09-01T20:45:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17htB9wWD6HUKWdnhdTvmUm70o0WCQE9wNUzgg-cjZOc",
+              "title": "Loz McKenzie - Who Am I?",
+              "alternateLink": "https://docs.google.com/document/d/17htB9wWD6HUKWdnhdTvmUm70o0WCQE9wNUzgg-cjZOc/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMa2sdhzTtGCHJ9gFM_0z8xY-mduO903X3De-8cqTqQGrd-f4e0_Zv0msWCWJus3n5j9lPz5QHS5pI7lAIzwipinhyY9ROhdtJ5RJArqPuWuGoFfnjvk_bZ9Ym3GEDHfKkFg7Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Michelle Gallivan"
+      }
+    },
+    "creationTime": "2020-08-23T20:45:07.912Z",
+    "updateTime": "2020-08-25T14:04:12.228Z",
+    "scheduledTime": "2020-08-25T14:00:00Z",
+    "publicationTime": "2020-08-25T14:04:11.773Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Dean Documents from Mrs. Gallivan"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd_9DWbLSyQc1nOG3AWSmJvmfUNdsvHJ-4KXpARHukV07obag/viewform?hr_submission\u003dChkI2--roZoBEhAI-ayDz9wDEgcIwbHzlcUDEAE",
+        "title": "Joke of the Day",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/EdMvaZYiYkqkJL7pmzoMwcxmlTrsB4_Vg99KGoFoikLezXyhHqDll7gPzFRtrqKZTzfSOqaQfIQ\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Joke of the Day",
+      "description": "Do you have a joke that you would love to tell at a Campus Meeting?  \nYes!  Then please fill out this form.",
+      "descriptionHtml": "\u003cdiv\u003eDo you have a joke that you would love to tell at a Campus Meeting?  \u003cbr\u003eYes!  Then please fill out this form.\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-08-10T21:58:22.035Z",
+    "updateTime": "2020-08-19T01:55:08.353Z",
+    "scheduledTime": "2020-08-18T19:40:00Z",
+    "publicationTime": "2020-08-18T19:40:38.877Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Researching Hard Work"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EPXNvflD9yCR38QCuZalGYep4eVa_zJdoHjhJKEiF24",
+          "title": "Researching Hard Work 2",
+          "alternateLink": "https://docs.google.com/document/d/1EPXNvflD9yCR38QCuZalGYep4eVa_zJdoHjhJKEiF24/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPnnFPIWxwN8dYiwYeOQeoX9U0TJoYXhli0HFeeq4t5cyFd4rQqx82wAoL3dsC2VuSy4mDyTVpeJGCg_BeAhWxPcQLaC1kZ88ME2XJLVDDek5KvldmH1ex9xHKzoLJx5iArQqs\u003ds200"
+        },
+        "shareMode": "EDIT"
+      }
+    }],
+    "courseWork": {
+      "title": "Researching Hard Work",
+      "description": "Complete the attached assignment.",
+      "descriptionHtml": "\u003cdiv\u003eComplete the attached assignment.\u003c/div\u003e",
+      "dueTime": "2020-08-19T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12S4D1dM9O6SS5PgbVM1z_M9pm5NvlhPL",
+              "title": "IMG_0316.JPG",
+              "alternateLink": "https://drive.google.com/file/d/12S4D1dM9O6SS5PgbVM1z_M9pm5NvlhPL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOJo5f_EYDkSETu8rHikxtKLjavj4UmBpK3N6HVGk0RpsJvb4yh1zO4f0UxPURyZV-TS12uE0cpBkSseu4QtzdnVcYfLFdFfrOgfrIu7rWxMvg\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Josiann Trainor"
+            }
+          },
+          "creationTime": "2020-08-19T01:56:38.299Z",
+          "updateTime": "2020-08-19T01:56:38.056Z",
+          "comment": "Great job!",
+          "commentHtml": "\u003cdiv\u003eGreat job!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-08-10T21:24:06.699Z",
+    "updateTime": "2020-08-18T19:39:29.986Z",
+    "scheduledTime": "2020-08-18T19:35:00Z",
+    "publicationTime": "2020-08-18T19:39:29.806Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Syllabus"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_-NLeCCqF9sIMwsy8O-dez8oC-Hmf4j5fqZX3JQFhls",
+          "title": "2021-2022 Grade 5 Syllabus",
+          "alternateLink": "https://docs.google.com/document/d/1_-NLeCCqF9sIMwsy8O-dez8oC-Hmf4j5fqZX3JQFhls/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN0jEJ0yFlpJvWfDSNZ0rUKRgTo9vLOfBPv6-6uzDBZj_56WkMHKuO1dNi70odaLYvDwzINHCK_OW9zujS5cKvZyCRFz_27zvWgEjo1RRjMM0R9bDVa9cP7d35Na5bHi5aJlHA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Grade 5 Syllabus",
+      "description": "We will be discussing this briefly in class Tuesday afternoon. Please read over it with your parents and then have them sign it. You can upload a picture of the bottome portion to this assignment. ",
+      "descriptionHtml": "\u003cdiv\u003eWe will be discussing this briefly in class Tuesday afternoon. Please read over it with your parents and then have them sign it. You can upload a picture of the bottome portion to this assignment.\u003c/div\u003e",
+      "dueTime": "2020-08-22T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FBZMa_mIhhYQoi7IFqmhU7fB3hDkmC4P",
+              "title": "IMG_0317.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1FBZMa_mIhhYQoi7IFqmhU7fB3hDkmC4P/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP_-I6zPa8LI406Y_9V7pkktPwPKINXPX3nnufRY1cc-aPwlFMQIrowTSU-U43PutdlrNyGsnSyXRO6CEDaNJX0CUx1wHv2v6a6ChisvqaOHYA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-08-10T22:39:42.249Z",
+    "updateTime": "2020-08-18T18:00:42.048Z",
+    "scheduledTime": "2020-08-18T15:25:00Z",
+    "publicationTime": "2020-08-18T15:25:02.389Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "All About Me"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1s4m2Cp8lFF2ZmBoFSSH0By5ESfu2rXtn",
+          "title": "All About Me.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1s4m2Cp8lFF2ZmBoFSSH0By5ESfu2rXtn/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPQomYM8SpacmmtjnQfour5HZgiwpF5mHL75i2d6qxckirJGFM7dO9HrJSKOK2MTvI3mQTvI5SaqtV4jzaZhXkk9y-zDqP2VQrW36lABdvBPcU\u003ds200"
+        },
+        "shareMode": "EDIT"
+      }
+    }],
+    "courseWork": {
+      "title": "All About Me ",
+      "description": "Good Morning! You can start working on this at 8:25. I assigned it so that students could edit the file, but I\u0027m not sure that it will work that way. You may need to print it.",
+      "descriptionHtml": "\u003cdiv\u003eGood Morning! You can start working on this at 8:25. I assigned it so that students could edit the file, but I\u0026#39;m not sure that it will work that way. You may need to print it.\u003c/div\u003e",
+      "dueTime": "2020-08-20T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14MEkCZ8FRYL-ai24zBUKYV7Dtc56GSsa",
+              "title": "IMG_2304.jpg",
+              "alternateLink": "https://drive.google.com/file/d/14MEkCZ8FRYL-ai24zBUKYV7Dtc56GSsa/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMRfJaoD3swUf-0mjhNoH8Ac-2_sNk0zEzrQxpx-A1Uw7re2xiFqVH7_8L3dK0cD7DaowxnChriZ9_9WjQlZi63yrQi64b53I0XbvLmLutpAqg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Fghmym07-nyyfvf7Lwl4DNVfhJqoG6AG",
+              "title": "IMG_2306.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1Fghmym07-nyyfvf7Lwl4DNVfhJqoG6AG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOjnpcucu-lWtW4r2-k2WtRhNFWRjvhvNpbbT3nV2rAk1Qp4CLTt3HXOcpd9uolwlNUH3IHNuK8ALVcDbrTtw1h6e9ymvzwrkNgK9WUMjO_UTQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Josiann Trainor"
+      }
+    },
+    "creationTime": "2020-08-10T21:14:33.741Z",
+    "updateTime": "2020-08-18T13:22:44.112Z",
+    "scheduledTime": "2020-08-17T15:20:00Z",
+    "publicationTime": "2020-08-17T15:23:03.640Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Interest Inventory"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ecp8Bx6cVs7Dd_RzBuYt45u1Yu_KWp-m",
+          "title": "InterestInventory.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ecp8Bx6cVs7Dd_RzBuYt45u1Yu_KWp-m/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNVuAWRMSgLm2GjJ-sv2b0i3Uq3enFn_P57ab_XFvAOzoR-Jc2M7nDvaRua-xhrR5cR39RaKvamQkKiuDNP9OIztZ8DQhQcVBPFDkzSlqie7kg\u003ds200"
+        },
+        "shareMode": "EDIT"
+      }
+    }],
+    "courseWork": {
+      "title": "Interest Inventory",
+      "description": "Good Morning! Welcome to 5th Grade. You can begin working on this at 8:25. Students will work on this while we all get settled and I take attendance. ",
+      "descriptionHtml": "\u003cdiv\u003eGood Morning! Welcome to 5th Grade. You can begin working on this at 8:25. Students will work on this while we all get settled and I take attendance.\u003c/div\u003e",
+      "dueTime": "2020-08-17T16:00:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1_441_OieUFHVU9iQkduxdZ9QIC04t_cB",
+              "title": "IMG_2302.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1_441_OieUFHVU9iQkduxdZ9QIC04t_cB/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOmt5ftBOieppOUg7-3UMnaWK_hGVzU6VaJPiE5LlTewdmfRWTOLGCT6a9MSv_dKcSzyxtxalXOqJ92SL778c-53pEIbsXiaSBWaRSk-aLDfl8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "104WNpay-md7SheBLQJarhog7HNDu3iF0",
+              "title": "IMG_2303.jpg",
+              "alternateLink": "https://drive.google.com/file/d/104WNpay-md7SheBLQJarhog7HNDu3iF0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP9jx6-p3m2GD4f5hGPd7Qx-jOpTi4LMKte9ifHPl50BPmYtEmTf1s0ab-oPx2V3ICvuSsr0kSSLQLYnbweJ2Z_9vWXRAafvUXuDy9n2nN_8DU\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Josiann Trainor"
+            }
+          },
+          "creationTime": "2020-08-17T22:46:15.624Z",
+          "updateTime": "2020-08-17T22:46:15.339Z",
+          "comment": "Good job!",
+          "commentHtml": "\u003cdiv\u003eGood job!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

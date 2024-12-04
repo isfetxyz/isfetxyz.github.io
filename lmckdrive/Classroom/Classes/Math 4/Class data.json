@@ -1,0 +1,1042 @@
+{
+  "version": 1,
+  "name": "Math 4",
+  "section": "H",
+  "description": "4th grade Math",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroom475d974d@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnfmNxOU9OQXFvRnh5Q1FlcEJlOTM2NHNxbDliT240X1NObkVET3Q3elJMSm8",
+    "name": "Math Wizards 2019-2020 4th Grade",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnfmNxOU9OQXFvRnh5Q1FlcEJlOTM2NHNxbDliT240X1NObkVET3Q3elJMSm8?resourcekey\u003d0-fY0c4BN0Ftwqo7NL4aT6Yw"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Math.jpg",
+  "subject": "Foundations in Mathematics",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-27T01:30:48.805Z",
+    "updateTime": "2020-05-29T22:32:14.284Z",
+    "scheduledTime": "2020-05-27T15:00:00Z",
+    "publicationTime": "2020-05-27T15:01:27.523Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 10"
+    }],
+    "courseWork": {
+      "title": "Chapter 10 Workbook Upload A Picture of  completed work. ",
+      "description": "Independent Work No zoom\n\nWork through the chapter 10 workbook pages \nTake a picture of the completed work to upload to Math Google Classroom assignment for participation grade in Math.\n\nWorkbook pages: \n\n10.1 \u003d pages 67 \u0026 68 (see pages 117 - 118 in textbook for examples)\n\n10.2 \u003d pages 69 \u0026 70 (See pages 121 - 122 in textbook for examples)\n\n10.3 \u003d pages 71 to 74 (see pages 125 - 126 in textbook for examples)",
+      "descriptionHtml": "\u003cdiv\u003eIndependent Work No zoom\u003cbr\u003e\u003cbr\u003eWork through the chapter 10 workbook pages \u003cbr\u003eTake a picture of the completed work to upload to Math Google Classroom assignment for participation grade in Math.\u003cbr\u003e\u003cbr\u003eWorkbook pages: \u003cbr\u003e\u003cbr\u003e10.1 \u003d pages 67 \u0026amp; 68 (see pages 117 - 118 in textbook for examples)\u003cbr\u003e\u003cbr\u003e10.2 \u003d pages 69 \u0026amp; 70 (See pages 121 - 122 in textbook for examples)\u003cbr\u003e\u003cbr\u003e10.3 \u003d pages 71 to 74 (see pages 125 - 126 in textbook for examples)\u003c/div\u003e",
+      "dueTime": "2020-05-28T06:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 30.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OJmNXB-VHdgmmvXQvTDf6x-hzy5vH4AN",
+              "title": "IMG_1997.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1OJmNXB-VHdgmmvXQvTDf6x-hzy5vH4AN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwgRqrV7_T1RdMmKKTCnSPhD93Q-ehyh-9s-PI8slmBY8nprrSQ-Uaw0Ba8rwiVo1X7scMJivLitL7uydEO6fxI61lY8Hj_upY2OT7wMCKFN8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1L-3M_iTVWp8lDY_rtCcA1qDTwwkC4rNi",
+              "title": "IMG_1996.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1L-3M_iTVWp8lDY_rtCcA1qDTwwkC4rNi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNI3R4JOUQPYeJ8Wc2JYjXf1eJNDkoiFmhly3ZOPDc3xmh5OztJP-pTx5NJx6KYo9Gb2RcfW5rnuPtDYnk0xsx2AyWeHdxTg1f-DWIkiSOkN-g\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1DpOYOjrVui_AbCyOivJMQCF8-VN87Kg8",
+              "title": "IMG_1994.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1DpOYOjrVui_AbCyOivJMQCF8-VN87Kg8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPtfeNwiCY_UGx9WQq2vaO-vocLpqQw0xxjmjgMXaqM3XlCwwhXM5Wcdk8UsbBuPp_QXw7SNjWlKQc79LNq0-_YFn42tnVbqS5J3iWzXRpcJHk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1jnysTVQ5enu-DIF9-PRlJnL6yhduLQpI",
+              "title": "IMG_2002.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1jnysTVQ5enu-DIF9-PRlJnL6yhduLQpI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPPbFCuCaWZwfA7ZGHbsZRA0IvrsyrwhDAnTFqlhkc7hD2jWLSET0ZXjwmVYYlSwT1ujIic1ApYnr9LIUpKOMi7tQNGIwcHpEuSpIDNqxuh7QM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1c2lMIgW2a58epJXwXXA0ie0k9poXiRn5",
+              "title": "IMG_1999.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1c2lMIgW2a58epJXwXXA0ie0k9poXiRn5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPM38uCFlAEYQCrhYJjypHD6OnP7wEhVgI4Dcu7Sbswb9z5a_O2uaHLPD0iTSACB8irW7exg2RrDZd6uXzud0qnwjLZy_qZkLuI6QVCX8ZET9c\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1hMCQCCe-6iVn1NTCKQhJuzTOGWAsiDEQ",
+              "title": "IMG_1995.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1hMCQCCe-6iVn1NTCKQhJuzTOGWAsiDEQ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOQ8bovtzGNNGy4gVmwS7WOuOxTRyxYhRXX9_ttMdupJwPnTHzCIaAkFszBRAyPlGq6C-ks_SHvH8yLxUFctr-AwmTTNr9wxdbr_FWYGc36M-I\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1q_UOwd4j2xxS3s5vS5t5iuCRLJ2-cavl",
+              "title": "IMG_1998.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1q_UOwd4j2xxS3s5vS5t5iuCRLJ2-cavl/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMvJ1R1vBTqPfXqvU4qU6p25jU2FQgdsezyUJ5SEyv_gP_8KwDm371nAcJ5lslEWYRVLSS4vNdCyUK5v9G79W7tBS7LKqCX60JFU0DEXL1i1pI\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "12vuVVkwEi03X65w7gXjgXtFp1_CK70-h",
+              "title": "IMG_2001.jpg",
+              "alternateLink": "https://drive.google.com/file/d/12vuVVkwEi03X65w7gXjgXtFp1_CK70-h/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNIxN7c-y3IFR8tlEXi-NGNHijGB59T5aEhz0rjKJV5OkZCI7GbWBqnGMpRBWayZQzfmUKTIudUx-PPSL2ek4zjky-3zH7I7y9lAxYdUqDUcCU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T04:08:36.288Z",
+    "updateTime": "2020-05-29T22:32:17.300Z",
+    "scheduledTime": "2020-05-21T15:00:00Z",
+    "publicationTime": "2020-05-21T15:03:24.113Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 10"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Ur1RjFlGKyAWcSpD7EZnBVpjaG2mEBY1",
+          "title": "[Template] DrawtheRoomLines Student work.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1rKbdl0hIB5I0VfPu0yLZHN_9_FyAQ7gF/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPhj9QfiWcSIx58G4RfpkpDeY2IWzZ-cnhANPXTh1q1sfMuenGHbojJID-XWmtUyhOBBJj_Ly2m7EstJH3lyIiWBYN9mWgDE0F2XnB3p8TOYGY\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "5/21 Chapter 10.1 \u0026 10.2 Draw the Room assingment",
+      "description": "Directions: \nUse the sheet, along with Chapter 10.1 \u0026 10.2 in your textbook. Practice observing the different types of lines throughout your house. Lines can include perpendicular, parallel, rays, segments, and intersecting lines. On the next page draw and label 6 different line types that you find around your house. \nWhen you finish take a picture of your drawing page and upload it to this assignment. ",
+      "descriptionHtml": "\u003cdiv\u003eDirections: \u003cbr\u003eUse the sheet, along with Chapter 10.1 \u0026amp; 10.2 in your textbook. Practice observing the different types of lines throughout your house. Lines can include perpendicular, parallel, rays, segments, and intersecting lines. On the next page draw and label 6 different line types that you find around your house. \u003cbr\u003eWhen you finish take a picture of your drawing page and upload it to this assignment.\u003c/div\u003e",
+      "dueTime": "2020-05-22T06:59:00Z",
+      "maxPoints": 12.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 12.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Qj3UgX6q6jGZPAKelJ1SAfezPqJZF1m_",
+              "title": "Loz McKenzie - DrawtheRoomLines Student work.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Qj3UgX6q6jGZPAKelJ1SAfezPqJZF1m_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-l3aUBcuZeWE3gml35x-BHYL_d9OMOerrpxG9bp242BIcKtc6c8OtZXrx9bf2WnLUZECmzyrBdSXnVHGPCJy-c_hbrT627791rPckZYEuzug\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Bd0DloCyxxgdF8TQe8Qq4XPm2rXr7CzG",
+              "title": "Scan_0003.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Bd0DloCyxxgdF8TQe8Qq4XPm2rXr7CzG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNwfOaBbzdB7UtSDY9KLokW2AQXTHUg7OB0EdzDe6mZtRZbyE-rNJmBkWwtDoRsGDldhxUZ4NocsBeCBJhgqhaT2PFanev8tf5mdMWh1X4t6VA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T04:11:11.110Z",
+    "updateTime": "2020-05-29T22:32:20.729Z",
+    "scheduledTime": "2020-05-19T15:00:00Z",
+    "publicationTime": "2020-05-19T15:04:20.275Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 10"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfAg9q52zD0XKSJnU05hfmAgvGd88XVzFOqrlUsGZGwkWGCFA/viewform?hr_submission\u003dChkI2--roZoBEhAIyMXT9oADEgcI_pbc3pgBEAE",
+        "title": "Chapter 10: Recall Prior Knowledge Quick Check Textbook pages 115 - 116",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/OUAZs0NCFGTP3NZd8Zi1HlC0bVAYsiUY_1W69XThEJhWGfl2ZHVkGfEEnOnf2coxMePJmmqFOf0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/19  Chapter 10: Recall Prior Knowledge Quick Check Textbook pages 115 - 116",
+      "description": "Use your textbook pages 115 \u0026 116 to answer the questions about each line set shown.  ",
+      "descriptionHtml": "\u003cdiv\u003eUse your textbook pages 115 \u0026amp; 116 to answer the questions about each line set shown.\u003c/div\u003e",
+      "dueTime": "2020-05-20T06:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 13.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfAg9q52zD0XKSJnU05hfmAgvGd88XVzFOqrlUsGZGwkWGCFA/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 10: Recall Prior Knowledge Quick Check Textbook pages 115 - 116",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/OUAZs0NCFGTP3NZd8Zi1HlC0bVAYsiUY_1W69XThEJhWGfl2ZHVkGfEEnOnf2coxMePJmmqFOf0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T19:57:53.470Z",
+    "updateTime": "2020-05-29T22:32:24.289Z",
+    "scheduledTime": "2020-05-15T15:00:00Z",
+    "publicationTime": "2020-05-15T15:05:19.782Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assessments and Quizzes"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14av59wbMweTIPZ3oMjFMZYaK-6WZIKBIKfeVzP4aG30",
+          "title": "[Template] Chapter 9 Assessment",
+          "alternateLink": "https://docs.google.com/presentation/d/1T7jZb2ZPOHVyV2mFezLzojVU_xZMRbblsx2uVMhNh4g/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOqDWsIaRdMD8q7kdmrefJ0gFRw7eoZ5by0YfJxFwP0bUisY2YVB3R63ojwsYyuOEGi1r8i8o-KxfoAgz_J9XOPaponNoH8Tmur1pEwoJA9oF1UkXvSjEfFoJNGSMcxPTrNmuY\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 9 Assessment",
+      "description": "Open the Google slides.  On each slide at the bottom there are directions on what to do and what to move or add to answer the questions.  \nRead each slide\u0027s directions for accuracy.",
+      "descriptionHtml": "\u003cdiv\u003eOpen the Google slides.  On each slide at the bottom there are directions on what to do and what to move or add to answer the questions.  \u003cbr\u003eRead each slide\u0026#39;s directions for accuracy.\u003c/div\u003e",
+      "dueTime": "2020-05-16T06:59:00Z",
+      "maxPoints": 82.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 63.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14AW-ND7gKLOJogrmpM9s8g8dAaCD5fw7p6cG7yPpkYo",
+              "title": "Loz McKenzie - Chapter 9 Assessment",
+              "alternateLink": "https://docs.google.com/presentation/d/14AW-ND7gKLOJogrmpM9s8g8dAaCD5fw7p6cG7yPpkYo/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO7wIh0tD2b-mpzbeBoua7tIv2ytFrxnLI7grXG37t9PtD7dL3jBWmQ_SkbTkkpvQ2_Vg0tcj18kYSG6aJVJwHjm_ejx8zOwZwXqy7RerNY6J0_MvrQPHPiyEN5dhGBYsMq3qQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T23:14:10.755Z",
+    "updateTime": "2020-05-29T22:32:27.840Z",
+    "scheduledTime": "2020-05-13T15:00:00Z",
+    "publicationTime": "2020-05-13T15:01:27.465Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 9"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KACM0znq1H7yKR953qOofJ6c1dNtzSAz7k0LYKKBWr4",
+          "title": "[Template] Chapter 9 Angles Review",
+          "alternateLink": "https://docs.google.com/presentation/d/1HpFVxxyh1zyx93GNNcECm6D2mrweWnP2oeGvxNk0Spk/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMbpSUuzRY_wDeQX4E_s3RQ9TIAdQDLY-NI85uJEHZGD9xTXL9_spWfnwJNKNoXiZeqrcb5_lD88DNEqIt1wHYrwD1zQ6Y7Tvy8zCwJoFJhFV0B7fwRJ3LLYhmiO84IaM-bThA\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 9 Angle Review",
+      "description": "Click on the Google Slides material below.  This is your copy to work on already attached to your google classroom. \nEach Slide has an angle to measure.  Click on the line boxes under each angle and fill in the angle measurement and the angle type for each slide\nSubmit when you are done",
+      "descriptionHtml": "\u003cdiv\u003eClick on the Google Slides material below.  This is your copy to work on already attached to your google classroom. \u003cbr\u003eEach Slide has an angle to measure.  Click on the line boxes under each angle and fill in the angle measurement and the angle type for each slide\u003cbr\u003eSubmit when you are done\u003c/div\u003e",
+      "dueTime": "2020-05-14T06:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EF8gc-4jbX25n64dpLKPvzQNM6moC3kogpotIWViatU",
+              "title": "Loz McKenzie - Chapter 9 Angles Review",
+              "alternateLink": "https://docs.google.com/presentation/d/1EF8gc-4jbX25n64dpLKPvzQNM6moC3kogpotIWViatU/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMD68Vu6TOlEJFE-5ngeODntf5tZrsPhNo-iMc2tiBxdlCwWHZD668WVtTRIjESdDd5PSuI5BEH8aMnIIjw_nWdcTgGfNT0mZTXQ1u5lwS61oihZxqjrzmNrjTzWuiYpdNrixU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-03T23:30:03.641Z",
+    "updateTime": "2020-05-29T22:29:48.084Z",
+    "publicationTime": "2020-05-07T16:44:08.273Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 9"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EPUOy7HigIhQC_dxyWJdslbUiZi7yie4GdCmOFqMBxQ",
+          "title": "[Template] Angle Measurement - Practice 2",
+          "alternateLink": "https://docs.google.com/presentation/d/16FA8zI4Xo2CGTEBO8HwFy34FcmPcDmskCf16Q_tCTP4/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOjfTGCLJ3wEygBisTXcBkRyyaCxNn8QwA9n0dlsxG_f___tSNDiZzhHxC84hk-wyTlxZYMji10i0dmByLb3-ePof50GdbmrLlo-SauqoYWjUZ4HlvJBKI5fv4A9fSYrMvznBo\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Angle Measurement Practice 2 - Thursday May 7th",
+      "description": "This assignment is just like the one we worked together on, on Tuesday.\nOpen your material linked below (you each have your own copy so you may begin working in the google slide assignment)\nWhen you are finished please submit for grading. ",
+      "descriptionHtml": "\u003cdiv\u003eThis assignment is just like the one we worked together on, on Tuesday.\u003cbr\u003eOpen your material linked below (you each have your own copy so you may begin working in the google slide assignment)\u003cbr\u003eWhen you are finished please submit for grading.\u003c/div\u003e",
+      "maxPoints": 38.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 38.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NcNV8j6i6MCOjEMZTedr6WDpmu_0pwTJ8XA1b5DShys",
+              "title": "Loz McKenzie - Angle Measurement - Practice 2",
+              "alternateLink": "https://docs.google.com/presentation/d/1NcNV8j6i6MCOjEMZTedr6WDpmu_0pwTJ8XA1b5DShys/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN3zGRLQtV3rVQFDTWNvU_fYKoeVT-4keAecuCNRaz18sT17G69I34bTSyUx3Dt8Cwc-NUbBCZ0iM_QSRR5_WG9gjFvfBoszbjWOea86VFhOTJ5uXniP4CKGcEw3Ghy_KOb0Q0\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-13T19:33:25.478Z",
+          "updateTime": "2020-05-13T19:33:24.981Z",
+          "comment": "Way to go!  You are rocking angle measurement!",
+          "commentHtml": "\u003cdiv\u003eWay to go!  You are rocking angle measurement!\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-03T23:25:08.576Z",
+    "updateTime": "2020-05-29T22:32:31.283Z",
+    "scheduledTime": "2020-05-05T15:00:00Z",
+    "publicationTime": "2020-05-05T15:02:25.122Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 9"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14mlbFu82LWDb9nupWYSLW4NH5pBK9gszI3SiEYZdm-I",
+          "title": "[Template] Angle Measurement - Practice 1",
+          "alternateLink": "https://docs.google.com/presentation/d/1KnMFWfQZbbIGZz19uH1CUnJY21qWqKjd7R0nQ0yj2dA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNTrXaUv6gGG3RMmI6bmLdwppw0Q4cYpdeIxfGUmanZidPydRoAtP0HDmj_kUZOyhIZ4RLabbvJosid9Nt-XHZyKSDiRZnEcUWmteflDcthOIm-5CRPRTaXBkBKb3EmmIib4ik\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Angle Measurement Practice 1 Tuesday May 5th",
+      "description": "We will work together on this in our zoom to learn how to operate some of the tools and answer options. \nOpen the google slides material attached (you each have your own copy already so you can begin working in the slide document)\nComplete each activity on each slide and submit when finished. \n",
+      "descriptionHtml": "\u003cdiv\u003eWe will work together on this in our zoom to learn how to operate some of the tools and answer options. \u003cbr\u003eOpen the google slides material attached (you each have your own copy already so you can begin working in the slide document)\u003cbr\u003eComplete each activity on each slide and submit when finished.\u003c/div\u003e",
+      "dueTime": "2020-05-07T06:59:00Z",
+      "maxPoints": 34.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 31.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dbJUv1fKkR1Ravn_Q0X1GukhehbQ4s13XpqVEiudNkc",
+              "title": "Loz McKenzie - Angle Measurement - Practice 1",
+              "alternateLink": "https://docs.google.com/presentation/d/1dbJUv1fKkR1Ravn_Q0X1GukhehbQ4s13XpqVEiudNkc/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPD2FCU0CmyKacCx4TzjS-__Kf9iktptiiO1ROmbiGUL1_TBz15CrV0SMlEuA6ZPjJCuZmIFZbhgtumXK9-_zPca1_7XfWepF1Sm40b1n0Ay6JjDIdeYyhopN5Z4alCoQ6TV5k\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T03:30:12.815Z",
+    "updateTime": "2020-05-29T22:32:08.393Z",
+    "scheduledTime": "2020-05-01T15:00:00Z",
+    "publicationTime": "2020-05-01T15:01:45.480Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 9"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScv2mhdW9WQfblMmBcZdHcLRuTwuuAiHn7VkKPFVGxh-kF-4w/viewform?hr_submission\u003dChkI2--roZoBEhAIkN6w5NECEgcI_pbc3pgBEAE",
+        "title": "Chapter 9.1 Measuring Angles with a Protractor P. 93 Let\u0027s Practice",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/VrXYu5XORhl4OVyppYii3jAmPkb3_vSF01vMLfAaKtyTEuoLgpBNo1giuVEadzhZGOAkQgz2Y_g\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 9.1 Measuring Angles with a Protractor P. 93 Let\u0027s Practice",
+      "description": "Use page 93 in your textbook to answer the questions in this assignment. ",
+      "descriptionHtml": "\u003cdiv\u003eUse page 93 in your textbook to answer the questions in this assignment.\u003c/div\u003e",
+      "maxPoints": 17.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 17.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScv2mhdW9WQfblMmBcZdHcLRuTwuuAiHn7VkKPFVGxh-kF-4w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 9.1 Measuring Angles with a Protractor P. 93 Let\u0027s Practice",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/VrXYu5XORhl4OVyppYii3jAmPkb3_vSF01vMLfAaKtyTEuoLgpBNo1giuVEadzhZGOAkQgz2Y_g\u003dw90-h90-p"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-01T23:28:01.184Z",
+          "updateTime": "2020-05-01T23:28:00.800Z",
+          "comment": "Excellent job on your measurements they were spot on.  You also did a great job reading the directions for each question.",
+          "commentHtml": "\u003cdiv\u003eExcellent job on your measurements they were spot on.  You also did a great job reading the directions for each question.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-27T03:17:58.408Z",
+    "updateTime": "2020-05-29T22:32:37.272Z",
+    "scheduledTime": "2020-04-29T15:00:00Z",
+    "publicationTime": "2020-04-29T15:03:30.318Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 9"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1OdPs7LtRBbMEtUw6PNWkpbwC3Mfcu7HA",
+          "title": "[Template] AngleScavengerHunt.docx",
+          "alternateLink": "https://drive.google.com/file/d/1TBcbWZz4WPs_AC00gpkYW1sLpF3q_8SN/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNWxP417sHqYlWnBaRXxEWTCtwCxEy86-mEF12RXEMqztToK5wNOTvtn_AQFJpWKAPVZQXjBqrP8PJHT2460ztkqCskDJigJAYgnR0_XlRBJvk\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 9.1 understanding and measuring angles - Scavenger Hunt",
+      "description": "Pages 85 - 86 Textbook \nWorkbook pages 45 - 46\n\nScavenger Hunt - Print the attached scavenger hunt template (or use a piece of paper to draw a copy of it)\nGo through your house, yard or wherever you are, and find 4 or more of each kind of angle. Draw and label each kind of angle you found. \nWhen you are done please take a picture and upload it to this assignment.",
+      "descriptionHtml": "\u003cdiv\u003ePages 85 - 86 Textbook \u003cbr\u003eWorkbook pages 45 - 46\u003cbr\u003e\u003cbr\u003eScavenger Hunt - Print the attached scavenger hunt template (or use a piece of paper to draw a copy of it)\u003cbr\u003eGo through your house, yard or wherever you are, and find 4 or more of each kind of angle. Draw and label each kind of angle you found. \u003cbr\u003eWhen you are done please take a picture and upload it to this assignment.\u003c/div\u003e",
+      "dueTime": "2020-05-01T06:59:00Z",
+      "maxPoints": 16.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 16.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wouG3YRbSdi8HsOL3eSbNdus55l-in7V",
+              "title": "Loz McKenzie - AngleScavengerHunt.docx",
+              "alternateLink": "https://drive.google.com/file/d/1wouG3YRbSdi8HsOL3eSbNdus55l-in7V/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP-hKOnhuGtC5DfjnavqyPdoFTJKeIGyQBNf7dswejbC3-grC-kQES0xHZXZxcVtkc9jn_VjByYcc3Ho3zi0q5gstWkvkfMMNSyBnIx0DxnSh8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1BT3mAQrrJPUgd6AXG7BjAnjiS5MV3mda",
+              "title": "Scan_0001.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1BT3mAQrrJPUgd6AXG7BjAnjiS5MV3mda/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmhFhWviJRakbT1wwKf78h_0M7rst5GsXSd5q0ag-xGHFyNj4CmZGwb5YrEKoH3xYNMilLQ_RSHfwRSgQUfk9VcphwvxsZ577OEgatTCBt5aA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-01T23:07:35.664Z",
+          "updateTime": "2020-05-01T23:07:35.557Z",
+          "comment": "Loved seeing your scavenger hunts kiddos.  Have a great weekend.",
+          "commentHtml": "\u003cdiv\u003eLoved seeing your scavenger hunts kiddos.  Have a great weekend.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T02:22:34.408Z",
+    "updateTime": "2020-05-29T22:32:05.239Z",
+    "scheduledTime": "2020-04-23T15:00:00Z",
+    "publicationTime": "2020-04-23T15:04:25.351Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 9"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSczxbWlPu5_1e3DTobI4fCBgiFVaAJh310JTWBc-HXy1C3tug/viewform?hr_submission\u003dChkI2--roZoBEhAIoYXKvIoCEgcI_pbc3pgBEAE",
+        "title": "Chapter 9 Recall Prior Knowledge \u0026 Quick Check.",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/dgHn3RNBIDRZ962FMF7_p0dbOOPSGcQvGhM8wuMPMunz17Oe0epfd17s8LTY6ssk0SQh2cDtUew\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 9 Recall Prior Knowledge Quick Check",
+      "description": "Read pages 80-82\nClick the google form below to complete the assignment quick check from pages 83 \u0026 84 in the textbook. ",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 80-82\u003cbr\u003eClick the google form below to complete the assignment quick check from pages 83 \u0026amp; 84 in the textbook.\u003c/div\u003e",
+      "maxPoints": 14.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 13.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSczxbWlPu5_1e3DTobI4fCBgiFVaAJh310JTWBc-HXy1C3tug/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 9 Recall Prior Knowledge \u0026 Quick Check.",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/dgHn3RNBIDRZ962FMF7_p0dbOOPSGcQvGhM8wuMPMunz17Oe0epfd17s8LTY6ssk0SQh2cDtUew\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T01:03:11.006Z",
+    "updateTime": "2020-04-24T00:48:08.013Z",
+    "scheduledTime": "2020-04-21T15:00:00Z",
+    "publicationTime": "2020-04-21T15:02:36.611Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assessments and Quizzes"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfoeB_tIeRISyH26jIV7wPXFmfGZcs1GgY8OO9Dvkosz_ocEg/viewform?hr_submission\u003dChkI2--roZoBEhAIopyJqIoCEgcI_pbc3pgBEAE",
+        "title": "Chapter 8 Assessment: Adding \u0026 Subtracting Decimals Part 1:",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/7nZSCo3UMW3rmVbHCbEr_nPGdJt3PbjlVeN-AWfm2K1HLcRRtNPB9k49Tpo2DxpYtloj4NZUlaY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 8 Assessment: Adding \u0026 Subtracting Decimals",
+      "description": "This is independent work\nI will host the zoom meeting while you take the assessment.  \nYou may use your Math textbook to look at strategies and tips on chapter 8 lessons. \nYou will need scratch paper to solve the problems before you answer.  Show all of your work as if you were taking the test on paper in class. \nThere is no using a calculator, Google Searching, or using any other resources\nThere is no chatting via text, computer, or other devices with students from class.\n",
+      "descriptionHtml": "\u003cdiv\u003eThis is independent work\u003cbr\u003eI will host the zoom meeting while you take the assessment.  \u003cbr\u003eYou may use your Math textbook to look at strategies and tips on chapter 8 lessons. \u003cbr\u003eYou will need scratch paper to solve the problems before you answer.  Show all of your work as if you were taking the test on paper in class. \u003cbr\u003eThere is no using a calculator, Google Searching, or using any other resources\u003cbr\u003eThere is no chatting via text, computer, or other devices with students from class.\u003c/div\u003e",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfoeB_tIeRISyH26jIV7wPXFmfGZcs1GgY8OO9Dvkosz_ocEg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 8 Assessment: Adding \u0026 Subtracting Decimals Part 1:",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/7nZSCo3UMW3rmVbHCbEr_nPGdJt3PbjlVeN-AWfm2K1HLcRRtNPB9k49Tpo2DxpYtloj4NZUlaY\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-13T04:01:06.532Z",
+    "updateTime": "2020-04-24T00:48:20.995Z",
+    "scheduledTime": "2020-04-16T15:00:00Z",
+    "publicationTime": "2020-04-16T15:01:44.743Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScfnfOtUV1ldh8y4XV7792bs7niXEf9uYYpSOxQS4tD1txZJQ/viewform?hr_submission\u003dChkI2--roZoBEhAI1LuY74ICEgcI_pbc3pgBEAE",
+        "title": "Chapter 8 Wrap up and Review Pages 78 \u0026 79 ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/aFalqdt_XmTe57rcN7fjUiNIqc4fL7yhnRfuOyPM1IYVFFnSerO8HGwINC0RBBrghP7KB7-I3Lg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 8 Wrap up and Review Pages 78 \u0026 79 ",
+      "description": "Please complete page 76 \"Put on Your Thinking Cap - Problem Solving\"  on your own on scratch paper (read the directions), complete pages 35 and 36 in your workbook\nafter you have done that then read Page 77 \nComplete the questions from pages 78 \u0026 79 here in google assignment.  Remember to use Scratch paper to solve your math before entering and submitting your responses here. ",
+      "descriptionHtml": "\u003cdiv\u003ePlease complete page 76 \u0026quot;Put on Your Thinking Cap - Problem Solving\u0026quot;  on your own on scratch paper (read the directions), complete pages 35 and 36 in your workbook\u003cbr\u003eafter you have done that then read Page 77 \u003cbr\u003eComplete the questions from pages 78 \u0026amp; 79 here in google assignment.  Remember to use Scratch paper to solve your math before entering and submitting your responses here.\u003c/div\u003e",
+      "dueTime": "2020-04-18T06:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 20.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScfnfOtUV1ldh8y4XV7792bs7niXEf9uYYpSOxQS4tD1txZJQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 8 Wrap up and Review Pages 78 \u0026 79 ",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/aFalqdt_XmTe57rcN7fjUiNIqc4fL7yhnRfuOyPM1IYVFFnSerO8HGwINC0RBBrghP7KB7-I3Lg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-13T03:40:14.922Z",
+    "updateTime": "2020-04-24T00:48:44.208Z",
+    "scheduledTime": "2020-04-15T15:00:00Z",
+    "publicationTime": "2020-04-15T15:03:05.119Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeBZE0UuO9cpRZoH0Gwdduudj9LFCKevgW7JdtglHvNRBgSPQ/viewform?hr_submission\u003dChkI2--roZoBEhAIruLH54ICEgcI_pbc3pgBEAE",
+        "title": "Chapter 8.3 Solving Real World Problems adding and subtracting decimals",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/-j_5Ytn_G5gJDJwPiOIghCSHnR6Yt-rOqYYqmShVgDJnJt22gPG4sDHn4GLbI4dVD6Ku9Dihi4k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 8.3 Solving Real World Problems Adding and Subtracting Decimals",
+      "description": "Read pages 72 - 75 in your math textbook and answer the questions on page 75 here in this assignment. \nRemember to use scratch paper to work out your math and check your answers before entering them in the google form and submitting them to me. ",
+      "descriptionHtml": "\u003cdiv\u003eRead pages 72 - 75 in your math textbook and answer the questions on page 75 here in this assignment. \u003cbr\u003eRemember to use scratch paper to work out your math and check your answers before entering them in the google form and submitting them to me.\u003c/div\u003e",
+      "dueTime": "2020-04-17T06:59:00Z",
+      "maxPoints": 6.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeBZE0UuO9cpRZoH0Gwdduudj9LFCKevgW7JdtglHvNRBgSPQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 8.3 Solving Real World Problems adding and subtracting decimals",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/-j_5Ytn_G5gJDJwPiOIghCSHnR6Yt-rOqYYqmShVgDJnJt22gPG4sDHn4GLbI4dVD6Ku9Dihi4k\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-25T04:03:48.807Z",
+    "updateTime": "2020-04-24T00:49:09.693Z",
+    "scheduledTime": "2020-04-09T15:00:00Z",
+    "publicationTime": "2020-04-09T15:00:19.834Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdVOU1ndFUI9ODtTsiJqzZHnASvfhjmqRi3Jm980tpyau0NpQ/viewform?hr_submission\u003dChgI2--roZoBEg8Iyaik1UsSBwj-ltzemAEQAQ",
+        "title": "Chapter 8.2 Subtracting Decimals in tenths and hundredths",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/QJv4nUZd390Srjb2x_QYE-k4hTqq_19il0C9tAm3BQL47vqz7fobmWCVLqcL0sMx_1w2_yw8tdg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 8.2 Subtracting Decimals in tenths and hundredths",
+      "description": "11:3 - 12:30\n\nChapter 8.2 Subtracting decimals up to two places. This Lesson Takes 2 days (Day 2)\n\nRead and work through Textbook pages 65 - 71\n\nPractice in Workbook pages 29 - 30\n\nSee Math Google Classroom to complete for this assignment from textbook page 71 the \"Let\u0027s Practice\" page in the textbook\n\n** Optional - Reteach pages 75 - 90 ( will post these in Math google classroom if you want more practice)**\n\nVideos to Help: https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-sub-decimals/v/strategies-for-subtracting-more-complex-decimals-with-tenths \n\nhttps://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-sub-decimals/v/more-advanced-subtraction-strategies-with-hundredths \n\nStep by Step to help: http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/add-sub-decimals.htm\n\nThese are the questions from page 71 in the textbook ",
+      "descriptionHtml": "\u003cdiv\u003e11:3 - 12:30\u003cbr\u003e\u003cbr\u003eChapter 8.2 Subtracting decimals up to two places. This Lesson Takes 2 days (Day 2)\u003cbr\u003e\u003cbr\u003eRead and work through Textbook pages 65 - 71\u003cbr\u003e\u003cbr\u003ePractice in Workbook pages 29 - 30\u003cbr\u003e\u003cbr\u003eSee Math Google Classroom to complete for this assignment from textbook page 71 the \u0026quot;Let\u0026#39;s Practice\u0026quot; page in the textbook\u003cbr\u003e\u003cbr\u003e** Optional - Reteach pages 75 - 90 ( will post these in Math google classroom if you want more practice)**\u003cbr\u003e\u003cbr\u003eVideos to Help: https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-sub-decimals/v/strategies-for-subtracting-more-complex-decimals-with-tenths \u003cbr\u003e\u003cbr\u003ehttps://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-sub-decimals/v/more-advanced-subtraction-strategies-with-hundredths \u003cbr\u003e\u003cbr\u003eStep by Step to help: http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/add-sub-decimals.htm\u003cbr\u003e\u003cbr\u003eThese are the questions from page 71 in the textbook\u003c/div\u003e",
+      "dueTime": "2020-04-10T06:59:00Z",
+      "maxPoints": 11.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdVOU1ndFUI9ODtTsiJqzZHnASvfhjmqRi3Jm980tpyau0NpQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 8.2 Subtracting Decimals in tenths and hundredths",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/QJv4nUZd390Srjb2x_QYE-k4hTqq_19il0C9tAm3BQL47vqz7fobmWCVLqcL0sMx_1w2_yw8tdg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-05T20:20:00.765Z",
+    "updateTime": "2020-04-24T00:49:05.896Z",
+    "scheduledTime": "2020-04-07T15:00:00Z",
+    "publicationTime": "2020-04-07T15:04:07.151Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.khanacademy.org/gclassroom/math/algebra-basics/basic-alg-foundations/alg-basics-operations-with-decimals/v/subtracting-decimals-up-to-hundredths",
+        "title": "Subtracting decimals: 9.57-8.09 (video) | Khan Academy",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.khanacademy.org/gclassroom/math/algebra-basics/basic-alg-foundations/alg-basics-operations-with-decimals/v/subtracting-decimals-up-to-hundredths"
+      }
+    }],
+    "courseWork": {
+      "title": "Khan Academy: Subtracting decimals: 9.57-8.09",
+      "description": "Watch this Khan academy video for Subtracting decimals review. ",
+      "descriptionHtml": "\u003cdiv\u003eWatch this Khan academy video for Subtracting decimals review.\u003c/div\u003e",
+      "dueTime": "2020-04-08T06:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-25T03:47:07.578Z",
+    "updateTime": "2020-04-24T00:49:02.460Z",
+    "scheduledTime": "2020-04-03T15:00:00Z",
+    "publicationTime": "2020-04-03T15:04:23.691Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSen9TlC9RWA_LFyi6_OtMUeiijHz5qQsoBLnQhnJmaMZDI9Zw/viewform?hr_submission\u003dChgI2--roZoBEg8Ix8Gh1UsSBwj-ltzemAEQAQ",
+        "title": "Chapter 8.1 Adding Decimals up to Hundredths",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/ekzUySDWJN93bhuiurT2MXq1wZ3-fmnJkDvCmB33-u7-hqfQdlXz8SR72_o1oLNN7xyflxpTAK8\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 8.1 Adding Decimals up to Hundredths",
+      "description": "2:00 - 3:00\n\nGo to Math google classroom and click the zoom meeting link at 2:00.  We will review, discuss and progress in 8.1\n\nChapter 8.1 Adding Decimals up to to place values.  This Lesson Takes 2 days. (Day 2)\n\nRead through Textbook pages 61 - 64\n\nComplete Workbook pages 23 - 26\n\nSee Math Google Classroom to complete for this assignment from textbook page 64 the \"Let\u0027s Practice\" page in the textbook\n\n**Optional - Reteach pages 57 - 54 (I will post the reteach pages in Math Google Classroom for optional extra practice)**\n\nVideos to help:  https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/introduction-to-adding-decimals-tenths  \n\nhttps://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/andding-decimals-with-hundredths\n\nStep by Step to help: http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/add-sub-decimals.htm\n\n\n\nThese questions are from page 64 in the textbook",
+      "descriptionHtml": "\u003cdiv\u003e2:00 - 3:00\u003cbr\u003e\u003cbr\u003eGo to Math google classroom and click the zoom meeting link at 2:00.  We will review, discuss and progress in 8.1\u003cbr\u003e\u003cbr\u003eChapter 8.1 Adding Decimals up to to place values.  This Lesson Takes 2 days. (Day 2)\u003cbr\u003e\u003cbr\u003eRead through Textbook pages 61 - 64\u003cbr\u003e\u003cbr\u003eComplete Workbook pages 23 - 26\u003cbr\u003e\u003cbr\u003eSee Math Google Classroom to complete for this assignment from textbook page 64 the \u0026quot;Let\u0026#39;s Practice\u0026quot; page in the textbook\u003cbr\u003e\u003cbr\u003e**Optional - Reteach pages 57 - 54 (I will post the reteach pages in Math Google Classroom for optional extra practice)**\u003cbr\u003e\u003cbr\u003eVideos to help:  https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/introduction-to-adding-decimals-tenths  \u003cbr\u003e\u003cbr\u003ehttps://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/andding-decimals-with-hundredths\u003cbr\u003e\u003cbr\u003eStep by Step to help: http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/add-sub-decimals.htm\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eThese questions are from page 64 in the textbook\u003c/div\u003e",
+      "dueTime": "2020-04-04T06:59:00Z",
+      "maxPoints": 9.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSen9TlC9RWA_LFyi6_OtMUeiijHz5qQsoBLnQhnJmaMZDI9Zw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Chapter 8.1 Adding Decimals up to Hundredths",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/ekzUySDWJN93bhuiurT2MXq1wZ3-fmnJkDvCmB33-u7-hqfQdlXz8SR72_o1oLNN7xyflxpTAK8\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-03-25T03:24:38.705Z",
+    "updateTime": "2020-04-24T00:48:59.446Z",
+    "scheduledTime": "2020-04-01T15:00:00Z",
+    "publicationTime": "2020-04-01T15:02:06.312Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Chapter 8"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJ1VoTo8_ucEivcQyitf8rjojxalIBcEJzSU2VZnyTP0T0UQ/viewform?hr_submission\u003dChgI2--roZoBEg8Iof2Z1UsSBwj-ltzemAEQAQ",
+        "title": "8.1 Adding Decimals to the tenths review",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/9M0iLMO9yXeVZppzJHw0FyiXXaVJK4lTkJS89DU0WEWukRGUzqfEjbPKoeDIxRtxRoDr5DBOryM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 8.1 Review Adding decimals up to tenths",
+      "description": "10:00 - 11:00 \n\nChapter 8 Opener Recalling prior knowledge\n\nAdding and Subtracting Decimals\n\nChapter opener Students add and subtract decimals by using the same algorithms as whole numbers. - Students Add \u0026 Subtract decimals using the same algorithm as whole numbers\n\nRead through Textbook pages 53 - 55 \n\nStep by Step to help review:  http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/place-value-decimals.htm\n\n\n\nChapter 8.1 Adding Decimals up to to place values.  This Lesson Takes 2 days. (Day 1)\n\nRead through Textbook pages 56 - 60\n\nComplete Workbook pages 21 - 22\n\nSee Math Google Classroom to complete for this assignment from textbook page 60 the \"Let\u0027s Practice\" page in the textbook\n\n**Optional - Reteach pages 57 - 54 (I will post the reteach pages in Math Google Classroom for optional extra practice)**\n\nVideos to help:  https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/introduction-to-adding-decimals-tenths  \n\nhttps://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/andding-decimals-with-hundredths\n\nStep by Step to help: http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/add-sub-decimals.htm \n\n\n\nThese are the questions on page 60 in the textbook",
+      "descriptionHtml": "\u003cdiv\u003e10:00 - 11:00 \u003cbr\u003e\u003cbr\u003eChapter 8 Opener Recalling prior knowledge\u003cbr\u003e\u003cbr\u003eAdding and Subtracting Decimals\u003cbr\u003e\u003cbr\u003eChapter opener Students add and subtract decimals by using the same algorithms as whole numbers. - Students Add \u0026amp; Subtract decimals using the same algorithm as whole numbers\u003cbr\u003e\u003cbr\u003eRead through Textbook pages 53 - 55 \u003cbr\u003e\u003cbr\u003eStep by Step to help review:  http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/place-value-decimals.htm\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eChapter 8.1 Adding Decimals up to to place values.  This Lesson Takes 2 days. (Day 1)\u003cbr\u003e\u003cbr\u003eRead through Textbook pages 56 - 60\u003cbr\u003e\u003cbr\u003eComplete Workbook pages 21 - 22\u003cbr\u003e\u003cbr\u003eSee Math Google Classroom to complete for this assignment from textbook page 60 the \u0026quot;Let\u0026#39;s Practice\u0026quot; page in the textbook\u003cbr\u003e\u003cbr\u003e**Optional - Reteach pages 57 - 54 (I will post the reteach pages in Math Google Classroom for optional extra practice)**\u003cbr\u003e\u003cbr\u003eVideos to help:  https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/introduction-to-adding-decimals-tenths  \u003cbr\u003e\u003cbr\u003ehttps://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/andding-decimals-with-hundredths\u003cbr\u003e\u003cbr\u003eStep by Step to help: http://studyjams.scholastic.com/studyjams/jams/math/decimals-percents/add-sub-decimals.htm \u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eThese are the questions on page 60 in the textbook\u003c/div\u003e",
+      "dueTime": "2020-04-03T06:59:00Z",
+      "maxPoints": 8.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-10-17T17:56:50.684Z",
+    "updateTime": "2020-04-24T00:48:49.620Z",
+    "publicationTime": "2019-10-17T18:12:20.038Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "SLC\u0027s"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1uqb5ToTXUiqS5nkMivQqEu0sc2CesX2ioROtKr0w6XI",
+          "title": "Student Template My Digital Conference",
+          "alternateLink": "https://docs.google.com/presentation/d/1uqb5ToTXUiqS5nkMivQqEu0sc2CesX2ioROtKr0w6XI/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM7Rm2ATph13KgElWp4n_cU9a2UXyMVXqZI2raamyWhGwe6Sp60lTDGGfi1Kn1OR2gVF9CQUAh7RpeJowXLdVW7bBg2vwy_Mhjlolpm3NPDPK_BMOpIGpVtDcvR4b2bPmmMyhE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Student Led Conference Slide",
+      "description": "Good Day 4th graders!\nWe are ready to showcase what we have been learning so far this year to your parents!\nClick the attachment...BUT you have to make your own copy to save and post here so it isn\u0027t mixed with someone else\u0027s presentation!\n1 - Click the Link\n2 - Click File\n3 - Click Make a Copy\n4 - On your Copy Title it with your First and Last Name\n5 - You may begin working on your Slide show!\n",
+      "descriptionHtml": "\u003cdiv\u003eGood Day 4th graders!\u003cbr\u003eWe are ready to showcase what we have been learning so far this year to your parents!\u003cbr\u003eClick the attachment...BUT you have to make your own copy to save and post here so it isn\u0026#39;t mixed with someone else\u0026#39;s presentation!\u003cbr\u003e1 - Click the Link\u003cbr\u003e2 - Click File\u003cbr\u003e3 - Click Make a Copy\u003cbr\u003e4 - On your Copy Title it with your First and Last Name\u003cbr\u003e5 - You may begin working on your Slide show!\u003c/div\u003e",
+      "dueTime": "2019-10-23T06:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1v-fNpMLGklben8TDHLqFOYjb1C2foMmgmmV55IEQEoA",
+              "title": "Loz McKEnzie",
+              "alternateLink": "https://docs.google.com/presentation/d/1v-fNpMLGklben8TDHLqFOYjb1C2foMmgmmV55IEQEoA/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO0ozSguIhGIwcVeoSzY6h0Mzu6qdiV56Tt61XMdMmXXpWj_nYlpXF_TNdcmM0zr2PKoh8UjhNPS08v-hMQcKnMQfKC0Xvp9wHJK5BlBh4xSYGFzodox_uOP87M7QeZRjg3QMQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

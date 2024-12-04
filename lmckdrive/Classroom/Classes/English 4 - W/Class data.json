@@ -1,0 +1,1826 @@
+{
+  "version": 1,
+  "name": "English 4 - W",
+  "section": "A",
+  "description": "Language Arts 4",
+  "room": "115",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dsageridge.org_classroom46128e38@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0Bzd02Q38-zlnflZCS2VmbTFPTFllVGpUa0NHVFFhNzA4ODdJTGxTMDQ1ZFVKTEFFNkM4ckU",
+    "name": "Rockstar Reading \u0026 Writing",
+    "openUrl": "https://drive.google.com/drive/folders/0Bzd02Q38-zlnflZCS2VmbTFPTFllVGpUa0NHVFFhNzA4ODdJTGxTMDQ1ZFVKTEFFNkM4ckU?resourcekey\u003d0-F1aHDUEfBey66z4BBDwqMA"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "subject": "Language Arts",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-01T04:09:41.262Z",
+    "updateTime": "2020-06-04T15:02:00.721Z",
+    "scheduledTime": "2020-06-04T15:00:00Z",
+    "publicationTime": "2020-06-04T15:02:00.362Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Narrative Essay"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "15VCpPWVGEwioBnatETyz_g0eR7KjNYX2lASPPw28ltc",
+          "title": "[Template] Letter to Grade 5 teacher: Dear Mrs. Trainor,",
+          "alternateLink": "https://docs.google.com/document/d/13mmtGbxAn6UgPt7ckDgew1UbDhvbvmI5J9u9y7FyKog/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPcmpIgJCJAvbMExWGX82QwS261m0b1BhK5nvMpJUUSZmfObQN5XW-ZOGFbarLeIHpdnJwgimYkJ700e5JbKw_vbQfCadxeWzH8ToTW_7RZ1GC6eirwf9XHzEGjx1UEi_kzzNQ\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Letter to your 5th Grade Teacher:  Dear Mrs. Trainor",
+      "description": "Today you will write about yourself to Mrs. Trainor so she can get to know you before next year.  Open the Google Doc and begin typing directly into the document.  \nYou can print the google doc to use as a note taker/rough draft or you can use a peice of lined paper or scratch paper to make an outline or rough draft before typing. \nRemember when you are typing in the google document to:\nUse complete sentence\nWrite about appropriate topics\nUse CAPS\nReread to catch any errors and check for accuracy.",
+      "descriptionHtml": "\u003cdiv\u003eToday you will write about yourself to Mrs. Trainor so she can get to know you before next year.  Open the Google Doc and begin typing directly into the document.  \u003cbr\u003eYou can print the google doc to use as a note taker/rough draft or you can use a peice of lined paper or scratch paper to make an outline or rough draft before typing. \u003cbr\u003eRemember when you are typing in the google document to:\u003cbr\u003eUse complete sentence\u003cbr\u003eWrite about appropriate topics\u003cbr\u003eUse CAPS\u003cbr\u003eReread to catch any errors and check for accuracy.\u003c/div\u003e",
+      "dueTime": "2020-06-05T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yJ7syeT7BwFC6gTUuzs3HAf03PpTL4aC-k0Up7d1b9I",
+              "title": "Loz McKenzie - Letter to Grade 5 teacher: Dear Mrs. Trainor,",
+              "alternateLink": "https://docs.google.com/document/d/1yJ7syeT7BwFC6gTUuzs3HAf03PpTL4aC-k0Up7d1b9I/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMNH_Z6AoE6aWKHuMLTuorkECZ4UkLbjaqFBBc9lFAfxNL51UGznlGKOc_m8o-2uG_7_DldwH_0DoRNQqkU9DACSRXCO3Fhlv5CI-PUPVA8LvrZ2__jgQ2A_QjPfwiDwxJI5w4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-06-01T03:55:54.052Z",
+    "updateTime": "2020-06-02T15:04:17.994Z",
+    "scheduledTime": "2020-06-02T15:00:00Z",
+    "publicationTime": "2020-06-02T15:04:17.803Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Narrative Essay"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1AASa0bXNjZaS_dgmY9GI5jcNG8m6gqrEf9T_7FrMArE",
+          "title": "[Template] Dear Future 4th Grade Student,",
+          "alternateLink": "https://docs.google.com/document/d/1A5jGnGHbXdTQh_890FxsyJWEiIosjo1gr8qQykglw0Q/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMhGAvcA7VOgGVTol0CLAtco9uyac7LIN907kUlXwzATSkDOlc9k_491u5UqrKx-Dmwva2cqNV85TEF3NTAJ8zds7GFrdmjI_d6mlNPqA0Sd1vL0Ij3eaMSYddNb25pEQF8gis\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "Dear Future Student",
+      "description": "Today we will write to the 3rd Grade students and tell them what they can expect in 4th grade.  \nAttached is a template to use to write to the 3rd graders that will be 4th graders next year.  \nYou will open the Google Doc and Type directly into the document to write to the third graders.  You can use lined paper or scratch paper as your rough draft to write out your thoughts before you type.  \nRemember when  you write your letter to:\nWrite in Complete sentences\nWrite about appropriate topics \nUse CAPS\nReread your letter to catch errors\nSubmit to me when finished. ",
+      "descriptionHtml": "\u003cdiv\u003eToday we will write to the 3rd Grade students and tell them what they can expect in 4th grade.  \u003cbr\u003eAttached is a template to use to write to the 3rd graders that will be 4th graders next year.  \u003cbr\u003eYou will open the Google Doc and Type directly into the document to write to the third graders.  You can use lined paper or scratch paper as your rough draft to write out your thoughts before you type.  \u003cbr\u003eRemember when  you write your letter to:\u003cbr\u003eWrite in Complete sentences\u003cbr\u003eWrite about appropriate topics \u003cbr\u003eUse CAPS\u003cbr\u003eReread your letter to catch errors\u003cbr\u003eSubmit to me when finished.\u003c/div\u003e",
+      "dueTime": "2020-06-03T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Ys-3tR7u6z2Elmabip4r-5UyM7LlWRatt5ta9R9av-E",
+              "title": "Loz McKenzie - Dear Future 4th Grade Student,",
+              "alternateLink": "https://docs.google.com/document/d/1Ys-3tR7u6z2Elmabip4r-5UyM7LlWRatt5ta9R9av-E/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPOH0x76pg0VlIuyhdVHpa7DsxdYr_wAdBNYAf0dGoxD6NEXjyW14cW-Nb1n0O1RdqxK5awy6VBf_gAWl2x0GWcwlztHCG-cdeALodOlAxVJ2eCbUuGkdmmeK_66SoA3m_FOK8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T03:23:15.443Z",
+    "updateTime": "2020-05-29T22:29:59.519Z",
+    "scheduledTime": "2020-05-21T15:00:00Z",
+    "publicationTime": "2020-05-21T15:00:09.094Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Opinion Writing"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1yRZ5JUlBDmZ9dSrm6H6urHlU7MOrAfBqmB4AGbZznUI",
+          "title": "[Template] Would You Rather: Summer Opinion Writing Prompts",
+          "alternateLink": "https://docs.google.com/presentation/d/1OkTbGth1xhAkMaoWy0PVXTrmi_QbC0V-q2GmYrUxveI/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNvi-tybiM7fRtQCRFjB5HNiDtB_7pfQmO695RyjFU1sMaeE7J1wREmNmTBFRXyaojmP2lF8QB0XtgKwSRvj1_Swr3eptHTXEHkU5Q2w9st6iJuRlohhLuyDEtz4e-5KGUG58U\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }],
+    "courseWork": {
+      "title": "5/21 Opinion Writing:  Would You Rather???",
+      "description": "Today you are going to do some fun writing with \"Would you rather\" statements to start shaping opinions.  \nIn the Google Slide file you will see that the first slide has the directions \nThe second slide has the first Would you rather done for you as an example.  \nThe next 10 slides have prompts for  you to answer and give 3 reasons why you would rather do one thing than the other. \nOn the Line you will type in which \"would you rather\" statement  you would pick then in the Reasons 1, 2, and 3 boxes you\u0027ll write the reasons why in a complete sentence. \n***Use Complete sentences to tell your reasons****",
+      "descriptionHtml": "\u003cdiv\u003eToday you are going to do some fun writing with \u0026quot;Would you rather\u0026quot; statements to start shaping opinions.  \u003cbr\u003eIn the Google Slide file you will see that the first slide has the directions \u003cbr\u003eThe second slide has the first Would you rather done for you as an example.  \u003cbr\u003eThe next 10 slides have prompts for  you to answer and give 3 reasons why you would rather do one thing than the other. \u003cbr\u003eOn the Line you will type in which \u0026quot;would you rather\u0026quot; statement  you would pick then in the Reasons 1, 2, and 3 boxes you\u0026#39;ll write the reasons why in a complete sentence. \u003cbr\u003e***Use Complete sentences to tell your reasons****\u003c/div\u003e",
+      "dueTime": "2020-05-22T06:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 30.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jzWRNUEAhEh9Kn1tw9TWsBLEEIUH7OGdGGQmOAyBO5o",
+              "title": "Loz McKenzie - Would You Rather: Summer Opinion Writing Prompts",
+              "alternateLink": "https://docs.google.com/presentation/d/1jzWRNUEAhEh9Kn1tw9TWsBLEEIUH7OGdGGQmOAyBO5o/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOg4TG3B3XQv6hsA57hJ1DbTuUPRqeqKJPNnYUTpbeA_4J5UHw9Kwig3-lkgJ3-eIIR6t0tsW71Ltcul7UWFq2Pj9yrn68opR3J_Raj_msQCH0Cm2-wEjSahh_WNNy3hxarpMw\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-29T20:23:02.974Z",
+          "updateTime": "2020-05-29T20:23:02.632Z",
+          "comment": "Excellent writing.  Your sentences and opinions are well thought out",
+          "commentHtml": "\u003cdiv\u003eExcellent writing.  Your sentences and opinions are well thought out\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-18T01:23:07.842Z",
+    "updateTime": "2020-05-29T22:30:03.115Z",
+    "scheduledTime": "2020-05-19T15:00:00Z",
+    "publicationTime": "2020-05-19T15:03:45.796Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quizzes and Assessments"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScTUVXXvveO-vZeBENRacvZ_zdwAQGi2zMHJWZkFSl0Ez4d4Q/viewform?hr_submission\u003dChkI2--roZoBEhAIrNmH34ADEgcIi6z03pgBEAE",
+        "title": "Subject Verb Agreement Quiz",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/dVnAg9OLMkvXHR-nIjU8Kx5EmU697dgjJImkvQ5K4auPsQZ2fSb-wJH15FWaq0cfwDaCY0C0Kxs\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Subject Verb Agreement Quiz",
+      "description": "Answer each question with the best answer from the multiple choices, there is only one correct answer for each question.\nThis is a quiz so it is your own knowledge.  \nThere is no google searching or asking a classmate for answers..",
+      "descriptionHtml": "\u003cdiv\u003eAnswer each question with the best answer from the multiple choices, there is only one correct answer for each question.\u003cbr\u003eThis is a quiz so it is your own knowledge.  \u003cbr\u003eThere is no google searching or asking a classmate for answers..\u003c/div\u003e",
+      "dueTime": "2020-05-20T06:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 16.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScTUVXXvveO-vZeBENRacvZ_zdwAQGi2zMHJWZkFSl0Ez4d4Q/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Subject Verb Agreement Quiz",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/dVnAg9OLMkvXHR-nIjU8Kx5EmU697dgjJImkvQ5K4auPsQZ2fSb-wJH15FWaq0cfwDaCY0C0Kxs\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-05-11T04:20:02.688Z",
+    "updateTime": "2020-05-29T22:30:06.496Z",
+    "scheduledTime": "2020-05-13T15:00:00Z",
+    "publicationTime": "2020-05-13T15:02:02.494Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Grammar Check-ins \u0026 Homework"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScLRgMn2KmcnzhWCkujP1gTuBmiWJqBcRF7vqyP86RWYh8f2g/viewform?hr_submission\u003dChkI2--roZoBEhAI-OO9qfcCEgcIi6z03pgBEAE",
+        "title": "Singular to Plural",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/6x40Dcm2ovHeB_hLf99Cg10wo0SPJ7UxuIsPB6RBG1DDpeNx1LVKKkvJgVN36yj3yKAO7lW-9JM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "5/13 - Subject Verb agreement Read \u0026 Respond Plural \u0026 Singular",
+      "description": "Singular to Plural:  Change each sentence below so that it has a plural subject instead of a singular subject.  Make sure your Subject \u0026 Verbs Still Agree\nPlural to Singular:  Change each sentence below so that it has a singular subject instead of a plural subject.  Make sure your subjects and verbs still agree. \nSubject Verb Agreement Multiple Choice:  Choose the answer that completes the sentence or answers the question. ",
+      "descriptionHtml": "\u003cdiv\u003eSingular to Plural:  Change each sentence below so that it has a plural subject instead of a singular subject.  Make sure your Subject \u0026amp; Verbs Still Agree\u003cbr\u003ePlural to Singular:  Change each sentence below so that it has a singular subject instead of a plural subject.  Make sure your subjects and verbs still agree. \u003cbr\u003eSubject Verb Agreement Multiple Choice:  Choose the answer that completes the sentence or answers the question.\u003c/div\u003e",
+      "dueTime": "2020-05-14T06:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 13.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScLRgMn2KmcnzhWCkujP1gTuBmiWJqBcRF7vqyP86RWYh8f2g/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Singular to Plural",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/6x40Dcm2ovHeB_hLf99Cg10wo0SPJ7UxuIsPB6RBG1DDpeNx1LVKKkvJgVN36yj3yKAO7lW-9JM\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-20T04:08:21.779Z",
+    "updateTime": "2020-05-29T22:30:09.954Z",
+    "scheduledTime": "2020-04-21T15:00:00Z",
+    "publicationTime": "2020-04-21T15:02:42.183Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Westward Movement Informational Writing"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "19DhqNI7KY1SaAsVe_z-Ybfhen8V3wbCt5bkIcMzUzjU",
+          "alternateLink": "https://drive.google.com/open?id\u003d19DhqNI7KY1SaAsVe_z-Ybfhen8V3wbCt5bkIcMzUzjU"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Lso19xJzj77KFm1A-CECgfvNXzgIOK3B",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Lso19xJzj77KFm1A-CECgfvNXzgIOK3B"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Westward Movement Informational Writing Newspaper Article Template",
+      "description": "Please wait for Mrs. Kirkwood to Zoom with you to help make a copy and attach this article template to your assignment.\n1) Open the template attached\n2) Click \"File\"\n3) Click \"Make a Copy\" \n4) Click Add + Create and Select from Google Drive\n5) Select your newly copied resource to attach to the assignment. \n6) Open your attachment and begin editing and typing your article. \n\n***Directions and rubric are below to review. ***",
+      "descriptionHtml": "\u003cdiv\u003ePlease wait for Mrs. Kirkwood to Zoom with you to help make a copy and attach this article template to your assignment.\u003cbr\u003e1) Open the template attached\u003cbr\u003e2) Click \u0026quot;File\u0026quot;\u003cbr\u003e3) Click \u0026quot;Make a Copy\u0026quot; \u003cbr\u003e4) Click Add + Create and Select from Google Drive\u003cbr\u003e5) Select your newly copied resource to attach to the assignment. \u003cbr\u003e6) Open your attachment and begin editing and typing your article. \u003cbr\u003e\u003cbr\u003e***Directions and rubric are below to review. ***\u003c/div\u003e",
+      "dueTime": "2020-05-12T06:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 85.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1asmG4dmyFgOzU3fntcxTjEtTj27mtIfVKjUBdQwtDUQ",
+              "title": "Loz McKenzie Traveling West Newspaper Template",
+              "alternateLink": "https://docs.google.com/presentation/d/1asmG4dmyFgOzU3fntcxTjEtTj27mtIfVKjUBdQwtDUQ/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN73tO9hyVjPZI4bB3LnqxJB0jD66y_C8cDWUG1pvbtiZdBv5_yWz0vuOzGPo-PPNS1r_PNDPuYd_-NBMK0kc3WWz0ovjJ4TMy1eydyPkIaSBof6WYyaORf_Ng79F_sjbVqXm_E\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-05-05T19:03:04.351Z",
+          "updateTime": "2020-05-05T19:03:03.936Z",
+          "comment": "Your font needs to be consistent in the same size and style throughout the entire article. \nSeveral of your body paragraphs are quite short and need to be 6-8 sentences to be a body paragraph.\nRemember your Topic and Closing paragraphs should be 3-4 sentences.  The closing paragraph is a bit short.  Think about modeling or using the topic paragraph to sort of rewrite and modify to create your closing paragraph.",
+          "commentHtml": "\u003cdiv\u003eYour font needs to be consistent in the same size and style throughout the entire article. \u003cbr\u003eSeveral of your body paragraphs are quite short and need to be 6-8 sentences to be a body paragraph.\u003cbr\u003eRemember your Topic and Closing paragraphs should be 3-4 sentences.  The closing paragraph is a bit short.  Think about modeling or using the topic paragraph to sort of rewrite and modify to create your closing paragraph.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-12T22:31:17.208Z",
+    "updateTime": "2020-04-24T00:43:18.880Z",
+    "scheduledTime": "2020-04-15T15:00:00Z",
+    "publicationTime": "2020-04-15T15:03:09.270Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Westward Movement Informational Writing"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeiMi5sSNh7bP749x2lDRJ5SYtw4l2TjE0MRAZdAvC4j9fTUg/viewform?hr_submission\u003dChkI2--roZoBEhAI1eOe0oICEgcIi6z03pgBEAE",
+        "title": "Traveling West: Newspaper Article Planning Organizer",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/oMHZv3gqtNHOZx50xEAvTqYzWmhdpStDucJwk3J0oXhMmNUd1Gsy5ZeFoo_2na49gmCdftrSq7s\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Newspaper Article Planning for Writing",
+      "description": "Now that we have reviewed and discussed 3 sources of information you are ready to start writing your Newspaper Article.\nThis material is going to help guide you to write your article. Open and complete all the sections of this writing planner. ",
+      "descriptionHtml": "\u003cdiv\u003eNow that we have reviewed and discussed 3 sources of information you are ready to start writing your Newspaper Article.\u003cbr\u003eThis material is going to help guide you to write your article. Open and complete all the sections of this writing planner.\u003c/div\u003e",
+      "dueTime": "2020-04-17T06:59:00Z",
+      "maxPoints": 27.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 26.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeiMi5sSNh7bP749x2lDRJ5SYtw4l2TjE0MRAZdAvC4j9fTUg/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Traveling West: Newspaper Article Planning Organizer",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/oMHZv3gqtNHOZx50xEAvTqYzWmhdpStDucJwk3J0oXhMmNUd1Gsy5ZeFoo_2na49gmCdftrSq7s\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-12T22:04:05.024Z",
+    "updateTime": "2020-04-24T00:41:02.756Z",
+    "scheduledTime": "2020-04-13T15:00:00Z",
+    "publicationTime": "2020-04-13T15:03:13.727Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Grammar Check-ins \u0026 Homework"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeTry9lopBfJw6_j4YBsh_sKULjD_W3sXQc9eXcvs7Gc1m87w/viewform?hr_submission\u003dChkI2--roZoBEhAIveu9x4ICEgcIi6z03pgBEAE",
+        "title": "Pronoun - Antecedent Agreement Check in 4/13/20",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/z4LK4adxX_EJ74AoHyVj_iTXenmDKrBSRnNlPrJy_Zhrw5yedvjeGeCS4uE2rb8VV-9GExqlbIA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pronoun - Antecedent Agreement April 13th Check in",
+      "description": "After working through lesson 36 in GUM \nComplete this assignment as a check in. ",
+      "descriptionHtml": "\u003cdiv\u003eAfter working through lesson 36 in GUM \u003cbr\u003eComplete this assignment as a check in.\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeTry9lopBfJw6_j4YBsh_sKULjD_W3sXQc9eXcvs7Gc1m87w/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Pronoun - Antecedent Agreement Check in 4/13/20",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/z4LK4adxX_EJ74AoHyVj_iTXenmDKrBSRnNlPrJy_Zhrw5yedvjeGeCS4uE2rb8VV-9GExqlbIA\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-12T21:56:28.492Z",
+    "updateTime": "2020-04-24T00:43:05.295Z",
+    "scheduledTime": "2020-04-13T15:00:00Z",
+    "publicationTime": "2020-04-13T15:02:29.169Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Westward Movement Informational Writing"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfzPjtvdX7sFM42nk5UAEVxFTJbQrzuO0wyJvtrlHeA0-dkuQ/viewform?hr_submission\u003dChkI2--roZoBEhAI4Y7c0IICEgcIi6z03pgBEAE",
+        "title": "Elbow Room Source 3 Main Idea",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/1MqfP3hPKK8NobgzEo-TOlOuS3Xli7Yo2G1BagCY6_MhMlmAA-UxNp7EEaDK9vFO0nzBioVvkgg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Source 3 Elbow Room Song Main Idea",
+      "description": "Good morning, \nAfter reading, hearing, and discussing the song \"Elbow Room\" please fill out this Main Idea Note taker about stanzas in the song. ",
+      "descriptionHtml": "\u003cdiv\u003eGood morning, \u003cbr\u003eAfter reading, hearing, and discussing the song \u0026quot;Elbow Room\u0026quot; please fill out this Main Idea Note taker about stanzas in the song.\u003c/div\u003e",
+      "dueTime": "2020-04-15T06:59:00Z",
+      "maxPoints": 9.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfzPjtvdX7sFM42nk5UAEVxFTJbQrzuO0wyJvtrlHeA0-dkuQ/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Elbow Room Source 3 Main Idea",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/1MqfP3hPKK8NobgzEo-TOlOuS3Xli7Yo2G1BagCY6_MhMlmAA-UxNp7EEaDK9vFO0nzBioVvkgg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-03T23:18:26.521Z",
+    "updateTime": "2020-04-24T00:42:59.633Z",
+    "scheduledTime": "2020-04-09T15:00:00Z",
+    "publicationTime": "2020-04-09T15:04:19.859Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Westward Movement Informational Writing"
+    }],
+    "courseWork": {
+      "title": "What difficulties did Lewis \u0026 Clark, and the Author, Mary Stahler, of A Pioneer Woman Looks Back, have to overcome to get to their western destination?  \nWestern Movement Informational Writing Check In Paragraph",
+      "description": "What difficulties did Lewis \u0026 Clark, and the Author, Mary Stahler, of A Pioneer Woman Looks Back, have to overcome to get to their western destination?  \nWestern Movement Informational Writing Check In Paragraph\n\nGive an example from each source to support your answer in a short  5 sentence paragraph. \nBe sure to use paragraph format: Topic sentence, 3 sentences providing evidence and explaining the difficulties, and a Closing sentence.\nDon\u0027t forget CAPS\nYou will receive a writing grade based on our Writing Rubric \n\nCreate a Google Doc\nPut your Name and Number at the top\nTitle the assignment:Western Movement Informational Writing Check In Paragraph\nMake sure you press enter after your Name/Number/Titie \nMake sure to indent your paragraph.\u003d\nSubmit when you are done",
+      "descriptionHtml": "\u003cdiv\u003eWhat difficulties did Lewis \u0026amp; Clark, and the Author, Mary Stahler, of A Pioneer Woman Looks Back, have to overcome to get to their western destination?  \u003cbr\u003eWestern Movement Informational Writing Check In Paragraph\u003cbr\u003e\u003cbr\u003eGive an example from each source to support your answer in a short  5 sentence paragraph. \u003cbr\u003eBe sure to use paragraph format: Topic sentence, 3 sentences providing evidence and explaining the difficulties, and a Closing sentence.\u003cbr\u003eDon\u0026#39;t forget CAPS\u003cbr\u003eYou will receive a writing grade based on our Writing Rubric \u003cbr\u003e\u003cbr\u003eCreate a Google Doc\u003cbr\u003ePut your Name and Number at the top\u003cbr\u003eTitle the assignment:Western Movement Informational Writing Check In Paragraph\u003cbr\u003eMake sure you press enter after your Name/Number/Titie \u003cbr\u003eMake sure to indent your paragraph.\u003d\u003cbr\u003eSubmit when you are done\u003c/div\u003e",
+      "dueTime": "2020-04-11T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1InamhGEot1oe3YILlRVApOeTO-wOxlD72wY3qE-3MOw",
+              "title": "Loz McKenzie - What difficulties did Lewis \u0026 Clark, and the Author, Mary Stahler, of A Pioneer Woman Looks Back, have to overcome to get to their western destination?  \nWestern Movement Informational Writing Check In Paragraph",
+              "alternateLink": "https://docs.google.com/document/d/1InamhGEot1oe3YILlRVApOeTO-wOxlD72wY3qE-3MOw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPh7Kb1qJOWCnW5c7o62RHckwI2l9nEbwjKqcoCxh-CHsO-qmMT0_QmxSLgsTPS1mX0Z77oUnUOSIqbf8lDzwvB6NqtLe6XdfnOOQ92lyfw8juxFJoG8aigCb-fI9rPcMuQETA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-04-13T22:44:02.746Z",
+          "updateTime": "2020-04-13T22:44:02.379Z",
+          "comment": "Excellent details here from both sources",
+          "commentHtml": "\u003cdiv\u003eExcellent details here from both sources\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-03T23:36:12.294Z",
+    "updateTime": "2020-04-24T00:41:15.737Z",
+    "scheduledTime": "2020-04-09T15:00:00Z",
+    "publicationTime": "2020-04-09T15:00:28.381Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Grammar Check-ins \u0026 Homework"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeedGZK5-OU0KvwOOXXCEFFwYGiUcw04Fsba9eBJFpYZqqpsw/viewform?hr_submission\u003dChkI2--roZoBEhAImIiR4voBEgcIi6z03pgBEAE",
+        "title": "Reflexive Pronouns",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/aPouQ21FCE04jmQJGd9HwWuh9czat1mTlyuA18oVXWWTL_2dax8cZDWLTI5kJze_ojJZYN8Mexs\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Reflexive \u0026 Indefinite Pronouns Homework",
+      "description": "This Homework corresponds with Lesson 34 from your GUM book.",
+      "descriptionHtml": "\u003cdiv\u003eThis Homework corresponds with Lesson 34 from your GUM book.\u003c/div\u003e",
+      "dueTime": "2020-04-11T06:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 15.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeedGZK5-OU0KvwOOXXCEFFwYGiUcw04Fsba9eBJFpYZqqpsw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "Reflexive Pronouns",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/aPouQ21FCE04jmQJGd9HwWuh9czat1mTlyuA18oVXWWTL_2dax8cZDWLTI5kJze_ojJZYN8Mexs\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-04-03T20:37:14.446Z",
+    "updateTime": "2020-04-24T00:41:37.278Z",
+    "scheduledTime": "2020-04-07T15:00:00Z",
+    "publicationTime": "2020-04-07T15:01:24.298Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Westward Movement Informational Writing"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdONi7fKchAIKhIx76QLBs9e1g-Dclxq_L5G10gtxvnbORURw/viewform?hr_submission\u003dChkI2--roZoBEhAI4JPIzvoBEgcIi6z03pgBEAE",
+        "title": "A Pioneer Woman Looks Back - Main Idea",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/xXRQL7CaQN09zSPqzSZCT3Ct5yR2rTl5zMGVgNmdoh5jtPuYZptPhepjiS7cBjVmJByayRyXxqk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "A Pioneer Woman Looks Back - Main Idea",
+      "description": "We will read the poem together and talk about what it means.  You will follow along and submit your note taker while we work on this together. ",
+      "descriptionHtml": "\u003cdiv\u003eWe will read the poem together and talk about what it means.  You will follow along and submit your note taker while we work on this together.\u003c/div\u003e",
+      "dueTime": "2020-04-09T06:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdONi7fKchAIKhIx76QLBs9e1g-Dclxq_L5G10gtxvnbORURw/viewscore?viewscore\u003dAE0zAgA25u3KI3FGjh7oWMWeoCF3SN04Pk7fQa0Ymkk_",
+              "title": "A Pioneer Woman Looks Back - Main Idea",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/xXRQL7CaQN09zSPqzSZCT3Ct5yR2rTl5zMGVgNmdoh5jtPuYZptPhepjiS7cBjVmJByayRyXxqk\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-02-27T16:55:46.582Z",
+    "updateTime": "2020-04-24T00:41:43.052Z",
+    "publicationTime": "2020-02-27T16:57:34.402Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - An Adjective to Describe Me Week  #19",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 19 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 19 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-03-01T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 35.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15LEq4wyrScCwBmHTqvo9TvOYQvzS0SxqwALJ9jCYqyk",
+              "title": "Loz McKenzie - Paragraph of the Week - An Adjective to Describe Me Week  #19",
+              "alternateLink": "https://docs.google.com/document/d/15LEq4wyrScCwBmHTqvo9TvOYQvzS0SxqwALJ9jCYqyk/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMCwA2kfNjK45Jam1mZR6Jqk4xawg-TKv_LzIEalyHLMFkPwtudZ5VvMKC4ocl1-r_tWa6vfV-3QPYTG3KsmDp6nigGurWfLq04fHkO5ODiZ879iHW6vVU4QKtftkw2XpGT3O8\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-03-24T23:39:58.575Z",
+          "updateTime": "2020-03-24T23:39:58.344Z",
+          "comment": "Let\u0027s try to expand these sentences to include some complex and compound sentences.",
+          "commentHtml": "\u003cdiv\u003eLet\u0026#39;s try to expand these sentences to include some complex and compound sentences.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-17T20:32:16.849Z",
+    "updateTime": "2020-04-24T00:41:49.895Z",
+    "scheduledTime": "2020-02-17T16:00:00Z",
+    "publicationTime": "2020-02-17T16:00:08.618Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - If You Aged Backwards",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 18 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 18 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-02-22T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 32.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pJQQ_gaZ442Sst9c-uZtuiIrt8SUP3hDWDmyKn6NgI8",
+              "title": "Loz McKenzie - Paragraph of the Week - If You Aged Backwards",
+              "alternateLink": "https://docs.google.com/document/d/1pJQQ_gaZ442Sst9c-uZtuiIrt8SUP3hDWDmyKn6NgI8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPtJ4rA_7hXKjnzWps3R3LRKeg62KnDTjxKH9InJkHcBtjGTZmKjqtA2utCJKRjjzk_ahBeIZ-L_a1miW4L-6tKatgIyeDb7sao5_tfv-89uNDlyM6GcR9T-46zLm7h48uKYGY\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-03-02T18:27:27.268Z",
+          "updateTime": "2020-03-02T18:27:27.062Z",
+          "comment": "Loz let\u0027s work on really explaining why or how our details happen.  Your paragraph has good details but limited explanation that tell why something would happen which leaves the reader confused.",
+          "commentHtml": "\u003cdiv\u003eLoz let\u0026#39;s work on really explaining why or how our details happen.  Your paragraph has good details but limited explanation that tell why something would happen which leaves the reader confused.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-17T20:31:29.570Z",
+    "updateTime": "2020-04-24T00:41:54.543Z",
+    "scheduledTime": "2020-02-10T16:00:00Z",
+    "publicationTime": "2020-02-10T16:00:18.849Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - If You Could be Invisible",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 17 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 17 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-02-15T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 33.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sc-X6HU8sYnNgjuKwgSjjWknZd0Wb1Oqqxgbb5XBdZk",
+              "title": "Loz McKenzie - Paragraph of the Week - If You Could be Invisible",
+              "alternateLink": "https://docs.google.com/document/d/1sc-X6HU8sYnNgjuKwgSjjWknZd0Wb1Oqqxgbb5XBdZk/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOhecTMcjbWhKr4HMxLUyXtY5rPcRlHguZtHWxj7joH_8h5UZgcvLyGhIBojia-3etnZHljwB9dWHtxg7rS73tMbKdVZWtdASBOPLCyHSM5o8vcvr4HBj4RM7h_ylzOFg2kqlE\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-02-21T20:04:49.472Z",
+          "updateTime": "2020-02-21T20:04:49.302Z",
+          "comment": "Excellent details and explanations.  Check the corrections.  Typically when you write an \"if\" starting sentence, you need the second part following the comma to say...Then and tell the rest of what you would do.",
+          "commentHtml": "\u003cdiv\u003eExcellent details and explanations.  Check the corrections.  Typically when you write an \u0026quot;if\u0026quot; starting sentence, you need the second part following the comma to say...Then and tell the rest of what you would do.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-17T20:30:34.580Z",
+    "updateTime": "2020-04-24T00:41:57.220Z",
+    "scheduledTime": "2020-02-03T16:00:00Z",
+    "publicationTime": "2020-02-03T16:00:41.459Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - If Animals Could Talk",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 16 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 16 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-02-08T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1zyrp6CLeIANa_stb7sbfGudq7yABHSjJAlnmg-gQYkU",
+              "title": "Loz McKenzie - Paragraph of the Week - If Animals Could Talk",
+              "alternateLink": "https://docs.google.com/document/d/1zyrp6CLeIANa_stb7sbfGudq7yABHSjJAlnmg-gQYkU/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO1I5Jkh3D3kdaTNoFY1TVIkS28Mj5Mn4HsUsc6Q-IKKvEIBo20uAO2bz0kepPUhIdBMo9fOXk7KWjD8PI_ep_xJSNfcxUUdVIm74hRVqRC8HDfjdbdIMNmT4qo47a2mbjEWRs\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-02-19T23:14:05.568Z",
+          "updateTime": "2020-02-19T23:14:05.362Z",
+          "comment": "Great paragraph!  Excellent details and CAPS",
+          "commentHtml": "\u003cdiv\u003eGreat paragraph!  Excellent details and CAPS\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-17T20:27:35.833Z",
+    "updateTime": "2020-04-24T00:42:01.692Z",
+    "scheduledTime": "2020-01-27T16:00:00Z",
+    "publicationTime": "2020-01-27T16:00:08.060Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - If You Lived Underwater",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 15 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 15 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-02-01T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CAquwepzOIm-zpwGrQmY-ILxE7FRQRLAZjQj2iaDSoE",
+              "title": "Loz McKenzie - Paragraph of the Week - If You Lived Underwater",
+              "alternateLink": "https://docs.google.com/document/d/1CAquwepzOIm-zpwGrQmY-ILxE7FRQRLAZjQj2iaDSoE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOW1Q9BCZMB9gt1-Ktfosk2oSqThCj7HRLugsgHB6cRxqd4rT6_ateN-lbJYvhDhywETh9GdHlUZJZ_VpxlezjjWkAlwEHE21y28DrobFG16j3zSwSCwfzNsTbFShJ6A39J6JQ\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-02-04T02:15:34.841Z",
+          "updateTime": "2020-02-04T02:15:34.684Z",
+          "comment": "Excellent writing.  Very good details.",
+          "commentHtml": "\u003cdiv\u003eExcellent writing.  Very good details.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-17T20:25:19.788Z",
+    "updateTime": "2020-04-24T00:42:04.779Z",
+    "scheduledTime": "2020-01-20T16:00:00Z",
+    "publicationTime": "2020-01-20T16:00:45.365Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the week - If you were a Fly on the Wall",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 14 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 14 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-01-25T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 37.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1fke1RdIC2rIh428Nq0PljUp8T2G2HP-NJaS4w0-2DlQ",
+              "title": "Loz McKenzie - Paragraph of the week - If you were a Fly on the Wall",
+              "alternateLink": "https://docs.google.com/document/d/1fke1RdIC2rIh428Nq0PljUp8T2G2HP-NJaS4w0-2DlQ/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPgp8ZYGz8lr5dPPB5iQjdifFFiZ0L_Ij8Zj1f9fOsMPZIsFFngVW6C0hCQMIjLKFhmG_aA1dNcOkMswbwM6E-Gg-Fx2kdlicNrtqNpo8n_YamS6OicHkDw-Jj6ytB8P4KL0Eo\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-01-28T04:10:32.464Z",
+          "updateTime": "2020-01-28T04:10:32.213Z",
+          "comment": "great details.",
+          "commentHtml": "\u003cdiv\u003egreat details.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-17T21:19:39.579Z",
+    "updateTime": "2020-04-24T00:42:12.720Z",
+    "publicationTime": "2020-01-17T21:20:07.938Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - If Kids Ruled the World",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 13 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 13 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-01-18T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 40.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Jl9hD5av1UAeoN6wSP93_tCILT-0GnWub8kZP45etxI",
+              "title": "Loz McKenzie - Paragraph of the Week - If Kids Ruled the World",
+              "alternateLink": "https://docs.google.com/document/d/1Jl9hD5av1UAeoN6wSP93_tCILT-0GnWub8kZP45etxI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNa4CXZ0hyCnRzU87nOojcaZkUB9QdEg8MaU-3yRa7r3x9Y0jrzifkSa-ePcqI7rp-po7KYZ9zwluw22xczw4nYH05530A60BdMq-kb9GNGOeezWuFz7ZbaVO3M6_mS1hQrU5s\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-01-28T03:34:12.132Z",
+          "updateTime": "2020-01-28T03:34:11.876Z",
+          "comment": "Excellent paragraph",
+          "commentHtml": "\u003cdiv\u003eExcellent paragraph\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-10T16:12:22.011Z",
+    "updateTime": "2020-04-24T00:42:09.380Z",
+    "publicationTime": "2020-01-10T16:13:12.672Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Native American Legend Writing",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Native American Legend Writing Project. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, at the top of your page\n4) Click ENTER and Put your Title in the CENTER of your paper.\n5) press enter so your Legend \u0026 Beginning  paragraph start below the Title line\n6) press the Tab button on your Keyboard 1 time.\n7) Start typing your Topic paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n8) Make sure that when you are ready to start each paragraph that you press ENTER 1 time followed by Tab one time to make a new paragraph that is indented.\n9) Remember to use commas to link ideas, complex sentences, and list things\n10)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n11) when you are done make sure to click turn it in!\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Native American Legend Writing Project. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, at the top of your page\u003cbr\u003e4) Click ENTER and Put your Title in the CENTER of your paper.\u003cbr\u003e5) press enter so your Legend \u0026amp; Beginning  paragraph start below the Title line\u003cbr\u003e6) press the Tab button on your Keyboard 1 time.\u003cbr\u003e7) Start typing your Topic paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e8) Make sure that when you are ready to start each paragraph that you press ENTER 1 time followed by Tab one time to make a new paragraph that is indented.\u003cbr\u003e9) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e10)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e11) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-01-14T07:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dIWu9RhQuMyCfrOMEt3Fvkw6c-nM3NhSCtGt5wDPLzw",
+              "title": "Loz McKenzie - Native American Legend Writing",
+              "alternateLink": "https://docs.google.com/document/d/1dIWu9RhQuMyCfrOMEt3Fvkw6c-nM3NhSCtGt5wDPLzw/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMANhfQ5NWomNM9mUkGq9E1IdqdVqvhb82V7kGBcJR2ldMj4iFG5fpAQl6ogdkJYT4iABTnv0nENK52fgTmWkqwq6HHiFzf5KvPEdWxy2GkKIymbsa-3mh9b9JxIOjnT0XCbCg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2020-01-10T16:01:38.982Z",
+    "updateTime": "2020-04-24T00:42:19.411Z",
+    "publicationTime": "2020-01-10T16:02:11.753Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week - If it Rained Cats and Dogs",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 12 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 12 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2020-01-14T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 36.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1fiBoERjqNA-2dCja1d31Efb8CCXZe-IBnt5zXJ0Iz3U",
+              "title": "Loz McKenzie - Paragraph of the Week - If it Rained Cats and Dogs",
+              "alternateLink": "https://docs.google.com/document/d/1fiBoERjqNA-2dCja1d31Efb8CCXZe-IBnt5zXJ0Iz3U/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPr9njUfM0dUYWF1oNGIyX6ZQmSkQ-CNy8kRSmmQs2JJuLykJ-A3vhgdWtMumtvGM2DHxEzNBWA_HqrV_vX5_VPFHN31heyyDSHunDh79jJqQ2RJYuSf8NkhHhHVbafpslkigI\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2020-01-14T01:23:06.315Z",
+          "updateTime": "2020-01-14T01:23:05.939Z",
+          "comment": "Very good details!  You really bring to life the story and why you\u0027d run away from all the raining cats and dogs.  Great job.  See a couple corrections in your writing.",
+          "commentHtml": "\u003cdiv\u003eVery good details!  You really bring to life the story and why you\u0026#39;d run away from all the raining cats and dogs.  Great job.  See a couple corrections in your writing.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-12-13T17:54:43.853Z",
+    "updateTime": "2020-04-24T00:42:22.636Z",
+    "publicationTime": "2019-12-13T17:57:26.492Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Week 11 If Streets were Rivers",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 11 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 11 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-12-17T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dhN-05iJeLh5iYHdzwkq40TciNIHZom8TTrEFQPGNi0",
+              "title": "Loz McKenzie - Week 11 If Streets were Rivers",
+              "alternateLink": "https://docs.google.com/document/d/1dhN-05iJeLh5iYHdzwkq40TciNIHZom8TTrEFQPGNi0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOWoOsaqiwUydYyuE5MXaApQ-Ckn4-BDQpnKOu08gjZ1PV4ipkkki_Y8I8vjI_-fZeg9pC_zzZSA_kYWsLIwDHvVopFaepEn-jZrq2ZIPp51n3VxOgWmG4iETA72pa5-OEKsXM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-11-21T21:59:29.950Z",
+    "updateTime": "2020-04-24T00:42:54.246Z",
+    "publicationTime": "2019-11-21T22:00:19.612Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the week #10 - What would it be like if there were no TV?",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 10 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 10 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-12-07T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LLjOHM1rn-Qh2NJHsPjc39sgeeWzRAks8L1AKjZmI0I",
+              "title": "Loz McKenzie - Paragraph of the week #10 - What would it be like if there were no TV?",
+              "alternateLink": "https://docs.google.com/document/d/1LLjOHM1rn-Qh2NJHsPjc39sgeeWzRAks8L1AKjZmI0I/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOkBRslNmi7Mln_CWOUzUUHSUSz2QpJI5DHxxZMZqehrzh47IaxTK7_r-ePxSXUCdt5PkJYfJa8YIkzC-rpg_Gjx6ZF4A917Ecc5CQSGuMrsm2eqoBlA5AGtpEV3kAlLD6r2HU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-11-21T21:44:46.641Z",
+    "updateTime": "2020-04-24T00:42:50.639Z",
+    "publicationTime": "2019-11-21T21:57:21.547Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Narrative Essay"
+    }],
+    "courseWork": {
+      "title": "Field Trip Narrative Essay Writing",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Narrative Essay Writing Project. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, at the top of your page\n4) Click ENTER and Put your Title in the CENTER of your paper.\n5) press enter so your Essay \u0026 Topic paragraph start below the Title line\n6) press the Tab button on your Keyboard 1 time.\n7) Start typing your Topic paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation. \n8) Make sure that when you are ready to start each paragraph that you press ENTER 1 time followed by Tab one time to make a new paragraph that is indented. \n9) Remember to use commas to link ideas, complex sentences, and list things\n10)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n11) when you are done make sure to click turn it in!\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Narrative Essay Writing Project. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, at the top of your page\u003cbr\u003e4) Click ENTER and Put your Title in the CENTER of your paper.\u003cbr\u003e5) press enter so your Essay \u0026amp; Topic paragraph start below the Title line\u003cbr\u003e6) press the Tab button on your Keyboard 1 time.\u003cbr\u003e7) Start typing your Topic paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation. \u003cbr\u003e8) Make sure that when you are ready to start each paragraph that you press ENTER 1 time followed by Tab one time to make a new paragraph that is indented. \u003cbr\u003e9) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e10)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e11) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-11-23T07:59:00Z",
+      "maxPoints": 60.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17d188pZqg5vspPiPS0Ple6LRfoCo0ZwRoNwOYqNQDzI",
+              "title": "Loz McKenzie - Field Trip Narrative Essay Writing",
+              "alternateLink": "https://docs.google.com/document/d/17d188pZqg5vspPiPS0Ple6LRfoCo0ZwRoNwOYqNQDzI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPMr97DMTg6Evh61tLshzdrOaIolRM9ymWwK7TEBErV4ZEezqqiTQfW0_wJwuarQELmxY4j0pHX21aYq0J461VSPG0Era0wv3_qeTmSSST4SATAG5puxidEa0XQcm6D9FLZgYY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-11-08T19:50:24.145Z",
+    "updateTime": "2020-04-24T00:42:47.408Z",
+    "publicationTime": "2019-11-08T19:50:59.449Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week 9 - One thing I am Proud of",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 9 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 9 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-11-13T07:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1j8NX61d5ABHVdtjVl-KR8szuZqE9QgD9VhcnQjlZ4pY",
+              "title": "Loz McKenzie - Paragraph of the Week 9 - One thing I am Proud of",
+              "alternateLink": "https://docs.google.com/document/d/1j8NX61d5ABHVdtjVl-KR8szuZqE9QgD9VhcnQjlZ4pY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNnR4EFvyRaQlFPdnnoWRbSxAFiXfY_NWbQrhoy66LDRqAvM-8gNRc40moJ5VBdt8_avl1t01Y4ZPAdBe6BAZpH_xsXeNerYW3DzinsDteMe5JM-vBBSfJUWsPLX2pnIfjTKGU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-11-01T15:27:57.950Z",
+    "updateTime": "2020-04-24T00:42:44.883Z",
+    "publicationTime": "2019-11-01T15:28:48.391Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the wee #8 - One thing that I am scared of",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 8 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work.\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 8 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work.\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-11-03T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11QK5TMgLlkeA7dj3G32J_kOC3AmvXnysU27HRRNc1H8",
+              "title": "Loz McKenzie - Paragraph of the wee #8 - One thing that I am scared of",
+              "alternateLink": "https://docs.google.com/document/d/11QK5TMgLlkeA7dj3G32J_kOC3AmvXnysU27HRRNc1H8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNcNhsT7LhJVmIH10-uPjkxeocB9g7wOATnFgqsoDzYQ1W8k8F0f9Nsc2VgGtjmuz44hkMK_Vo_Tezh408grt31YiLhj2Bd9JihKGdw2rdT5NETrr_2tJKhrT7OMr5Dn6DhG3I\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-10-24T18:09:56.711Z",
+    "updateTime": "2020-04-24T00:42:41.856Z",
+    "publicationTime": "2019-10-24T18:10:49.485Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the week # 7 - What is something that makes me sad?",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 7 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your work. \nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 7 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your work. \u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-10-26T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 30.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1hqCdyNKsY3LBouRsp22v9kexRU6j2GWQr-4uROs5BSo",
+              "title": "Loz McKenzie - Paragraph of the week # 7 - What is something that makes me sad?",
+              "alternateLink": "https://docs.google.com/document/d/1hqCdyNKsY3LBouRsp22v9kexRU6j2GWQr-4uROs5BSo/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPvucwjuNDjLS7pKqf_Hkqh9i7me0g837Zbanr93dAvKsq-zVwDVINA7pliwcS-rvVtikztcoGtl5ry2SNv_6lRdmk3GfUYs5yIg55_U9uGGHIhxNDQb-VOapFBFofo0n1c1Ys\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2019-12-10T19:17:34.443Z",
+          "updateTime": "2019-12-10T19:17:34.207Z",
+          "comment": "Loz, you have a lot of spacing and spelling errors.  Additionally you have many details/explanations that are repetitive.  You really need to open up and tell more about being sad that you won\u0027t see a person any more.  For example:  you could talk about not seeing them on holidays or special occasions.  You could tell about not getting to do things with them that you used to.  You could talk about not having the chance to say goodbye or about missing them.  There is a lot more that you could have used to describe your emotions about this topic.",
+          "commentHtml": "\u003cdiv\u003eLoz, you have a lot of spacing and spelling errors.  Additionally you have many details/explanations that are repetitive.  You really need to open up and tell more about being sad that you won\u0026#39;t see a person any more.  For example:  you could talk about not seeing them on holidays or special occasions.  You could tell about not getting to do things with them that you used to.  You could talk about not having the chance to say goodbye or about missing them.  There is a lot more that you could have used to describe your emotions about this topic.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-10-18T15:08:35.219Z",
+    "updateTime": "2020-04-24T00:42:34.564Z",
+    "publicationTime": "2019-10-18T15:09:03.792Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the week #6 - One Food I Do Not Like",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 6 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read about your favorite subject\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 6 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read about your favorite subject\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-10-19T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 38.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1O_sze9rgfZwKJ0P0UEl8f_y9nY7Cgo7tSkTe0vFOQNE",
+              "title": "Loz McKenzie - Paragraph of the week #6 - One Food I Do Not Like",
+              "alternateLink": "https://docs.google.com/document/d/1O_sze9rgfZwKJ0P0UEl8f_y9nY7Cgo7tSkTe0vFOQNE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMgAxFro6tvGx7UPjyFq9o288ocPehfo0ohwcj2ZEMMlFOolPuhwLt8yX5MBj2dtxHQZKrx-BE3vIq8q3WfNu8Nb2Gu1AIOr5BACxfdPMsyK8i8I0nveUkBPv4Q_P8W4Stsseo\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2019-10-29T20:52:20.843Z",
+          "updateTime": "2019-10-29T20:52:20.740Z",
+          "comment": "great details.  There are just a couple little things that need to be watched for.",
+          "commentHtml": "\u003cdiv\u003egreat details.  There are just a couple little things that need to be watched for.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-10-04T16:35:48.387Z",
+    "updateTime": "2020-04-24T00:42:38.539Z",
+    "publicationTime": "2019-10-04T16:36:27.545Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Week 5 Paragraph of the Week - My Favorite Holiday",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 5 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read about your favorite subject\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 5 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read about your favorite subject\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-10-05T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 29.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YR3hZ6HSOIlKAPDEX-LbNFhlPNgmgPXyoxw9-1p5R6A",
+              "title": "Loz McKenzie - Week 5 Paragraph of the Week - My Favorite Holiday",
+              "alternateLink": "https://docs.google.com/document/d/1YR3hZ6HSOIlKAPDEX-LbNFhlPNgmgPXyoxw9-1p5R6A/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPbA2TEZGc4_bkacsufCx5LJMn7nSGA9RKQf5bgNuQzN3nl7OAFKWhAa1O5oINp6jXJl0qaKef17n5JqOQrwgJ1FEIManRtiEkMnP0vfUdt5tX5znR3qNIJA4i9YJj9NL9jOdU\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2019-10-24T18:17:39.893Z",
+          "updateTime": "2019-10-24T18:17:39.814Z",
+          "comment": "Loz,\nYou are still not indenting your work.  Also you have sentences that don\u0027t make sense or don\u0027t do a job of explaining something.  Please read my comments to help make changes",
+          "commentHtml": "\u003cdiv\u003eLoz,\u003cbr\u003eYou are still not indenting your work.  Also you have sentences that don\u0026#39;t make sense or don\u0026#39;t do a job of explaining something.  Please read my comments to help make changes\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-09-27T15:39:24.633Z",
+    "updateTime": "2020-04-24T00:41:07.342Z",
+    "publicationTime": "2019-09-27T15:40:10.949Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the week #4 - My best birthday present",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 4 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read about your favorite subject\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 4 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read about your favorite subject\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 28.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1rLxDjz_oYF03nkueCT20zjROO3ZyRirDObanSai1cKs",
+              "title": "Loz McKenzie - Paragraph of the week #4 - My best birthday present",
+              "alternateLink": "https://docs.google.com/document/d/1rLxDjz_oYF03nkueCT20zjROO3ZyRirDObanSai1cKs/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBM6-xWJ2zLOypuf65NoEatw4PCHRfaGk5LPR0Z-m0b0FaOoobGnPoQimxHa0L9uqBkx4FBFr_cjkVU_-NOTZAmuPPqT0KuORw-Osej8DcN5QzUdEmTVrUbbMyx9ESwLmgcwTus\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2019-10-24T16:24:57.312Z",
+          "updateTime": "2019-10-24T16:24:57.230Z",
+          "comment": "Loz,\nRereading your writing will help you to hear and catch repetitious details and errors in spacing.  You can also ask me to reread it before you are done to see if we can work through some errors that are consistently being made.  When you peer edit what do you hear when your partner reads your work out loud?  That strategy helps you to hear your writing and catch errors or sentences that don\u0027t sound like writing that we read in books or articles.",
+          "commentHtml": "\u003cdiv\u003eLoz,\u003cbr\u003eRereading your writing will help you to hear and catch repetitious details and errors in spacing.  You can also ask me to reread it before you are done to see if we can work through some errors that are consistently being made.  When you peer edit what do you hear when your partner reads your work out loud?  That strategy helps you to hear your writing and catch errors or sentences that don\u0026#39;t sound like writing that we read in books or articles.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-09-24T21:40:24.524Z",
+    "updateTime": "2020-04-24T00:42:31.893Z",
+    "publicationTime": "2019-09-24T21:46:28.101Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Outdoor Education Writing",
+      "description": "Go to the Add or Create button\nclick Doc\n\nTo begin your doc put your name at the top\npress enter 1 time\nPlace your title both the group you belong to and the name of your event  (Example: Nature Hike Plant Identification)\nPress enter 1 time\nPress Tab 1 time\nBegin your paragraph:\n\nMust contain - \nTopic sentence\n11+ sentences that explain the scene, thoughts/feelings, and the relationship to the SRS Pillars.\nClosing sentence\nC - capitals\nA - All sentences make sense\nP - Punctuation\nS - Spelling\n\nRE-READ to make sure it is perfect before you submit.",
+      "descriptionHtml": "\u003cdiv\u003eGo to the Add or Create button\u003cbr\u003eclick Doc\u003cbr\u003e\u003cbr\u003eTo begin your doc put your name at the top\u003cbr\u003epress enter 1 time\u003cbr\u003ePlace your title both the group you belong to and the name of your event  (Example: Nature Hike Plant Identification)\u003cbr\u003ePress enter 1 time\u003cbr\u003ePress Tab 1 time\u003cbr\u003eBegin your paragraph:\u003cbr\u003e\u003cbr\u003eMust contain - \u003cbr\u003eTopic sentence\u003cbr\u003e11+ sentences that explain the scene, thoughts/feelings, and the relationship to the SRS Pillars.\u003cbr\u003eClosing sentence\u003cbr\u003eC - capitals\u003cbr\u003eA - All sentences make sense\u003cbr\u003eP - Punctuation\u003cbr\u003eS - Spelling\u003cbr\u003e\u003cbr\u003eRE-READ to make sure it is perfect before you submit.\u003c/div\u003e",
+      "dueTime": "2019-09-28T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 28.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GFs_2Qa-Uht7gPP37ZB3-1oSUje8kBTYS2i5ykP4Aow",
+              "title": "Loz McKenzie - Outdoor Education Writing",
+              "alternateLink": "https://docs.google.com/document/d/1GFs_2Qa-Uht7gPP37ZB3-1oSUje8kBTYS2i5ykP4Aow/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBN8FQocRN63X6DfhPdJrYggk5mkcNNaPdx8X2BiUMFxaELobfp0rXd4Zr-eT5QeFpAVcs-P-phay2Ugdfy0Z9HCRM4qGk8v7PDhIs2FppRgissJ3_RHTVLKlwEKqkWKeUGPRrc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-09-18T19:21:54.545Z",
+    "updateTime": "2020-04-24T00:42:28.178Z",
+    "publicationTime": "2019-09-18T19:23:35.537Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the week #3 - One thing I am good at",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or + button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 3 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.\n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read about your favorite subject\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or + button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 3 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.\u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark, and 1 time after a comma.\u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read about your favorite subject\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "dueTime": "2019-09-25T06:59:00Z",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 25.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dJLyD6SFtd9SAwMB1IvZpQgZMy38i0OVMTiVXWB_Ia8",
+              "title": "Loz McKenzie - Paragraph of the Week #3 - One thing I am good at",
+              "alternateLink": "https://docs.google.com/document/d/1dJLyD6SFtd9SAwMB1IvZpQgZMy38i0OVMTiVXWB_Ia8/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPMWdMCS8tIXcVkRzGdm3JnkFBxihOmYd1NnH-8fxf_PS8BKbXzsGVkVBzyWpB71-NWekmSbRpxEWnMeOgenMt36KJEbgDPGWqrcJVZzzttOmOv4S_ruXDiKHGXbRKpcqiwN1w\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2019-10-04T17:08:09.130Z",
+          "updateTime": "2019-10-04T17:08:08.916Z",
+          "comment": "You really need to reread before you turn in writing.  Please review all of my correction comments.",
+          "commentHtml": "\u003cdiv\u003eYou really need to reread before you turn in writing.  Please review all of my correction comments.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-08-26T21:05:36.767Z",
+    "updateTime": "2020-04-24T00:40:59.985Z",
+    "scheduledTime": "2019-08-30T15:00:00Z",
+    "publicationTime": "2019-08-30T15:00:38.094Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week #2 - My favorite subject",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\n1) click the Create or +  button\n2) click doc\n3) put your name, number, date, \u0026 WEEK 2 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time. \n6) Start typing your paragraph. Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) Remember to use commas to link ideas, complex sentences, and list things\n8)Remember to press space 2 times after a period, exclamation point, or question mark,  and 1 time after a comma. \n9) when you are done make sure to click turn it in!\n\nDon\u0027t forget to read last week\u0027s notes and check last week\u0027s score so you don\u0027t make the same mistakes again.\n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read about your favorite subject\nMrs.K\n0",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week. Here are the directions:\u003cbr\u003e1) click the Create or +  button\u003cbr\u003e2) click doc\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 2 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time. \u003cbr\u003e6) Start typing your paragraph. Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) Remember to use commas to link ideas, complex sentences, and list things\u003cbr\u003e8)Remember to press space 2 times after a period, exclamation point, or question mark,  and 1 time after a comma. \u003cbr\u003e9) when you are done make sure to click turn it in!\u003cbr\u003e\u003cbr\u003eDon\u0026#39;t forget to read last week\u0026#39;s notes and check last week\u0026#39;s score so you don\u0026#39;t make the same mistakes again.\u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read about your favorite subject\u003cbr\u003eMrs.K\u003cbr\u003e0\u003c/div\u003e",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 28.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1hOES3ARBw09BWzUqzaOuFoKWw1LP9ZvhuwYZmJ40h1I",
+              "title": "Loz McKenzie - Paragraph of the Week #2 - My favorite subject",
+              "alternateLink": "https://docs.google.com/document/d/1hOES3ARBw09BWzUqzaOuFoKWw1LP9ZvhuwYZmJ40h1I/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNi_vNWuoowrIWeo72apBpEWwHgr5fCaLAI8cdhpAFix8hdxZ4WR02klpGt6aOmhxo4MO2ROz_Ts_PYEBzjK9_LE6xbC8lYTDEtBAxAetswJwuemyd7L5eL_d3uvh7YPOW5lzs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Melissa Kirkwood"
+      }
+    },
+    "creationTime": "2019-08-22T23:05:24.218Z",
+    "updateTime": "2020-04-24T00:40:56.201Z",
+    "publicationTime": "2019-08-22T23:16:43.161Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Writing - Weekly"
+    }],
+    "courseWork": {
+      "title": "Paragraph of the Week #1",
+      "description": "Hello happy 4th graders.\nWe have made it to typing portion of our Paragraph of the Week.  Here are the directions:\n1)  click the Create button\n2) click document\n3) put your name, number, date, \u0026 WEEK 1 at the top of your page\n4) press enter so your paragraph starts below the name line\n5) press the Tab button on your Keyboard 1 time.  \n6) Start typing your paragraph.  Don\u0027t forget to use Shift \u0026 the Letter to make capitals and use your punctuation.\n7) when you are done make sure it is submitted to me.  \n\nI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\n\nI can\u0027t wait to read your first paragraphs!\nMrs.K",
+      "descriptionHtml": "\u003cdiv\u003eHello happy 4th graders.\u003cbr\u003eWe have made it to typing portion of our Paragraph of the Week.  Here are the directions:\u003cbr\u003e1)  click the Create button\u003cbr\u003e2) click document\u003cbr\u003e3) put your name, number, date, \u0026amp; WEEK 1 at the top of your page\u003cbr\u003e4) press enter so your paragraph starts below the name line\u003cbr\u003e5) press the Tab button on your Keyboard 1 time.  \u003cbr\u003e6) Start typing your paragraph.  Don\u0026#39;t forget to use Shift \u0026amp; the Letter to make capitals and use your punctuation.\u003cbr\u003e7) when you are done make sure it is submitted to me.  \u003cbr\u003e\u003cbr\u003eI will work with the class to make sure that everyone gets this submitted and that I see it on my end.\u003cbr\u003e\u003cbr\u003eI can\u0026#39;t wait to read your first paragraphs!\u003cbr\u003eMrs.K\u003c/div\u003e",
+      "maxPoints": 40.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "assignedGrade": 30.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RECLAIMED_BY_STUDENT",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TtCqGYEiJ-iph_6tChL2xHZNvglYrtd290KJ9diKV_U",
+              "title": "Loz McKenzie - Paragraph of the Week # 1",
+              "alternateLink": "https://docs.google.com/document/d/1TtCqGYEiJ-iph_6tChL2xHZNvglYrtd290KJ9diKV_U/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPAUHRiFgee6izyjutEaB8xT2dWITVurzY72O_LehIDzp4WwSnIguUUJeqQl0_u7wMZqRmz17gB3s8HWrn8nK0VZWJfhheOi7SrwwQk03o-9PTfqSXBHZ5zolyVIhIqb7xB1Yg\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Melissa Kirkwood"
+            }
+          },
+          "creationTime": "2019-08-26T19:41:16.573Z",
+          "updateTime": "2019-08-26T19:41:16.309Z",
+          "comment": "You have lots of details.  It sounds like you had fun riding horses.  There were several errors in grammar and structure.",
+          "commentHtml": "\u003cdiv\u003eYou have lots of details.  It sounds like you had fun riding horses.  There were several errors in grammar and structure.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}

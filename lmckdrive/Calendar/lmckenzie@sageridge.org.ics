@@ -1,0 +1,4038 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:lmckenzie@sageridge.org
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20200415T170000Z
+DTEND:20200415T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:ora2np5hk4ikbkbjdhsm6pm7b0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200413T033848Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/96218817162\n\nMeeting ID: 962 1881 
+ 7162\nPassword: 001833\n
+LAST-MODIFIED:20230305T193247Z
+LOCATION:https://zoom.us/j/96218817162
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 15th Chapter 8.3 Math Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200601T090000
+DTEND;TZID=America/Los_Angeles:20200601T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200609;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:1nv01sut871rp5h0jg0fkdb78v@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200417T190847Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763" id="ow1063" __is_owner="t
+ rue">https://us02web.zoom.us/w/83772279551?tk=tbqRuoxij__i0mWvMPR3-xkuQznKR
+ KsHmji5WBdnnOc.DQIAAAATgTeK_xY3TmFleWI4TVNFQ3BDel9nd3B2dlR3AAAAAAAAAAAAAAAA
+ AAAAAAAAAAAA&amp\;pwd=bzNXREZDSE1oWHMyU05HTWJ0V05qQT09</a>
+LAST-MODIFIED:20230305T193251Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200601T090000
+DTEND;TZID=America/Los_Angeles:20200601T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:1nv01sut871rp5h0jg0fkdb78v@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200601T090000
+CREATED:20200417T190847Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763" id="ow569" __is_owner="tr
+ ue">https://www.google.com/url?q=https://us02web.zoom.us/j/83772279551?pwd%
+ 3DbzNXREZDSE1oWHMyU05HTWJ0V05qQT09&amp\;sa=D&amp\;ust=1592063806370000&amp\
+ ;usg=AOvVaw3iv6-h2oiSRjxGrIFVZLoN</a>
+LAST-MODIFIED:20230305T193251Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200423T210000Z
+DTEND:20200423T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:qk467uvanpcfp16j57qr5ihrgs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200420T042056Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/92453659104\n\nMeeting ID: 924 5365 
+ 9104\nPassword: 002446\n
+LAST-MODIFIED:20230305T193253Z
+LOCATION:https://zoom.us/j/92453659104
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Newspaper Article Writing Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200427T163000Z
+DTEND:20200427T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:sp906bu1c6vme5i8et9njaugtk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200427T011208Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/85431858286\n\nMeeting ID: 8
+ 54 3185 8286\nPassword: 027393\n
+LAST-MODIFIED:20230305T193255Z
+LOCATION:https://us02web.zoom.us/j/85431858286
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Writing/Grammar April 27th - Read Aloud & Newspaper article writing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200605T170000Z
+DTEND:20200605T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:7grmjumad3tjod4jnh3ua6tdfp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200601T050602Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193257Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Friday 6/5 9:30  Reading Zoom A Long Walk to Water. 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VFREEBUSY
+DTSTART;TZID=America/Los_Angeles:20200403T090000
+DTEND;TZID=America/Los_Angeles:20200403T093000
+RRULE:FREQ=WEEKLY;UNTIL=20200529T065959Z;BYDAY=FR
+EXDATE;TZID=America/Los_Angeles:20200515T090000
+DTSTAMP:20240604T040333Z
+UID:16hgb7k5vbvmlidcrlfiia41n5@google.com
+SUMMARY:Busy
+END:VFREEBUSY
+BEGIN:VFREEBUSY
+DTSTART:20000101T000000Z
+DTEND:20000102T000000Z
+DTSTAMP:20240604T040333Z
+UID:16hgb7k5vbvmlidcrlfiia41n5@google.com
+RECURRENCE-ID:20200515T160000Z
+SUMMARY:Busy
+END:VFREEBUSY
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200529T090000
+DTEND;TZID=America/Los_Angeles:20200529T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:16hgb7k5vbvmlidcrlfiia41n5_R20200529T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200529T090000
+CREATED:20200403T175849Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:<br>&nbs
+ p\;&nbsp\;&nbsp\;&nbsp\;Please click this URL to join.&nbsp\;<a href="https
+ ://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09">http
+ s://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09</a><
+ br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;Password: 6Dh2kZ
+LAST-MODIFIED:20230305T193303Z
+LOCATION:https://zoom.us/j/642259338\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School Community Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200605T090000
+DTEND;TZID=America/Los_Angeles:20200605T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:16hgb7k5vbvmlidcrlfiia41n5_R20200605T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200605T090000
+CREATED:20200403T175849Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:<br>&nbs
+ p\;&nbsp\;&nbsp\;&nbsp\;Please click this URL to join.&nbsp\;<a href="https
+ ://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09">http
+ s://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09</a><
+ br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;Password: 6Dh2kZ
+LAST-MODIFIED:20230305T193303Z
+LOCATION:https://zoom.us/j/642259338\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School Community Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200529T090000
+DTEND;TZID=America/Los_Angeles:20200529T093000
+RRULE:FREQ=WEEKLY;UNTIL=20200605T065959Z;BYDAY=FR
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:16hgb7k5vbvmlidcrlfiia41n5_R20200529T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200403T175849Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:<br>&nbs
+ p\;&nbsp\;&nbsp\;&nbsp\;Please click this URL to join.&nbsp\;<a href="https
+ ://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09">http
+ s://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09</a><
+ br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;Password: 6Dh2kZ
+LAST-MODIFIED:20230305T193303Z
+LOCATION:https://zoom.us/j/642259338\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School Community Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200605T090000
+DTEND;TZID=America/Los_Angeles:20200605T093000
+RRULE:FREQ=WEEKLY;UNTIL=20200612T065959Z;BYDAY=FR
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:16hgb7k5vbvmlidcrlfiia41n5_R20200605T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200403T175849Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:<br>&nbs
+ p\;&nbsp\;&nbsp\;&nbsp\;Please click this URL to join.&nbsp\;<a href="https
+ ://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09">http
+ s://us02web.zoom.us/j/82469415962?pwd=aS9pMnVtNS9NcTMxWm04d1VEdzBBUT09</a><
+ br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;Password: 6Dh2kZ
+LAST-MODIFIED:20230305T193303Z
+LOCATION:https://zoom.us/j/642259338\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School Community Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200602T183000Z
+DTEND:20200602T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:4frofqgndlfkc7ue3kplhavvp9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200601T040817Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: Writing Zoom Meetings\nTime: This is a recurring meeting Meet anyt
+ ime\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting I
+ D: 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193307Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tuesday June 2nd Writing zoom 11:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200420T210000Z
+DTEND:20200420T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:f3orokpbiqsisj9g0og6rd40l8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200419T233654Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/99719934471\n\nMeeting ID: 997 1993 
+ 4471\nPassword: 002072\n
+LAST-MODIFIED:20230305T193309Z
+LOCATION:https://zoom.us/j/99719934471
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monday 4/20 - How Nevada Got its Shape Zoom History G
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200521T183000Z
+DTEND:20200521T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:7lbe7nt83h7c2jj8jt2tc5is98@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200521T160450Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193311Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5/21 Math zoom meeting 11:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200406T210000Z
+DTEND:20200406T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:5ddn5r2fc12r2bglvvtfbfkfbo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200404T003336Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.<b
+ r><br>Join Zoom Meeting<br><a href="https://zoom.us/j/498830582">https://zo
+ om.us/j/498830582</a><br><br>Meeting ID: 498 830 582<br><br>Password: 02450
+ 4
+LAST-MODIFIED:20230305T193314Z
+LOCATION:https://zoom.us/j/498830582
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:History - G: Making a Place in Nevada Chapter 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200410T183000Z
+DTEND:20200410T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:t0h8qefacgq8i5bjnpbngfvsis@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200410T041157Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://zoom.us/j/777727168?pwd=UjlpamVzejF4bkNIdjBpM
+ C81cFdZQT09\n\nMeeting ID: 777 727 168\nPassword: 7TyntQ\n
+LAST-MODIFIED:20230305T193316Z
+LOCATION:https://zoom.us/j/777727168?pwd=UjlpamVzejF4bkNIdjBpMC81cFdZQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200407T183000Z
+DTEND:20200407T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:2ljh59u4kothlc95qfdn8semfj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200403T203403Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /174921535">https://zoom.us/j/174921535</a><br><br>Meeting ID: 174 921 535<
+ br>Password: 019179<br><br><br>──────────
+LAST-MODIFIED:20230305T193318Z
+LOCATION:https://zoom.us/j/174921535
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 7 Writing Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200519T183000Z
+DTEND:20200519T190000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:dd7uem1kkm5qjrnhe47171tkm0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+CREATED:20200518T012044Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193320Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5/19 Writing Zoom Meetings
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200331T163000Z
+DTEND:20200331T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:g7bt4lk7616c6tm0ru0dp36n8g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ ela Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=AJ Min
+ go;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Gysel 
+ Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Day;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Carrie
+  Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ju
+ stin Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Willia
+ m Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Rhys F
+ errito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Sherven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Brynn 
+ Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200330T201441Z
+DESCRIPTION:Hi 4th grade\, here is our first zoom meeting calendar link.  A
+ ll the zoom links are also in our google classrooms in the corresponding su
+ bject that meets at that time.  We will practice adding things to the calen
+ dar too\, so you have multiple places to join the class meetings.\nSee you 
+ all tomorrow!  I'm So excited to see you\,\nMrs. Kirkwood\n\nJoin Zoom Meet
+ ing\nhttps://zoom.us/j/818134310\n\nMeeting ID: 818 134 310
+LAST-MODIFIED:20230305T193322Z
+LOCATION:https://zoom.us/j/818134310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Class Meeting - Grade 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200603T170000Z
+DTEND:20200603T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:5a8qit9r9h7rj1qdv5mqoc36sk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jtrain
+ or@sageridge.org;X-NUM-GUESTS=0:mailto:jtrainor@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200601T050052Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: D-Flex Zoom Grade 5 Presentation w/Mrs. Trainor 10:00am\nTime: Jun
+  3\, 2020 10:00 AM Pacific Time (US and Canada)\n\nJoin Zoom Meeting\nhttps
+ ://us02web.zoom.us/j/4819708752\n\nMeeting ID: 481 970 8752\nPassword: 1249
+ 28
+LAST-MODIFIED:20230305T193324Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:D-Flex Zoom Grade 5 Presentation w/Mrs. Trainor 10:00am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200827T223000Z
+DTEND:20200827T233000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:093l9n4srnftfovgpji0or1d68@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200827T191244Z
+DESCRIPTION:Elizabeth Kenney is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/95483040934?pwd=Zy9ZN3FhaDU1a1lRVno2
+ WURtbitJZz09\n\nMeeting ID: 954 8304 0934\nPasscode: 567802\nOne tap mobile
+ \n+14086380968\,\,95483040934#\,\,\,\,\,\,0#\,\,567802# US (San Jose)\n+166
+ 99006833\,\,95483040934#\,\,\,\,\,\,0#\,\,567802# US (San Jose)\n\nDial by 
+ your location\n        +1 408 638 0968 US (San Jose)\n        +1 669 900 68
+ 33 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248 7
+ 799 US (Houston)\n        +1 646 876 9923 US (New York)\n        +1 301 715
+  8592 US (Germantown)\n        +1 312 626 6799 US (Chicago)\nMeeting ID: 95
+ 4 8304 0934\nPasscode: 567802\nFind your local number: https://zoom.us/u/aD
+ udCF5TW\n\n
+LAST-MODIFIED:20230305T193326Z
+LOCATION:https://zoom.us/j/95483040934?pwd=Zy9ZN3FhaDU1a1lRVno2WURtbitJZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Loz and Mrs. Kenney meeting 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200513T160000Z
+DTEND:20200513T170000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:epi62aqbplaqbqe6p6tpkqnrtk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200512T001934Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193328Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Where's The Beef History Wednesday 5/13
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200421T183000Z
+DTEND:20200421T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:htvd8pdbj3dok42t8o9nvhm3kk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+CREATED:20200420T034601Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/97318390860\n\nMeeting ID: 973 1839 
+ 0860\nPassword: 018847\n
+LAST-MODIFIED:20230305T193331Z
+LOCATION:https://zoom.us/j/97318390860
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tuesday 4/21 Grammar/Writing Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200429T210000Z
+DTEND:20200429T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:5r7i9502bg9aljs1nv8dovkngs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200427T012115Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86963892321\n\nMeeting ID: 8
+ 69 6389 2321\nPassword: 018484\n
+LAST-MODIFIED:20230305T193333Z
+LOCATION:https://us02web.zoom.us/j/86963892321
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 29th\, Reading Zoom Chapters 14 - 16 Pompeii
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200529T183000Z
+DTEND:20200529T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:0mjtpl1gvuv6af40qe2lc5an0r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200527T005358Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: History Zoom Meetings\nTime: This is a recurring meeting Meet anyt
+ ime\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting I
+ D: 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193335Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:History Chapter 7 assessment zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200517T183000Z
+DTEND:20200517T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:3qb2aq6c9p4boqtsubfncpl3vs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200518T042651Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193337Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math zoom meeting.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200414T173000Z
+DTEND:20200414T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:l1bk6rd0rqjkaetambkvgp0tbs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200413T214403Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://zoom.us/j/93349493678?pwd=ell3ZHhzZnA5MG5mQ2l
+ nYldjMXYwZz09\n\nMeeting ID: 933 4949 3678\nPassword: 1acq2w\n
+LAST-MODIFIED:20230305T193339Z
+LOCATION:https://zoom.us/j/93349493678?pwd=ell3ZHhzZnA5MG5mQ2lnYldjMXYwZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting with Loz and Ms. Tammaro 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200429T170000Z
+DTEND:20200429T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:2javd0cuu0apemj1bji81nqvok@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200427T031421Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193341Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 29th Math Zoom 9.1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200515T210000Z
+DTEND:20200515T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:vu3bn5pk59jl8nss7f69k50urs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200511T200152Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193343Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math Chapter 9 Assessment Friday 5/15
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201204T020000Z
+DTEND:20201204T030000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=barnold@sageridge.org:mailto:barnold@sageridge.org
+UID:th0e8q5ocq0k1v4cjq5eanpuo0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=barnol
+ d@sageridge.org;X-NUM-GUESTS=0:mailto:barnold@sageridge.org
+CREATED:20201203T170118Z
+DESCRIPTION:Brian Arnold is inviting you to a scheduled Zoom meeting.\n\nJo
+ in Zoom Meeting\nhttps://zoom.us/j/96498300967?pwd=bWFRQmNxZVV5L295MXQ5TUJF
+ a0RhQT09\n\nMeeting ID: 964 9830 0967\nPasscode: 017606\nOne tap mobile\n+1
+ 3462487799\,\,96498300967#\,\,\,\,\,\,0#\,\,017606# US (Houston)\n+14086380
+ 968\,\,96498300967#\,\,\,\,\,\,0#\,\,017606# US (San Jose)\n\nDial by your 
+ location\n        +1 346 248 7799 US (Houston)\n        +1 408 638 0968 US 
+ (San Jose)\n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 
+ US (Tacoma)\n        +1 646 876 9923 US (New York)\n        +1 301 715 8592
+  US (Washington D.C)\n        +1 312 626 6799 US (Chicago)\nMeeting ID: 964
+  9830 0967\nPasscode: 017606\nFind your local number: https://zoom.us/u/aev
+ o28J9hB\n\n
+LAST-MODIFIED:20230305T193346Z
+LOCATION:https://zoom.us/j/96498300967?pwd=bWFRQmNxZVV5L295MXQ5TUJFa0RhQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Loz meeting w/ Mr. Arnold
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200406T090000
+DTEND;TZID=America/Los_Angeles:20200406T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200413T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200406T090000
+DTEND;TZID=America/Los_Angeles:20200406T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200406T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200413T090000
+DTEND;TZID=America/Los_Angeles:20200413T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200413T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200413T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200420T090000
+DTEND;TZID=America/Los_Angeles:20200420T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200420T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200420T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200427T090000
+DTEND;TZID=America/Los_Angeles:20200427T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200427T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200427T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200504T090000
+DTEND;TZID=America/Los_Angeles:20200504T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200504T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200504T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200511T090000
+DTEND;TZID=America/Los_Angeles:20200511T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200504T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200511T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200518T090000
+DTEND;TZID=America/Los_Angeles:20200518T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200518T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mk
+ iely@sageridge.org;X-NUM-GUESTS=0:mailto:mkiely@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200518T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200525T090000
+DTEND;TZID=America/Los_Angeles:20200525T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200518T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200525T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200601T090000
+DTEND;TZID=America/Los_Angeles:20200601T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200601T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200601T090000
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200413T090000
+DTEND;TZID=America/Los_Angeles:20200413T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200420T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200413T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200420T090000
+DTEND;TZID=America/Los_Angeles:20200420T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200427T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200420T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200427T090000
+DTEND;TZID=America/Los_Angeles:20200427T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200504T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200427T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200504T090000
+DTEND;TZID=America/Los_Angeles:20200504T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200518T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200504T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200518T090000
+DTEND;TZID=America/Los_Angeles:20200518T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200601T065959Z;BYDAY=MO
+EXDATE;TZID=America/Los_Angeles:20200525T090000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200518T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200601T090000
+DTEND;TZID=America/Los_Angeles:20200601T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200602T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:4m56i7h6dp6ah7hm2absir1p63_R20200601T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade7;X-NUM-GUESTS=0:mailto:grade7@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade8;X-NUM-GUESTS=0:mailto:grade8@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200402T235342Z
+DESCRIPTION:<a href="https://zoom.us/j/821842763">https://zoom.us/j/8218427
+ 63</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193358Z
+LOCATION:ZOOM link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200417T210000Z
+DTEND:20200417T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:m26esjncl0jn2qku2khurmbqa0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200413T043254Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/99049540359\n\nMeeting ID: 990 4954 
+ 0359\nPassword: 006457\n
+LAST-MODIFIED:20230305T193403Z
+LOCATION:https://zoom.us/j/99049540359
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Friday April 17 Zoom - Chapter 8 Review - Kahoot
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200408T170000Z
+DTEND:20200408T171500Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:1ultch5ckf0ihacou3io49vlvg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jenmin
+ go5@gmail.com;X-NUM-GUESTS=0:mailto:jenmingo5@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ct
+ mingo@hotmail.com;X-NUM-GUESTS=0:mailto:ctmingo@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jstraw
+ der-bubala@sageridge.org;X-NUM-GUESTS=0:mailto:jstrawder-bubala@sageridge.o
+ rg
+CREATED:20200404T035511Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.<b
+ r><br>Join Zoom Meeting<br><a href="https://zoom.us/j/690486541">https://zo
+ om.us/j/690486541</a><br><br>Meeting ID: 690 486 541<br><br>Password: 01309
+ 9
+LAST-MODIFIED:20230305T193405Z
+LOCATION:https://zoom.us/j/690486541
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AJ - Chautauqua Performance (D-Flex Period) Wednesday 4/8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200407T163000Z
+DTEND:20200407T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:vj0fjfjek0v2klju9l16u37iqg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200404T004149Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.<b
+ r><br>Join Zoom Meeting<br><a href="https://zoom.us/j/829896621">https://zo
+ om.us/j/829896621</a><br><br>Meeting ID: 829 896 621<br><br>Password: 02085
+ 3
+LAST-MODIFIED:20230305T193407Z
+LOCATION:https://zoom.us/j/829896621
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math - H: Decimals  8.2 Subtracting into the hundredths
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200427T140000
+DTEND;TZID=America/Los_Angeles:20200427T150000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:33sduh9b6unt05u4s5gj3gm0ec@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200427T140000
+CREATED:20200427T014711Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/83319305619?pwd=QjYzVU5FYjB
+ 2ekFjVjdMVFFHV3prQT09\n\nMeeting ID: 833 1930 5619\nPassword: 9uv3BE\n
+LAST-MODIFIED:20230305T193410Z
+LOCATION:https://us02web.zoom.us/j/83319305619?pwd=QjYzVU5FYjB2ekFjVjdMVFFH
+ V3prQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200511T140000
+DTEND;TZID=America/Los_Angeles:20200511T150000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:33sduh9b6unt05u4s5gj3gm0ec@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200511T140000
+CREATED:20200427T014711Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/83319305619?pwd=QjYzVU5FYjB
+ 2ekFjVjdMVFFHV3prQT09\n\nMeeting ID: 833 1930 5619\nPassword: 9uv3BE\n
+LAST-MODIFIED:20230305T193410Z
+LOCATION:https://us02web.zoom.us/j/83319305619?pwd=QjYzVU5FYjB2ekFjVjdMVFFH
+ V3prQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200422T170000Z
+DTEND:20200422T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:04pkdder3kb5vgtahl13q86ck4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200420T033631Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/96521534013\n\nMeeting ID: 965 2153 
+ 4013\nPassword: 006867\n
+LAST-MODIFIED:20230305T193412Z
+LOCATION:https://zoom.us/j/96521534013
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wednesday 4/22 Reading Chapters 11 - 13 Pompeii Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200501T210000Z
+DTEND:20200501T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:o1vnl94k5cqn5cbmb30giufp2s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200427T031545Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193414Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:May 1 Math Zoom 9.1 day 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200504T210000Z
+DTEND:20200504T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:4enul6rscji9pmpqko7um6e6g8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200503T214843Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193416Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:History Monday May 4th 2:00pm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200430T093000
+DTEND;TZID=America/Los_Angeles:20200430T103000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:vo0s0qigesn71pd5tpeeea5ddc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200430T093000
+CREATED:20200427T014924Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86462605717?pwd=dFJjL3RPZ0p
+ VT01VRFdHVHZtaVUyZz09\n\nMeeting ID: 864 6260 5717\nPassword: 6W3wBn\n
+LAST-MODIFIED:20230305T193420Z
+LOCATION:https://us02web.zoom.us/j/86462605717?pwd=dFJjL3RPZ0pVT01VRFdHVHZt
+ aVUyZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200514T093000
+DTEND;TZID=America/Los_Angeles:20200514T103000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:vo0s0qigesn71pd5tpeeea5ddc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200514T093000
+CREATED:20200427T014924Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86462605717?pwd=dFJjL3RPZ0p
+ VT01VRFdHVHZtaVUyZz09\n\nMeeting ID: 864 6260 5717\nPassword: 6W3wBn\n
+LAST-MODIFIED:20230305T193420Z
+LOCATION:https://us02web.zoom.us/j/86462605717?pwd=dFJjL3RPZ0pVT01VRFdHVHZt
+ aVUyZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200528T093000
+DTEND;TZID=America/Los_Angeles:20200528T103000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:vo0s0qigesn71pd5tpeeea5ddc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200528T093000
+CREATED:20200427T014924Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86462605717?pwd=dFJjL3RPZ0p
+ VT01VRFdHVHZtaVUyZz09\n\nMeeting ID: 864 6260 5717\nPassword: 6W3wBn\n
+LAST-MODIFIED:20230305T193420Z
+LOCATION:https://us02web.zoom.us/j/86462605717?pwd=dFJjL3RPZ0pVT01VRFdHVHZt
+ aVUyZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200410T163000Z
+DTEND:20200410T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:ek5q62hqjd0c6b4smcsahjjcos@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200404T033547Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/172389992\n\nMeeting ID: 172 389 992
+ \nPassword: 008583\n
+LAST-MODIFIED:20230305T193422Z
+LOCATION:https://zoom.us/j/172389992
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:B - Reading 9:30 Friday - I Survived the Destruction of Pompeii Zoo
+ m Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200402T160000Z
+DTEND:20200402T163000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:t0rae6osqgq9atqmardgvi03fk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Maela 
+ Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=AJ
+  Mingo;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gy
+ sel Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ryan D
+ ay;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Carrie
+  Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ju
+ stin Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Wi
+ lliam Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Rh
+ ys Ferrito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ryan S
+ herven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Brynn 
+ Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200330T203946Z
+DESCRIPTION:Happy Thursday!  We will do our SEL lesson today with Zoom!\nSe
+ e you there\,\nMrs. K\n\nJoin Zoom Meeting\nhttps://zoom.us/j/569772470\n\n
+ Meeting ID: 569 772 470
+LAST-MODIFIED:20230305T193424Z
+LOCATION:https://zoom.us/j/569772470
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory - J: Social Emotional Health at Home Day 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200401T160000Z
+DTEND:20200401T170000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:kcfc65r75pmo88ekdi6vcqmo64@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ ela Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=AJ
+  Mingo;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gy
+ sel Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ryan D
+ ay;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Carrie
+  Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ju
+ stin Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Willia
+ m Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Rhys F
+ errito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Sherven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Br
+ ynn Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200401T003954Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/148759617\n\nMeeting ID: 148 759 617
+ \n
+LAST-MODIFIED:20230305T193426Z
+LOCATION:https://zoom.us/j/148759617
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wednesday April 1 Zoom Morning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200430T183000Z
+DTEND:20200430T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:fb4f7m3kek5eknhop4nrns6eu8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200427T020533Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/84899892573\n\nMeeting ID: 8
+ 48 9989 2573\nPassword: 022086\n
+LAST-MODIFIED:20230305T193428Z
+LOCATION:https://us02web.zoom.us/j/84899892573
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zoom Meeting April 30th - D Flex Period Directed Drawing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200513T210000Z
+DTEND:20200513T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:8nsbetve96aglpkb61c743mjjg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200511T044739Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193430Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5/13 Reading  Trash articles & Questions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200413T163000Z
+DTEND:20200413T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:d6j5c39le46ad9fgkp4evmqnio@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200412T214324Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/97913346914\n\nMeeting ID: 979 1334 
+ 6914\nPassword: 023594\n
+LAST-MODIFIED:20230305T193433Z
+LOCATION:https://zoom.us/j/97913346914
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grammar/Writing April 13th Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200501T183000Z
+DTEND:20200501T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:jqmc7smq9kgqdm4dhje5k2uuj0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200427T024905Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193435Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:May 1st History Zoom - Ranch Brands
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200817T100000
+DTEND;TZID=America/Los_Angeles:20200817T111500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200818T065959Z;INTERVAL=2;BYDAY=FR,MO,TH,
+ TU
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=jtrainor@sageridge.org:mailto:jtrainor@sageridge.org
+UID:4cjev3j7o32o2bfkc5klfua55o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jtrain
+ or@sageridge.org;X-NUM-GUESTS=0:mailto:jtrainor@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200813T190803Z
+DESCRIPTION:Josiann Trainor is inviting you to a scheduled Zoom meeting.\n\
+ nJoin Zoom Meeting\nhttps://zoom.us/j/96650551378?pwd=eWxMQ2RvYmJoMUZzVTVZV
+ y9hRWJFUT09\n\nMeeting ID: 966 5055 1378\nPasscode: 899328\nOne tap mobile\
+ n+14086380968\,\,96650551378#\,\,\,\,\,\,0#\,\,899328# US (San Jose)\n+1669
+ 9006833\,\,96650551378#\,\,\,\,\,\,0#\,\,899328# US (San Jose)\n\nDial by y
+ our location\n        +1 408 638 0968 US (San Jose)\n        +1 669 900 683
+ 3 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248 77
+ 99 US (Houston)\n        +1 646 876 9923 US (New York)\n        +1 301 715 
+ 8592 US (Germantown)\n        +1 312 626 6799 US (Chicago)\nMeeting ID: 966
+  5055 1378\nPasscode: 899328\nFind your local number: https://zoom.us/u/aes
+ vyI3Iwe\n\n
+LAST-MODIFIED:20230305T193438Z
+LOCATION:https://zoom.us/j/96650551378?pwd=eWxMQ2RvYmJoMUZzVTVZVy9hRWJFUT09
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:10:15- 11:35
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200817T100000
+DTEND;TZID=America/Los_Angeles:20200817T111500
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=jtrainor@sageridge.org:mailto:jtrainor@sageridge.org
+UID:4cjev3j7o32o2bfkc5klfua55o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jtrain
+ or@sageridge.org;X-NUM-GUESTS=0:mailto:jtrainor@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200817T100000
+CREATED:20200813T190803Z
+DESCRIPTION:Josiann Trainor is inviting you to a scheduled Zoom meeting.\n\
+ nJoin Zoom Meeting\nhttps://zoom.us/j/96650551378?pwd=eWxMQ2RvYmJoMUZzVTVZV
+ y9hRWJFUT09\n\nMeeting ID: 966 5055 1378\nPasscode: 899328\nOne tap mobile\
+ n+14086380968\,\,96650551378#\,\,\,\,\,\,0#\,\,899328# US (San Jose)\n+1669
+ 9006833\,\,96650551378#\,\,\,\,\,\,0#\,\,899328# US (San Jose)\n\nDial by y
+ our location\n        +1 408 638 0968 US (San Jose)\n        +1 669 900 683
+ 3 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248 77
+ 99 US (Houston)\n        +1 646 876 9923 US (New York)\n        +1 301 715 
+ 8592 US (Germantown)\n        +1 312 626 6799 US (Chicago)\nMeeting ID: 966
+  5055 1378\nPasscode: 899328\nFind your local number: https://zoom.us/u/aes
+ vyI3Iwe\n\n
+LAST-MODIFIED:20230305T193438Z
+LOCATION:https://zoom.us/j/96650551378?pwd=eWxMQ2RvYmJoMUZzVTVZVy9hRWJFUT09
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:10:15- 11:35
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200429T160000Z
+DTEND:20200429T170000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:f3hl0o7gfnj946g1k9rkpr2fj8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200427T024558Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86728147120\n\nMeeting ID: 8
+ 67 2814 7120\nPassword: 014959\n
+LAST-MODIFIED:20230305T193440Z
+LOCATION:https://us02web.zoom.us/j/86728147120
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 30 History Zoom Map Activity Chapter 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200407T090000
+DTEND;TZID=America/Los_Angeles:20200407T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200414T065959Z;BYDAY=TH,TU
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200407T090000
+DTEND;TZID=America/Los_Angeles:20200407T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200407T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200409T090000
+DTEND;TZID=America/Los_Angeles:20200409T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200409T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200414T090000
+DTEND;TZID=America/Los_Angeles:20200414T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200414T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200414T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200416T090000
+DTEND;TZID=America/Los_Angeles:20200416T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200416T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200416T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200421T090000
+DTEND;TZID=America/Los_Angeles:20200421T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200416T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200421T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200423T090000
+DTEND;TZID=America/Los_Angeles:20200423T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200416T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200423T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200428T090000
+DTEND;TZID=America/Los_Angeles:20200428T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200416T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200428T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200430T090000
+DTEND;TZID=America/Los_Angeles:20200430T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200416T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200430T090000
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200414T090000
+DTEND;TZID=America/Los_Angeles:20200414T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200416T065959Z;BYDAY=TH,TU
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200414T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200416T090000
+DTEND;TZID=America/Los_Angeles:20200416T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200505T065959Z;BYDAY=TH,TU
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:23se92c5gv5ns4q14d86s829gk_R20200416T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200403T194106Z
+DESCRIPTION:<br>──────────<br><br>Melissa Kirkwood is inviting you to a sch
+ eduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https://zoom.us/j
+ /393287418">https://zoom.us/j/393287418</a><br><br>Meeting ID: 393 287 418<
+ br>Password: 471556<br><br>──────────
+LAST-MODIFIED:20230305T193449Z
+LOCATION:https://zoom.us/j/393287418
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Advisory SEL - Zoom (repeats every Tuesday & Thursday)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200403T183000Z
+DTEND:20200403T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:lglaaur5btedv9q3qngb1ur9mc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ ela Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=AJ
+  Mingo;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Gysel 
+ Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Day;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ca
+ rrie Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Justin
+  Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Willia
+ m Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Rh
+ ys Ferrito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Sherven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Brynn 
+ Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200330T204047Z
+DESCRIPTION:Hi friends!\nHere's our Friday History Lesson "Making a Place i
+ n Nevada"\nSee you in the meeting!\nMrs. K\n\nJoin Zoom Meeting\nhttps://zo
+ om.us/j/498830582\n\nMeeting ID: 498 830 582
+LAST-MODIFIED:20230305T193451Z
+LOCATION:https://zoom.us/j/498830582
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:History - G: Making a Place in Nevada Chapter 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200421T163000Z
+DTEND:20200421T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:i3mr4armnmdaef87psqa03n438@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200420T010117Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/91504332488\n\nMeeting ID: 915 0433 
+ 2488\nPassword: 022761\n
+LAST-MODIFIED:20230305T193455Z
+LOCATION:https://zoom.us/j/91504332488
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tuesday 9:30 - Math Chapter 8 Assessment H
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200508T163000Z
+DTEND:20200508T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:mi01g2decs5s3ul8bt2jcfkb6s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200504T043617Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193457Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading May 8th Pompeii Novel Assessment 9:30AM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200608T163000Z
+DTEND:20200608T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:i39dkaben3a17rkuobnje7j2p8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200608T000818Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193500Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mrs. Kirkwood's Class End of Year Meeting Monday June 8th
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200506T090000
+DTEND;TZID=America/Los_Angeles:20200506T100000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:j1tduuhb971kcjrpjtkng8k6ds@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200506T090000
+CREATED:20200504T010043Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/89128353786?pwd=NEZOWG5MRnV
+ QaVJDOC9TaFIxcHA2QT09\n\nMeeting ID: 891 2835 3786\nPassword: 9cqn8v\n
+LAST-MODIFIED:20230305T193503Z
+LOCATION:https://us02web.zoom.us/j/89128353786?pwd=NEZOWG5MRnVQaVJDOC9TaFIx
+ cHA2QT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200520T090000
+DTEND;TZID=America/Los_Angeles:20200520T100000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:j1tduuhb971kcjrpjtkng8k6ds@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200520T090000
+CREATED:20200504T010043Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/89128353786?pwd=NEZOWG5MRnV
+ QaVJDOC9TaFIxcHA2QT09\n\nMeeting ID: 891 2835 3786\nPassword: 9cqn8v\n
+LAST-MODIFIED:20230305T193503Z
+LOCATION:https://us02web.zoom.us/j/89128353786?pwd=NEZOWG5MRnVQaVJDOC9TaFIx
+ cHA2QT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200603T090000
+DTEND;TZID=America/Los_Angeles:20200603T100000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:j1tduuhb971kcjrpjtkng8k6ds@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200603T090000
+CREATED:20200504T010043Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/89128353786?pwd=NEZOWG5MRnV
+ QaVJDOC9TaFIxcHA2QT09\n\nMeeting ID: 891 2835 3786\nPassword: 9cqn8v\n
+LAST-MODIFIED:20230305T193503Z
+LOCATION:https://us02web.zoom.us/j/89128353786?pwd=NEZOWG5MRnVQaVJDOC9TaFIx
+ cHA2QT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200410T210000Z
+DTEND:20200410T211500Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:4h3np69k5uu1fm2nsitv62gekg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jstraw
+ der-bubala@sageridge.org;X-NUM-GUESTS=0:mailto:jstrawder-bubala@sageridge.o
+ rg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=travaz
+ zini@hotmail.com;X-NUM-GUESTS=0:mailto:travazzini@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=robin_
+ ravazzini@yahoo.com;X-NUM-GUESTS=0:mailto:robin_ravazzini@yahoo.com
+CREATED:20200404T035757Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.<b
+ r><br>Join Zoom Meeting<br><a href="https://zoom.us/j/779279500">https://zo
+ om.us/j/779279500</a><br><br>Meeting ID: 779 279 500<br><br>Password: 00157
+ 6
+LAST-MODIFIED:20230305T193505Z
+LOCATION:https://zoom.us/j/779279500
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Brynn - Chautauqua Performance (D-Flex Period) Friday 4/10
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200403T160000Z
+DTEND:20200403T163000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:792f7atkln1vrhv7fvc7nn4q9p@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200402T235013Z
+DESCRIPTION:&nbsp\; &nbsp\;<a href="https://zoom.us/j/642259338">https://zo
+ om.us/j/642259338</a>&nbsp\;&nbsp\;
+LAST-MODIFIED:20230305T193507Z
+LOCATION:ZOOM - see link below
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Scorpion School Community Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200527T210000Z
+DTEND:20200527T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:6v6983134ki125uapo9vkbkcbg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200527T024804Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: Reading zoom\nTime: This is a recurring meeting Meet anytime\n\nJo
+ in Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 481 97
+ 0 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193510Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading A Long Walk to Water Chapters 4 - 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200413T210000Z
+DTEND:20200413T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:7fdlq43psunaf0ag2pnki080fk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200412T234850Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://zoom.us/j/95144925740?pwd=QlZQT201emtRbzB0eis
+ wVUxpcEtNQT09\n\nMeeting ID: 951 4492 5740\nPassword: 0VxVDi\n
+LAST-MODIFIED:20230305T193512Z
+LOCATION:https://zoom.us/j/95144925740?pwd=QlZQT201emtRbzB0eiswVUxpcEtNQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200416T163000Z
+DTEND:20200416T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:flvdunldglaa0423oshcl981e4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200412T235006Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://zoom.us/j/93340159488?pwd=cVdPWGY0aFZuQ29yaVZ
+ iVGNWaVNKQT09\n\nMeeting ID: 933 4015 9488\nPassword: 5ivxFq\n
+LAST-MODIFIED:20230305T193517Z
+LOCATION:https://zoom.us/j/93340159488?pwd=cVdPWGY0aFZuQ29yaVZiVGNWaVNKQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200401T210000Z
+DTEND:20200401T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:g2pfiu2g06962kon6g9ps2dkrs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ ela Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=AJ
+  Mingo;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gy
+ sel Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Day;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ca
+ rrie Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ju
+ stin Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Willia
+ m Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Rhys F
+ errito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Sherven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Brynn 
+ Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200330T203812Z
+DESCRIPTION:Hi Kids\,\nHere's our first Zoom Reading Class!  See you soon\n
+ Mrs. K\n\nJoin Zoom Meeting\nhttps://zoom.us/j/453090239\n\nMeeting ID: 453
+  090 239
+LAST-MODIFIED:20230305T193520Z
+LOCATION:https://zoom.us/j/453090239
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading - B: I Survived the Destruction of Pompeii Introduction
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200513T170000Z
+DTEND:20200513T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:77a78ned7ptgq5l1i0hivhg630@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200513T001149Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193522Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math Chapter 9 Review 10am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200422T160000Z
+DTEND:20200422T170000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:m9e6d3jsv4v3dkda2uek4e3rgg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200419T201031Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://zoom.us/j/95504038461?pwd=aTkwWlpJczFwVEVpUEs
+ vR21oVU9Jdz09\n\nMeeting ID: 955 0403 8461\nPassword: 7KqSnD\n
+LAST-MODIFIED:20230305T193524Z
+LOCATION:https://zoom.us/j/95504038461?pwd=aTkwWlpJczFwVEVpUEsvR21oVU9Jdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200527T160000Z
+DTEND:20200527T170000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:0v0oheta8i4u5ve0olhr21gnva@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200527T005320Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: History Zoom Meetings\nTime: This is a recurring meeting Meet anyt
+ ime\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting I
+ D: 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193527Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:History Chapter 7 review zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200601T210000Z
+DTEND:20200601T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:3uqspu1cgo62s3vkdcta0tcqa9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200601T043225Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: History Zoom Meetings\nTime: This is a recurring meeting Meet anyt
+ ime\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting I
+ D: 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193638Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monday June 1st History zoom link
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200508T113000
+DTEND;TZID=America/Los_Angeles:20200508T123000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:kve6drcfcs8jj47rk42t6k4ns4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200508T113000
+CREATED:20200504T010153Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/87168294436?pwd=MnpSSWxHeit
+ 0Mk45SnRRM0MzZ1BQdz09\n\nMeeting ID: 871 6829 4436\nPassword: 0K8H0J\n
+LAST-MODIFIED:20230305T193641Z
+LOCATION:https://us02web.zoom.us/j/87168294436?pwd=MnpSSWxHeit0Mk45SnRRM0Mz
+ Z1BQdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200522T113000
+DTEND;TZID=America/Los_Angeles:20200522T123000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:kve6drcfcs8jj47rk42t6k4ns4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200522T113000
+CREATED:20200504T010153Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/87168294436?pwd=MnpSSWxHeit
+ 0Mk45SnRRM0MzZ1BQdz09\n\nMeeting ID: 871 6829 4436\nPassword: 0K8H0J\n
+LAST-MODIFIED:20230305T193641Z
+LOCATION:https://us02web.zoom.us/j/87168294436?pwd=MnpSSWxHeit0Mk45SnRRM0Mz
+ Z1BQdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200605T113000
+DTEND;TZID=America/Los_Angeles:20200605T123000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:kve6drcfcs8jj47rk42t6k4ns4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200605T113000
+CREATED:20200504T010153Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/87168294436?pwd=MnpSSWxHeit
+ 0Mk45SnRRM0MzZ1BQdz09\n\nMeeting ID: 871 6829 4436\nPassword: 0K8H0J\n
+LAST-MODIFIED:20230305T193641Z
+LOCATION:https://us02web.zoom.us/j/87168294436?pwd=MnpSSWxHeit0Mk45SnRRM0Mz
+ Z1BQdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th grade science 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200415T183000Z
+DTEND:20200415T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:7eaciaolkpdk5lcg29r50vh5i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200412T225710Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/92390102922\n\nMeeting ID: 923 9010 
+ 2922\nPassword: 023998\n
+LAST-MODIFIED:20230305T193644Z
+LOCATION:https://zoom.us/j/92390102922
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 15th - Zoom Read Aloud W/Maddy During B Period
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200508T210000Z
+DTEND:20200508T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:1bbq8ntv5415mqbc0ndfv3f244@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200504T002045Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193646Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:D Period Flex - May 8th Directed Draw
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200529T210000Z
+DTEND:20200529T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:3g9lrrhfkfs1s458an94si41ja@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200527T014452Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: Math zoom meeting.\nTime: This is a recurring meeting Meet anytime
+ \n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 
+ 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193650Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math Chapter 10 Review Zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200401T183000Z
+DTEND:20200401T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:22o8687re06gdrdv54ocssgb3g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ ela Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=AJ
+  Mingo;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gy
+ sel Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Day;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ca
+ rrie Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ju
+ stin Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Willia
+ m Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Rhys F
+ errito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Sherven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Brynn 
+ Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200330T203713Z
+DESCRIPTION:Good Morning\, \nHere's our first Grammar and Writing Class mee
+ ting!  See you soon\n\nJoin Zoom Meeting\nhttps://zoom.us/j/393620803\n\nMe
+ eting ID: 393 620 803
+LAST-MODIFIED:20230305T193652Z
+LOCATION:https://zoom.us/j/393620803
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grammar & Writing A -  11:30 - 12:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200506T170000Z
+DTEND:20200506T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=SRS INTERNAL CALENDAR  :mailto:sageridge.org_s5f91unubkm2lt4ke
+ 578k9pjfg@group.calendar.google.com
+UID:615nl8di9mie6j3d6i1dfmkbje@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=vbratt
+ @sageridge.org;X-NUM-GUESTS=0:mailto:vbratt@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=afarns
+ worth@sageridge.org;X-NUM-GUESTS=0:mailto:afarnsworth@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=et
+ yrell@sageridge.org;X-NUM-GUESTS=0:mailto:etyrell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jtrain
+ or@sageridge.org;X-NUM-GUESTS=0:mailto:jtrainor@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=edolan
+ @sageridge.org;X-NUM-GUESTS=0:mailto:edolan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=etamma
+ ro@sageridge.org;X-NUM-GUESTS=0:mailto:etammaro@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200429T184729Z
+DESCRIPTION:<ul><li>Welcome &amp\; overview of lesson/features (5 min)</li>
+ <li>Presenters introduce selves &amp\; KTMB (5 min)</li><li>Kick off learni
+ ng with the Waste Warriors video (10 min)</li><li>Question time - what did 
+ you learn from the video? (5 min) [can be done through chat box feature in 
+ Webinar or "raise hand" feature in Meeting\, where students would verbally 
+ respond after being "called on"]</li><li>Landfill questions (5 min) [review
+ s info in video\; can be done as "answer in your head" in Webinar\, or thro
+ ugh a poll in Meeting]</li><li>3 Rs breakdown (5 min)&nbsp\;</li><li>Recycl
+ ing breakdown (5 min)</li><li>Landfill game (5-10 min) [can be done as "ans
+ wer in your head" in Webinar\, or through a poll in Meeting]</li><li>Decomp
+  timeline game (5-10 min) [can be done as "answer in your head" in Webinar\
+ , or through a poll in Meeting]</li><li>Q&amp\;A time (any remaining time) 
+ [can be done through chatbox feature in Webinar or Meeting]</li></ul>
+LAST-MODIFIED:20230305T193654Z
+LOCATION:ZOOM - https://us02web.zoom.us/j/88276321292?pwd=czdjSmJrcWR6UkhjM
+ XdtNWVlckRZQT09  
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTMB Waste Warriors - Grades 3-6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200518T210000Z
+DTEND:20200518T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:7belojvfr67dhkv3s86s0ahaa5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jstraw
+ der-bubala@sageridge.org;X-NUM-GUESTS=0:mailto:jstrawder-bubala@sageridge.o
+ rg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200513T205115Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193656Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:History Zoom Lesson 5/18
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200520T170000Z
+DTEND:20200520T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:rv8a1836obb8rg2idd5qfqk35k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200518T025827Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193659Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:D Flex 5/20 Recycled Craft Presentations
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200506T170000Z
+DTEND:20200506T180000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mmingo@sageridge.org:mailto:mmingo@sageridge.org
+UID:1nd21cuqe8g540d2bpin52dhu7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vb
+ ratt@sageridge.org;X-NUM-GUESTS=0:mailto:vbratt@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=af
+ arnsworth@sageridge.org;X-NUM-GUESTS=0:mailto:afarnsworth@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=et
+ yrell@sageridge.org;X-NUM-GUESTS=0:mailto:etyrell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade 3;X-NUM-GUESTS=0:mailto:grade3@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=edolan
+ @sageridge.org;X-NUM-GUESTS=0:mailto:edolan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jt
+ rainor@sageridge.org;X-NUM-GUESTS=0:mailto:jtrainor@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mk
+ irkwood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=et
+ ammaro@sageridge.org;X-NUM-GUESTS=0:mailto:etammaro@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade6;X-NUM-GUESTS=0:mailto:grade6@sageridge.org
+CREATED:20200506T165840Z
+DESCRIPTION:<ul><li>Welcome &amp\; overview of lesson/features (5 min)</li>
+ <li>Presenters introduce selves &amp\; KTMB (5 min)</li><li>Kick off learni
+ ng with the Waste Warriors video (10 min)</li><li>Question time - what did 
+ you learn from the video? (5 min) [can be done through chat box feature in 
+ Webinar or &quot\;raise hand&quot\; feature in Meeting\, where students wou
+ ld verbally respond after being &quot\;called on&quot\;]</li><li>Landfill q
+ uestions (5 min) [reviews info in video\; can be done as &quot\;answer in y
+ our head&quot\; in Webinar\, or through a poll in Meeting]</li><li>3 Rs bre
+ akdown (5 min) </li><li>Recycling breakdown (5 min)</li><li>Landfill game (
+ 5-10 min) [can be done as &quot\;answer in your head&quot\; in Webinar\, or
+  through a poll in Meeting]</li><li>Decomp timeline game (5-10 min) [can be
+  done as &quot\;answer in your head&quot\; in Webinar\, or through a poll i
+ n Meeting]</li><li>Q&amp\;A time (any remaining time) [can be done through 
+ chatbox feature in Webinar or Meeting]</li></ul>
+LAST-MODIFIED:20230305T193701Z
+LOCATION:ZOOM - https://us02web.zoom.us/j/88276321292?pwd=czdjSmJrcWR6UkhjM
+ XdtNWVlckRZQT09  \, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTMB Waste Warriors - Grades 3-6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200522T163000Z
+DTEND:20200522T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:d9raelqf3tqspittelfs50ga38@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200518T045121Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193703Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:5/22 A Long Walk to Water: Reading zoom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200506T200000Z
+DTEND:20200506T203000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:2t06vuugofftctsh9pg5id567h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ rre.events@gmail.com;X-NUM-GUESTS=0:mailto:torre.events@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mi
+ chelles@wetlaboratory.com;X-NUM-GUESTS=0:mailto:michelles@wetlaboratory.com
+CREATED:20200506T034710Z
+DESCRIPTION:Megan Schuster is inviting you to a scheduled Zoom meeting.<p>J
+ oin Zoom Meeting<br><a href="https://zoom.us/j/92910447646?pwd=NmMwc3MvdUhj
+ cGk5cHhXZUNuRTQ5dz09">https://zoom.us/j/92910447646?<wbr>pwd=<wbr>NmMwc3Mvd
+ UhjcGk5cHhXZUNuRTQ5dz<wbr>09</a></p><p>Meeting ID: 929 1044 7646<br>Passwor
+ d: 6RSwGP</p>
+LAST-MODIFIED:20230305T193705Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:4th Grade Bingo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200604T183000Z
+DTEND:20200604T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:6ha7tcopnffbl7uotfq0r1ks8u@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200601T045656Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: Math zoom meeting.\nTime: This is a recurring meeting Meet anytime
+ \n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 
+ 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193707Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thursday June 4th Math zoom 11:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200903T153000
+DTEND;TZID=America/Los_Angeles:20200903T160000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:f73opahs40oe51v90bcqfnekv4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200903T153000
+CREATED:20200903T050311Z
+DESCRIPTION:Elizabeth Kenney is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/99762981085?pwd=a2hXRjBTK1hoSFFDR1hm
+ UDRhZUFnZz09\n\nMeeting ID: 997 6298 1085\nPasscode: 119075\nOne tap mobile
+ \n+16699006833\,\,99762981085#\,\,\,\,\,\,0#\,\,119075# US (San Jose)\n+125
+ 32158782\,\,99762981085#\,\,\,\,\,\,0#\,\,119075# US (Tacoma)\n\nDial by yo
+ ur location\n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782
+  US (Tacoma)\n        +1 346 248 7799 US (Houston)\n        +1 408 638 0968
+  US (San Jose)\n        +1 646 876 9923 US (New York)\n        +1 301 715 8
+ 592 US (Germantown)\n        +1 312 626 6799 US (Chicago)\nMeeting ID: 997 
+ 6298 1085\nPasscode: 119075\nFind your local number: https://zoom.us/u/acuY
+ By3F9e\n\n
+LAST-MODIFIED:20230305T193709Z
+LOCATION:https://zoom.us/j/99762981085?pwd=a2hXRjBTK1hoSFFDR1hmUDRhZUFnZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Loz and Mrs. Kenney weekly check in 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200505T163000Z
+DTEND:20200505T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:odj1b2k0apfc463e0h0vm0ojt0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200503T231246Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193711Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tuesday Math May 5 9:30am
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200511T163000Z
+DTEND:20200511T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:1uol69gktqadmaacgnrhin0558@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200511T044225Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193716Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Writing 5/11 Peer Edit & Read Aloud
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200601T163000Z
+DTEND:20200601T173000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:1eln2luber1fpnso309ungc324@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200601T045752Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: Computers zoom meeting.\nTime: This is a recurring meeting Meet an
+ ytime\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting
+  ID: 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193718Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:E Period Computers Zoom 9:30 AM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200505T183000Z
+DTEND:20200505T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:qnqeg7fva9l3rk59r87t9pd8c8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200503T235318Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193720Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Writing & Grammar May 5th (Read Aloud Maddy)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200403T210000Z
+DTEND:20200403T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:b1q5v0k3et3ij2t8kibkqn1u1o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ ela Miller;X-NUM-GUESTS=0:mailto:mmiller@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=AJ Min
+ go;X-NUM-GUESTS=0:mailto:amingo@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Gysel 
+ Najjar;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ryan D
+ ay;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Hannah
+  Joyer;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Parker
+  Casey;X-NUM-GUESTS=0:mailto:pkcasey@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ca
+ rrie Sarkissian;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Tr
+ istan Schuler;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Si
+ ena Phares;X-NUM-GUESTS=0:mailto:sphares@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Justin
+  Sloyan;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Willia
+ m Adams;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Rh
+ ys Ferrito;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Latterell;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ry
+ an Sherven;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Brynn 
+ Ravazzini;X-NUM-GUESTS=0:mailto:bravazzini@sageridge.org
+CREATED:20200330T204158Z
+DESCRIPTION:Here's to Math on a Friday afternoon!  I'll see you there to ch
+ at and work on decimals! \nSee you Friday\,\nMrs. K\n\nJoin Zoom Meeting\nh
+ ttps://zoom.us/j/829896621\n\nMeeting ID: 829 896 621
+LAST-MODIFIED:20230305T193722Z
+LOCATION:https://zoom.us/j/829896621
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math - H: Decimals adding within 10ths
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200507T210000Z
+DTEND:20200507T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:tdd7d025ul7ac05h66d1tomhh0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200504T001041Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193724Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Writing/Grammar Thursday May 7th Peer editing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200422T220000Z
+DTEND:20200422T230000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=ekenney@sageridge.org:mailto:ekenney@sageridge.org
+UID:qj2d9h315b83pn5s50ito6vpjc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200422T200118Z
+DESCRIPTION:Elizabeth Tammaro is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://zoom.us/j/98765996766?pwd=aGx4cHo5WGtoOVplcm9
+ VZitrRkZFUT09\n\nMeeting ID: 987 6599 6766\nPassword: 2NEV7E\n
+LAST-MODIFIED:20230305T193726Z
+LOCATION:https://zoom.us/j/98765996766?pwd=aGx4cHo5WGtoOVplcm9VZitrRkZFUT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Science with Loz and Mrs. Tammaro 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200527T183000Z
+DTEND:20200527T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:304oqbuojkmlhcjae6srk5rbgb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=md
+ utton@sageridge.org;X-NUM-GUESTS=0:mailto:mdutton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200527T024126Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nTopic: Writing Zoom Meetings\nTime: This is a recurring meeting Meet anyt
+ ime\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting I
+ D: 481 970 8752\nPassword: 124928
+LAST-MODIFIED:20230305T193728Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Writing Zoom meeting Grammar and read aloud
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200417T183000Z
+DTEND:20200417T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:mikv1edcorhep57vtjachlqkc0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200413T043529Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/91067360005\n\nMeeting ID: 910 6736 
+ 0005\nPassword: 031061\n
+LAST-MODIFIED:20230305T193731Z
+LOCATION:https://zoom.us/j/91067360005
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Friday April 17th - Zoom Meeting - Chapter 6 Assessment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200528T183000Z
+DTEND:20200528T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:3u052hgmt5u03f1kc887p47k4m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200527T033758Z
+DESCRIPTION:Description:Melissa Kirkwood is inviting you to a scheduled Zoo
+ m meeting.\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMe
+ eting ID: 481 970 8752\nPassword: 124928\n10 minutes before\nOrganizer: Mel
+ issa Kirkwood\nMelissa Kirkwood
+LAST-MODIFIED:20230305T193733Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:D Flex Period Zoom Jeopardy Game Ch. 1 - 3 Long Walk to Water
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200514T183000Z
+DTEND:20200514T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:sfoaipo309i59fh13avtkkob5c@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200511T193005Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193735Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5/14 D-Flex Period Recycled Craft Project
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200825T101500
+DTEND;TZID=America/Los_Angeles:20200825T113500
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200828T065959Z;INTERVAL=2;BYDAY=FR,MO,TH,
+ TU
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=jtrainor@sageridge.org:mailto:jtrainor@sageridge.org
+UID:90lshph93m3qv3q6uu4stber0d@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jtrain
+ or@sageridge.org;X-NUM-GUESTS=0:mailto:jtrainor@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade5;X-NUM-GUESTS=0:mailto:grade5@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200813T190803Z
+DESCRIPTION:Josiann Trainor is inviting you to a scheduled Zoom meeting.\n\
+ nJoin Zoom Meeting\nhttps://zoom.us/j/96650551378?pwd=eWxMQ2RvYmJoMUZzVTVZV
+ y9hRWJFUT09\n\nMeeting ID: 966 5055 1378\nPasscode: 899328\nOne tap mobile\
+ n+14086380968\,\,96650551378#\,\,\,\,\,\,0#\,\,899328# US (San Jose)\n+1669
+ 9006833\,\,96650551378#\,\,\,\,\,\,0#\,\,899328# US (San Jose)\n\nDial by y
+ our location\n        +1 408 638 0968 US (San Jose)\n        +1 669 900 683
+ 3 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248 77
+ 99 US (Houston)\n        +1 646 876 9923 US (New York)\n        +1 301 715 
+ 8592 US (Germantown)\n        +1 312 626 6799 US (Chicago)\nMeeting ID: 966
+  5055 1378\nPasscode: 899328\nFind your local number: https://zoom.us/u/aes
+ vyI3Iwe\n\n
+LAST-MODIFIED:20230305T193738Z
+LOCATION:https://zoom.us/j/96650551378?pwd=eWxMQ2RvYmJoMUZzVTVZVy9hRWJFUT09
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Trainor 10:15- 11:35
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200609T183000Z
+DTEND:20200609T193000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:42jtfqf07kdq2qtns8e84n5ge4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lj
+ arndt58@yahoo.com;X-NUM-GUESTS=0:mailto:ljarndt58@yahoo.com
+CREATED:20200521T162721Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/4819708752\n\nMeeting ID: 48
+ 1 970 8752\nPassword: 124928\n
+LAST-MODIFIED:20230305T193741Z
+LOCATION:https://us02web.zoom.us/j/4819708752
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grade 4 End of Year Awards Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200406T090000
+DTEND;TZID=America/Los_Angeles:20200406T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200420T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:63f5q7oschi7p4p37trsothkqg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200417T190847Z
+DESCRIPTION:https://zoom.us/j/821842763
+LAST-MODIFIED:20230305T193746Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200420T090000
+DTEND;TZID=America/Los_Angeles:20200420T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:63f5q7oschi7p4p37trsothkqg_R20200420T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200420T090000
+CREATED:20200417T190847Z
+DESCRIPTION:https://zoom.us/j/821842763
+LAST-MODIFIED:20230305T193746Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200427T090000
+DTEND;TZID=America/Los_Angeles:20200427T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:63f5q7oschi7p4p37trsothkqg_R20200427T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200427T090000
+CREATED:20200417T190847Z
+DESCRIPTION:https://zoom.us/j/821842763
+LAST-MODIFIED:20230305T193746Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200511T090000
+DTEND;TZID=America/Los_Angeles:20200511T093000
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:63f5q7oschi7p4p37trsothkqg_R20200427T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+RECURRENCE-ID;TZID=America/Los_Angeles:20200511T090000
+CREATED:20200417T190847Z
+DESCRIPTION:https://zoom.us/j/821842763
+LAST-MODIFIED:20230305T193746Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200420T090000
+DTEND;TZID=America/Los_Angeles:20200420T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200427T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:63f5q7oschi7p4p37trsothkqg_R20200420T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200417T190847Z
+DESCRIPTION:https://zoom.us/j/821842763
+LAST-MODIFIED:20230305T193746Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200427T090000
+DTEND;TZID=America/Los_Angeles:20200427T093000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200601T065959Z;BYDAY=MO
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Advisory J Period:mailto:sageridge.org_classrooma1d5f835@group
+ .calendar.google.com
+UID:63f5q7oschi7p4p37trsothkqg_R20200427T160000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20200417T190847Z
+DESCRIPTION:https://zoom.us/j/821842763
+LAST-MODIFIED:20230305T193746Z
+LOCATION:ZOOM link below\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scorpion School LS/MS Campus Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200415T210000Z
+DTEND:20200415T220000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mkirkwood@sageridge.org:mailto:mkirkwood@sageridge.org
+UID:c5tlvaen57sf6uplq35ub4mooo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ade4;X-NUM-GUESTS=0:mailto:grade4@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mkirkw
+ ood@sageridge.org;X-NUM-GUESTS=0:mailto:mkirkwood@sageridge.org
+CREATED:20200415T032724Z
+DESCRIPTION:Melissa Kirkwood is inviting you to a scheduled Zoom meeting.\n
+ \nJoin Zoom Meeting\nhttps://zoom.us/j/92227887463\n\nMeeting ID: 922 2788 
+ 7463\nPassword: 4XMPrM\n
+LAST-MODIFIED:20230305T193748Z
+LOCATION:https://zoom.us/j/92227887463
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:April 15 Reading B Zoom 2:00
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T163000Z
+DTEND:20210204T170000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Leland Brandon:mailto:leland.brandon@heart.org
+UID:040000008200E00074C5B7101A82E00800000000D0657A8A8CC9D601000000000000000
+ 01000000070BBD4781508E84F8BCF199B4A3C6469
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ch
+ ristine Kratzer;X-NUM-GUESTS=0:mailto:ckratzer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20210202T174915Z
+DESCRIPTION:\n[https://us02st2.zoom.us/static/94142/image/new/ZoomLogo_110_
+ 25.png]<https://zoom.us/>\nHi there\,\nLeland Brandon is inviting you to a 
+ scheduled Zoom meeting.\nJoin Zoom Meeting<https://heart.zoom.us/j/82419293
+ 537?pwd=eThCVDdCNmpFb1FpWnJnM3ZBdXVOdz09&from=addon>\nPhone one-tap:\nUS: +
+ 13462487799\,\,82419293537#\,\,\,\,*193079#<tel:+13462487799\,\,82419293537
+ #\,\,\,\,*193079#> or +16699006833\,\,82419293537#\,\,\,\,*193079#<tel:+166
+ 99006833\,\,82419293537#\,\,\,\,*193079#>\nMeeting URL:\nhttps://heart.zoom
+ .us/j/82419293537?pwd=eThCVDdCNmpFb1FpWnJnM3ZBdXVOdz09&from=addon\nMeeting 
+ ID:\n824 1929 3537\nPasscode:\n193079\nJoin by Telephone\nFor higher qualit
+ y\, dial a number based on your current location.\nDial:\n\nUS: +1 346 248 
+ 7799 or +1 669 900 6833 or +1 253 215 8782 or +1 312 626 6799 or +1 646 876
+  9923 or +1 301 715 8592\nMeeting ID:\n824 1929 3537\nPasscode:\n193079\nIn
+ ternational numbers<https://heart.zoom.us/u/kclFpHhtiV>\nJoin from an H.323
+ /SIP room system\nH.323:\n162.255.37.11 (US West)\n162.255.36.11 (US East)\
+ n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.
+ 110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n103.122.166.55 (Aus
+ tralia)\n149.137.40.110 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160
+  (Canada)\n207.226.132.110 (Japan)\nMeeting ID:\n824 1929 3537\nPasscode:\n
+ 193079\nSIP:\n82419293537@zoomcrc.com<mailto:82419293537@zoomcrc.com>\nPass
+ code:\n193079\n\n
+LAST-MODIFIED:20230305T193400Z
+LOCATION:https://heart.zoom.us/j/82419293537?pwd=eThCVDdCNmpFb1FpWnJnM3ZBdX
+ VOdz09&from=addon
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Kickoff for sage ridge
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1276844005
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://heart.zoom.us/j/82419293
+ 537?pwd=eThCVDdCNmpFb1FpWnJnM3ZBdXVOdz09&from=addon"\, "LocationAnnotation"
+  : ""\, "LocationSource" : 0\, "Unresolved" : false\, "LocationUri" : "" } 
+ ]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210414T195500Z
+DTEND:20210414T210500Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mgallivan@sageridge.org:mailto:mgallivan@sageridge.org
+UID:0crbtp2crsdi5dgpjbcqb4hhao@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rd
+ ay@sageridge.org;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=db
+ illharz@sageridge.org;X-NUM-GUESTS=0:mailto:dbillharz@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mgalli
+ van@sageridge.org;X-NUM-GUESTS=0:mailto:mgallivan@sageridge.org
+CREATED:20210414T175240Z
+DESCRIPTION:──────────\n\nMichelle Gallivan Wallace is inviting you to a sc
+ heduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://zoom.us/j/95700934536?p
+ wd=eHZLcElTMERmWEkvVGUwUjByWHAyQT09\n\nMeeting ID: 957 0093 4536\nPasscode:
+  705629\nOne tap mobile\n+12532158782\,\,95700934536#\,\,\,\,*705629# US (T
+ acoma)\n+13462487799\,\,95700934536#\,\,\,\,*705629# US (Houston)\n\nDial b
+ y your location\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248 77
+ 99 US (Houston)\n        +1 408 638 0968 US (San Jose)\n        +1 669 900 
+ 6833 US (San Jose)\n        +1 301 715 8592 US (Washington DC)\n        +1 
+ 312 626 6799 US (Chicago)\n        +1 646 876 9923 US (New York)\nMeeting I
+ D: 957 0093 4536\nPasscode: 705629\nFind your local number: https://zoom.us
+ /u/a3ifyyLTL\n\n\n──────────
+LAST-MODIFIED:20230305T193453Z
+LOCATION:https://zoom.us/j/95700934536?pwd=eHZLcElTMERmWEkvVGUwUjByWHAyQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mrs. Gallivan & Grade 5 Science
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211208T214000Z
+DTEND:20211208T221000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=clawson@sageridge.org:mailto:clawson@sageridge.org
+UID:6l21680bmlrb1vqqkn214gfbpi@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ elikov@sageridge.org;X-NUM-GUESTS=0:mailto:lmelikov@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=clawso
+ n@sageridge.org;X-NUM-GUESTS=0:mailto:clawson@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rm
+ ahadevu@sageridge.org;X-NUM-GUESTS=0:mailto:rmahadevu@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ml
+ atterell@sageridge.org;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dm
+ abunda@sageridge.org;X-NUM-GUESTS=0:mailto:dmabunda@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/oua-eofj-jam
+CREATED:20211207T172700Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ou
+ a-eofj-jam\nOr dial: (US) +1 609-775-9356 PIN: 278464574#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230305T193648Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Game Presentation-Group 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210923T013000Z
+DTEND:20210923T023000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=tlschuler@sageridge.org:mailto:tlschuler@sageridge.org
+UID:4usg4fmaj98iunebkui57aq66t@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tlschu
+ ler@sageridge.org;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+CREATED:20210922T134110Z
+DESCRIPTION:
+LAST-MODIFIED:20230305T193713Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scout meet and greet.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220505T070000Z
+DTEND:20220506T063000Z
+DTSTAMP:20240604T040333Z
+UID:7r7liddjsin3fl6n6bibvelvjc@google.com
+CLASS:PRIVATE
+CREATED:20220406T202839Z
+DESCRIPTION:
+LAST-MODIFIED:20220406T202931Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Milin's Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T201000Z
+DTEND:20220519T211000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=clawson@sageridge.org:mailto:clawson@sageridge.org
+UID:6ad7om8om7mnna1blv0b5najns@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rmahad
+ evu@sageridge.org;X-NUM-GUESTS=0:mailto:rmahadevu@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=clawso
+ n@sageridge.org;X-NUM-GUESTS=0:mailto:clawson@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmelik
+ ov@sageridge.org;X-NUM-GUESTS=0:mailto:lmelikov@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mlatte
+ rell@sageridge.org;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rday@s
+ ageridge.org;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wadams
+ @sageridge.org;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/arj-gmfk-xdu
+CREATED:20220513T184259Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ar
+ j-gmfk-xdu\nOr dial: (US) +1 201-903-3159 PIN: 600229133#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220514T003818Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:6th grade game
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T193000Z
+DTEND:20220128T200000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=edolan@sageridge.org:mailto:edolan@sageridge.org
+UID:1c2d0bsljdbo2mjkq9mbrctrqt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=edolan
+ @sageridge.org;X-NUM-GUESTS=0:mailto:edolan@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/fxm-jdrd-jtq
+CREATED:20220128T184033Z
+DESCRIPTION:Zoom:&nbsp\;<a href="https://zoom.us/j/4772871739?pwd=b3R1QU90b
+ kJkMXoxVlFYMmdGb3E3QT09">https://zoom.us/j/4772871739?pwd=b3R1QU90bkJkMXoxV
+ lFYMmdGb3E3QT09</a>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.go
+ ogle.com/fxm-jdrd-jtq\nOr dial: (US) +1 276-796-8270 PIN: 723446780#\n\nLea
+ rn more about Meet at: https://support.google.com/a/users/answer/9282720\n\
+ nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230305T193305Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Preposition review
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231025T213000Z
+DTEND:20231025T223000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=Shows:mailto:c_5jefcbe9k5itjm4jfe410ol8i0@group.calendar.googl
+ e.com
+UID:3iu0mho46rnh9u5fk1c0bn15uk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kbrown
+ @sageridge.org;X-NUM-GUESTS=0:mailto:kbrown@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nsharm
+ a@sageridge.org;X-NUM-GUESTS=0:mailto:nsharma@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kc
+ obb@sageridge.org;X-NUM-GUESTS=0:mailto:kcobb@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gn
+ ajjar@sageridge.org;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gg
+ ifford@sageridge.org;X-NUM-GUESTS=0:mailto:ggifford@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ karia@sageridge.org;X-NUM-GUESTS=0:mailto:rskaria@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+CREATED:20231022T231019Z
+DESCRIPTION:
+LAST-MODIFIED:20231023T192630Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Curious Incident Line Recording
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T162000Z
+DTEND:20240328T164000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=edolan@sageridge.org:mailto:edolan@sageridge.org
+UID:64ss38fs4eum2s6hn6p8bf6vp0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=edolan
+ @sageridge.org;X-NUM-GUESTS=0:mailto:edolan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/fps-zsny-ihe
+CREATED:20240325T193958Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/fp
+ s-zsny-ihe\nOr dial: (US) +1 224-407-4623 PIN: 430194748#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240326T014425Z
+LOCATION:Mrs. Dolan's Office
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Loz McKenzie 24-25 course Selection Mtg
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T193000Z
+DTEND:20240418T200000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mgallivan@sageridge.org:mailto:mgallivan@sageridge.org
+UID:458q755oas2ko7uihlveq3ivlt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mh
+ enao@sageridge.org;X-NUM-GUESTS=0:mailto:mhenao@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ic
+ ollins@sageridge.org;X-NUM-GUESTS=0:mailto:icollins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bd
+ elellis@sageridge.org;X-NUM-GUESTS=0:mailto:bdelellis@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gn
+ ajjar@sageridge.org;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mh
+ odge@sageridge.org;X-NUM-GUESTS=0:mailto:mhodge@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=db
+ illharz@sageridge.org;X-NUM-GUESTS=0:mailto:dbillharz@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tl
+ schuler@sageridge.org;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ml
+ atterell@sageridge.org;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=aw
+ eber@sageridge.org;X-NUM-GUESTS=0:mailto:aweber@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=om
+ orrison@sageridge.org;X-NUM-GUESTS=0:mailto:omorrison@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tk
+ imball@sageridge.org;X-NUM-GUESTS=0:mailto:tkimball@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jh
+ sloyan@sageridge.org;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vc
+ harles@sageridge.org;X-NUM-GUESTS=0:mailto:vcharles@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ewhita
+ ker@sageridge.org;X-NUM-GUESTS=0:mailto:ewhitaker@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ sekhon@sageridge.org;X-NUM-GUESTS=0:mailto:mssekhon@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wadams
+ @sageridge.org;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rd
+ ay@sageridge.org;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cpaton
+ @sageridge.org;X-NUM-GUESTS=0:mailto:cpaton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rm
+ ahadevu@sageridge.org;X-NUM-GUESTS=0:mailto:rmahadevu@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ elikov@sageridge.org;X-NUM-GUESTS=0:mailto:lmelikov@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cs
+ arkissian@sageridge.org;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=oh
+ iggins@sageridge.org;X-NUM-GUESTS=0:mailto:ohiggins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kk
+ amath@sageridge.org;X-NUM-GUESTS=0:mailto:kkamath@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hj
+ oyer@sageridge.org;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mgalli
+ van@sageridge.org;X-NUM-GUESTS=0:mailto:mgallivan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tf
+ erguson@sageridge.org;X-NUM-GUESTS=0:mailto:tferguson@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ herven@sageridge.org;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rf
+ errito@sageridge.org;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rh
+ ill@sageridge.org;X-NUM-GUESTS=0:mailto:rhill@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dm
+ abunda@sageridge.org;X-NUM-GUESTS=0:mailto:dmabunda@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bs
+ ullins@sageridge.org;X-NUM-GUESTS=0:mailto:bsullins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ds
+ weeney@sageridge.org;X-NUM-GUESTS=0:mailto:dsweeney@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alyons
+ @sageridge.org;X-NUM-GUESTS=0:mailto:alyons@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ avis@sageridge.org;X-NUM-GUESTS=0:mailto:anavis@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ddican
+ te@sageridge.org;X-NUM-GUESTS=0:mailto:ddicante@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nk
+ rieger@sageridge.org;X-NUM-GUESTS=0:mailto:nkrieger@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/swj-zftd-kqq
+CREATED:20240416T165924Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/sw
+ j-zftd-kqq\nOr dial: (US) +1 470-735-5948 PIN: 232002056#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240416T231213Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grade 8 Slide Show Committee Meeting room 112
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T193000Z
+DTEND:20240425T200000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mgallivan@sageridge.org:mailto:mgallivan@sageridge.org
+UID:0pua5mpfrng2m4tvfjpq6q28ko@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mh
+ enao@sageridge.org;X-NUM-GUESTS=0:mailto:mhenao@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ic
+ ollins@sageridge.org;X-NUM-GUESTS=0:mailto:icollins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bd
+ elellis@sageridge.org;X-NUM-GUESTS=0:mailto:bdelellis@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gn
+ ajjar@sageridge.org;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mh
+ odge@sageridge.org;X-NUM-GUESTS=0:mailto:mhodge@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=db
+ illharz@sageridge.org;X-NUM-GUESTS=0:mailto:dbillharz@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tlschu
+ ler@sageridge.org;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=aw
+ eber@sageridge.org;X-NUM-GUESTS=0:mailto:aweber@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ml
+ atterell@sageridge.org;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=om
+ orrison@sageridge.org;X-NUM-GUESTS=0:mailto:omorrison@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tk
+ imball@sageridge.org;X-NUM-GUESTS=0:mailto:tkimball@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jh
+ sloyan@sageridge.org;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vc
+ harles@sageridge.org;X-NUM-GUESTS=0:mailto:vcharles@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ew
+ hitaker@sageridge.org;X-NUM-GUESTS=0:mailto:ewhitaker@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ sekhon@sageridge.org;X-NUM-GUESTS=0:mailto:mssekhon@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rd
+ ay@sageridge.org;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wa
+ dams@sageridge.org;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cp
+ aton@sageridge.org;X-NUM-GUESTS=0:mailto:cpaton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ ckenzie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ elikov@sageridge.org;X-NUM-GUESTS=0:mailto:lmelikov@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rm
+ ahadevu@sageridge.org;X-NUM-GUESTS=0:mailto:rmahadevu@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cs
+ arkissian@sageridge.org;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=oh
+ iggins@sageridge.org;X-NUM-GUESTS=0:mailto:ohiggins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hjoyer
+ @sageridge.org;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=kkama
+ th@sageridge.org;X-NUM-GUESTS=0:mailto:kkamath@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mgalli
+ van@sageridge.org;X-NUM-GUESTS=0:mailto:mgallivan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tf
+ erguson@sageridge.org;X-NUM-GUESTS=0:mailto:tferguson@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rf
+ errito@sageridge.org;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ herven@sageridge.org;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rh
+ ill@sageridge.org;X-NUM-GUESTS=0:mailto:rhill@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bs
+ ullins@sageridge.org;X-NUM-GUESTS=0:mailto:bsullins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dm
+ abunda@sageridge.org;X-NUM-GUESTS=0:mailto:dmabunda@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ds
+ weeney@sageridge.org;X-NUM-GUESTS=0:mailto:dsweeney@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yons@sageridge.org;X-NUM-GUESTS=0:mailto:alyons@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ avis@sageridge.org;X-NUM-GUESTS=0:mailto:anavis@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ddican
+ te@sageridge.org;X-NUM-GUESTS=0:mailto:ddicante@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nk
+ rieger@sageridge.org;X-NUM-GUESTS=0:mailto:nkrieger@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/swj-zftd-kqq
+CREATED:20240418T200040Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/sw
+ j-zftd-kqq\nOr dial: (US) +1 470-735-5948 PIN: 232002056#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240422T013518Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grade 8 Slide Show Committee Meeting room 112
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240502T193000Z
+DTEND:20240502T200000Z
+DTSTAMP:20240604T040333Z
+ORGANIZER;CN=mgallivan@sageridge.org:mailto:mgallivan@sageridge.org
+UID:5o7hcqh2bhdhnb5jk3oojhk2qb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mh
+ enao@sageridge.org;X-NUM-GUESTS=0:mailto:mhenao@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ic
+ ollins@sageridge.org;X-NUM-GUESTS=0:mailto:icollins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bd
+ elellis@sageridge.org;X-NUM-GUESTS=0:mailto:bdelellis@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gn
+ ajjar@sageridge.org;X-NUM-GUESTS=0:mailto:gnajjar@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mh
+ odge@sageridge.org;X-NUM-GUESTS=0:mailto:mhodge@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=db
+ illharz@sageridge.org;X-NUM-GUESTS=0:mailto:dbillharz@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tlschu
+ ler@sageridge.org;X-NUM-GUESTS=0:mailto:tlschuler@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=aw
+ eber@sageridge.org;X-NUM-GUESTS=0:mailto:aweber@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ml
+ atterell@sageridge.org;X-NUM-GUESTS=0:mailto:mlatterell@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=om
+ orrison@sageridge.org;X-NUM-GUESTS=0:mailto:omorrison@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tk
+ imball@sageridge.org;X-NUM-GUESTS=0:mailto:tkimball@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jh
+ sloyan@sageridge.org;X-NUM-GUESTS=0:mailto:jhsloyan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vc
+ harles@sageridge.org;X-NUM-GUESTS=0:mailto:vcharles@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ew
+ hitaker@sageridge.org;X-NUM-GUESTS=0:mailto:ewhitaker@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ sekhon@sageridge.org;X-NUM-GUESTS=0:mailto:mssekhon@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rd
+ ay@sageridge.org;X-NUM-GUESTS=0:mailto:rday@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wa
+ dams@sageridge.org;X-NUM-GUESTS=0:mailto:wadams@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cp
+ aton@sageridge.org;X-NUM-GUESTS=0:mailto:cpaton@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcken
+ zie@sageridge.org;X-NUM-GUESTS=0:mailto:lmckenzie@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ elikov@sageridge.org;X-NUM-GUESTS=0:mailto:lmelikov@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rm
+ ahadevu@sageridge.org;X-NUM-GUESTS=0:mailto:rmahadevu@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cs
+ arkissian@sageridge.org;X-NUM-GUESTS=0:mailto:csarkissian@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=oh
+ iggins@sageridge.org;X-NUM-GUESTS=0:mailto:ohiggins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hj
+ oyer@sageridge.org;X-NUM-GUESTS=0:mailto:hjoyer@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kk
+ amath@sageridge.org;X-NUM-GUESTS=0:mailto:kkamath@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mgalli
+ van@sageridge.org;X-NUM-GUESTS=0:mailto:mgallivan@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tf
+ erguson@sageridge.org;X-NUM-GUESTS=0:mailto:tferguson@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rf
+ errito@sageridge.org;X-NUM-GUESTS=0:mailto:rferrito@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ herven@sageridge.org;X-NUM-GUESTS=0:mailto:rsherven@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rh
+ ill@sageridge.org;X-NUM-GUESTS=0:mailto:rhill@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bs
+ ullins@sageridge.org;X-NUM-GUESTS=0:mailto:bsullins@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dm
+ abunda@sageridge.org;X-NUM-GUESTS=0:mailto:dmabunda@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ds
+ weeney@sageridge.org;X-NUM-GUESTS=0:mailto:dsweeney@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yons@sageridge.org;X-NUM-GUESTS=0:mailto:alyons@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=anavis
+ @sageridge.org;X-NUM-GUESTS=0:mailto:anavis@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ddican
+ te@sageridge.org;X-NUM-GUESTS=0:mailto:ddicante@sageridge.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nk
+ rieger@sageridge.org;X-NUM-GUESTS=0:mailto:nkrieger@sageridge.org
+X-GOOGLE-CONFERENCE:https://meet.google.com/swj-zftd-kqq
+CREATED:20240426T191110Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/sw
+ j-zftd-kqq\nOr dial: (US) +1 470-735-5948 PIN: 232002056#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240502T181718Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grade 8 Slide Show Committee Meeting room 112
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

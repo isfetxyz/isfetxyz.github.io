@@ -1,0 +1,32 @@
+{
+  "title": "IMG_0061.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1637030357",
+    "formatted": "Nov 16, 2021, 2:39:17 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1637030280",
+    "formatted": "Nov 16, 2021, 2:38:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP1Ch9IHTqmsxPtJmB6s24bgw57lblEH0cqruP6",
+  "googlePhotosOrigin": {
+    "gmail": {
+    }
+  }
+}

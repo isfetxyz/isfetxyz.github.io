@@ -1,0 +1,792 @@
+{
+  "version": 1,
+  "name": "Pre-Algebra",
+  "section": "F Period",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom69388779@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1v8GyIACnNweWYSrF2DXYNdInSW9Io3YRs08Bqjhicucf2hEtGfibEznM5Bemik00NSe9m4T6",
+    "name": "Pre-Algebra F Period",
+    "openUrl": "https://drive.google.com/drive/folders/1v8GyIACnNweWYSrF2DXYNdInSW9Io3YRs08Bqjhicucf2hEtGfibEznM5Bemik00NSe9m4T6"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Math.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-05-04T15:41:57.205Z",
+    "updateTime": "2023-05-22T20:34:58.966Z",
+    "scheduledTime": "2023-05-05T21:10:00Z",
+    "publicationTime": "2023-05-05T21:10:24.442Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScRtStXxG40mDM4vW7ybwmmLT2bxmf39W_IWJZnLQYxYEuykg/viewform?hr_submission\u003dChkI2--roZoBEhAI0MGpu9gREgcIkZPGpb0OEAE",
+        "title": "Quiz #21: Translations and Reflections ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/DVLsl9Tf5vVFa13f3pIswh54j7WrqDaqAoCg3_yNOT8BuoCDlCoElf0Aqe4oT0zYQd1CVGHxdhc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #21: Translations ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-04-20T19:58:50.428Z",
+    "updateTime": "2023-04-21T18:17:39.988Z",
+    "scheduledTime": "2023-04-21T18:15:00Z",
+    "publicationTime": "2023-04-21T18:17:39.781Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdJZEXIcsHQjL6EeHX4l3W8i9gBsP4FqDiJljTYXUu__MMV0g/viewform?hr_submission\u003dChkI2--roZoBEhAIgfOFpM8REgcIkZPGpb0OEAE",
+        "title": "Quiz #20: Angle Relationships",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/YYBh0nQ_vuMzaUK6rNhIuZKJvx0ZErm31TQEvlJ8JVia77_-L6jRVTAECSL-ab_9kwRd5AC-CJQ\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #20: Angle Relationships ",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-04-06T15:51:42.265Z",
+    "updateTime": "2023-04-07T21:14:29.790Z",
+    "scheduledTime": "2023-04-07T21:10:00Z",
+    "publicationTime": "2023-04-07T21:14:29.570Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfDS-r_G1-JlSnji7mNNsKeo7L3_9Djw1dyprEvgzbNwtHTVQ/viewform?hr_submission\u003dChkI2--roZoBEhAIppfC2IsQEgcIkZPGpb0OEAE",
+        "title": "Quiz #19: Quadrilaterals and Circumference ",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/bmzoKtHl-S4F8KaLmLsg08vPXwvBLKbPPbvVP4u15MfrBMvn6dAG35jRHQaEH2UmLfvHwxrWX7U\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #19: Quadrilaterals and Circumference",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-03-22T19:08:30.745Z",
+    "updateTime": "2023-03-24T15:20:52.324Z",
+    "scheduledTime": "2023-03-24T15:20:00Z",
+    "publicationTime": "2023-03-24T15:20:52.216Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdbib3FYbci0rKNEpTbMqAOD92fiA7D1-g7PL3exzyCkhUSSQ/viewform?hr_submission\u003dChkI2--roZoBEhAI_Z3Fz70REgcIkZPGpb0OEAE",
+        "title": "Quiz #18: Triangles",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/pUQYxl5LO06-RjuqObgjejtYxtX_pJzhLxaCJ7HqneyUVHnOLGhEpNZj4ZQhqRLDg4gDv0s_QXE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #18: Triangles ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-03-16T16:12:03.674Z",
+    "updateTime": "2023-03-17T21:11:33.445Z",
+    "scheduledTime": "2023-03-17T21:10:00Z",
+    "publicationTime": "2023-03-17T21:11:33.209Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf_0yEKRBN5Bn-x8LjGA-qnlkAkPe36jesfqgpocFlmazIqLQ/viewform?hr_submission\u003dChkI2--roZoBEhAIxqLMj7kREgcIkZPGpb0OEAE",
+        "title": "Quiz #17: Simplifying Square Roots and Right Triangles ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/ZFS3PaBbXsiaVh8t5nw8ouv6m0_l9MXKji0ZCrVWPz4u8VzEpCWCoJc-WGHoL9nAzBKiy7mvi9o\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #17: Simplifying Square Roots and Right Triangles ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-03-02T17:11:19.247Z",
+    "updateTime": "2023-03-03T22:14:44.635Z",
+    "scheduledTime": "2023-03-03T22:10:00Z",
+    "publicationTime": "2023-03-03T22:14:44.582Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSce4-thmH5sMEkFZJatTrRh2IsyjO3eJqN4ON5_mLmAspffIA/viewform?hr_submission\u003dChkI2--roZoBEhAIlPeRv60REgcIkZPGpb0OEAE",
+        "title": "Quiz #16: Function Form and Systems of Equations ",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/vdOtiGXwQr2kSdVQIK0cEJXi3euEp3El2d9Mxh36T6etxjd5YN5cUfVUZls6XSBt0TFiB1boLFc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #16: Function Form and Systems of Equations ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-02-15T17:17:55.302Z",
+    "updateTime": "2023-02-17T16:22:02.731Z",
+    "scheduledTime": "2023-02-17T16:20:00Z",
+    "publicationTime": "2023-02-17T16:22:02.518Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc77cXj5q7iRH4YYESkFRxD6sncttsPK63QvnGV_9yzEQ8lhw/viewform?hr_submission\u003dChkI2--roZoBEhAIi6HT5qEREgcIkZPGpb0OEAE",
+        "title": "Quiz #15: Linear Equations ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/MDNVCzYyyuTakQxPKcoTuHWbkceomVpxkTmveIVvxuQNc1GwrNWhtoLvNKqhd7Bz0tYt8m7Lp1k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #15: Linear Equations ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-02-07T18:28:10.733Z",
+    "updateTime": "2023-02-10T22:10:14.798Z",
+    "scheduledTime": "2023-02-10T22:10:00Z",
+    "publicationTime": "2023-02-10T22:10:14.593Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf9B3AjbdY4_4JHYTT6UDEBB2aswFjqhZVmFG_sj4zvlOji0w/viewform?hr_submission\u003dChkI2--roZoBEhAI4cjvu7AQEgcIkZPGpb0OEAE",
+        "title": "Quiz #14: Linear Equations",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/KAKBkgFBWMs4dOYBmfOQZiI-Whz4PtGDbD8WwzHvt9eE4RKDshv1luiELLGX1MskXLZ20KU1AGI\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #14: Linear Equations ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-01-24T21:54:59.542Z",
+    "updateTime": "2023-01-27T22:12:42.452Z",
+    "scheduledTime": "2023-01-27T22:10:00Z",
+    "publicationTime": "2023-01-27T22:12:42.280Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeJr8sOH7hO3vrbe0d3peNZLpm91KQkpf9Y-YqxzkmQJRJE_Q/viewform?hr_submission\u003dChkI2--roZoBEhAIqNWTz4cREgcIkZPGpb0OEAE",
+        "title": "Quiz #13: Probability, Scale Drawings and Similar Figures ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/JB7hMCmkaiHqlhE6xNHV0mp00qfiko7KIGeFkTlAY3LoItorQCLsm1uAUAS2GJsX9jI3sCYx5Sk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #13: Probability, Scale Drawings and Similar Figures ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-01-23T16:49:08.778Z",
+    "updateTime": "2023-01-24T19:03:30.528Z",
+    "scheduledTime": "2023-01-24T19:00:00Z",
+    "publicationTime": "2023-01-24T19:03:30.327Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdco1oGX5060c_cXt7pnwAhipvonnCFGrQTgXNaHZPm4XAe7Q/viewform?hr_submission\u003dChkI2--roZoBEhAI3MeH3oUREgcIkZPGpb0OEAE",
+        "title": "Quiz #12: Similar Figures ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/icp3nvG5zWYzodoIN8d9L-oAndRlgAJ27S5S_07gHRIL35PHXfIr0fxKgtavbBAbZoxZsrfnQTc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #12: Similar Figures ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2023-01-18T00:02:05.885Z",
+    "updateTime": "2023-01-18T17:26:35.738Z",
+    "scheduledTime": "2023-01-18T17:25:00Z",
+    "publicationTime": "2023-01-18T17:26:35.528Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd5e5tTqOFuw1GMAGFGfmXAWyfgosYihYkhAs5SF61zL0v3tg/viewform?hr_submission\u003dChkI2--roZoBEhAIyte24_MOEgcIkZPGpb0OEAE",
+        "title": "Quiz #11: Proportions ",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/aN8Ie4qAcqjxxNuuskM1HZTpSeJbhMrJK7vGMctUcygB-Jn3dYTCC8M26i7s-bCWDFi_ADWuqUQ\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #11: Proportions",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-12-21T16:37:46.859Z",
+    "updateTime": "2023-01-13T16:50:02.235Z",
+    "scheduledTime": "2022-12-21T19:00:00Z",
+    "publicationTime": "2022-12-21T19:00:42.336Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdUhHHObik0LS5Y84gD44JWuySAeBTqNLuVYyf9w7167gUqqw/viewform?hr_submission\u003dChkI2--roZoBEhAIqcqsgPIQEgcIkZPGpb0OEAE",
+        "title": "Quiz #10: Fractions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/9tE5pFc2pIyDj8shirlipxYPeqQPY1CFGhbF1M1oOSdIvAaCMSmqi4C4te7u3AjrljgTDsk4u-U\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #10: Fractions",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-12-15T17:08:09.652Z",
+    "updateTime": "2022-12-16T22:14:54.525Z",
+    "scheduledTime": "2022-12-16T22:10:00Z",
+    "publicationTime": "2022-12-16T22:14:54.473Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdn2Fq9xOggKORgDIKYKwU4ZtESuP4oDAJpkwbOdyF9t4xpHg/viewform?hr_submission\u003dChkI2--roZoBEhAI0uDrs-4QEgcIkZPGpb0OEAE",
+        "title": "Quiz #9: Classifying Numbers and Operations with Rational Numbers ",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/Uze7oi9NBUdjXxIUmigjzjUu4pBaN-p3v8Bfcn8_GpJd48IPn8aO8XsK2jU0Qy8cbwje8T8nch8\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #9: Classifying Numbers and Operations with Rational Numbers ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-11-29T22:05:01.031Z",
+    "updateTime": "2022-12-02T22:12:59.011Z",
+    "scheduledTime": "2022-12-02T22:10:00Z",
+    "publicationTime": "2022-12-02T22:12:58.864Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc1mYKymBLiDG-vEnG15zeQH9ckXWiG7H13DXq7jujhIcoZZw/viewform?hr_submission\u003dChkI2--roZoBEhAIiKzSutwQEgcIkZPGpb0OEAE",
+        "title": "Quiz #8: Exponents and Scientific Notation ",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/0w4J_0jxtfW1I-cfEZrY2zTdVu-CMyvRhjkuOwFJGmJ18_j8Kk5653ByBIuorogGoCzkUD5QBkk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #8: Scientific Notation and Exponents ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-11-16T19:23:57.867Z",
+    "updateTime": "2022-11-17T01:00:59.769Z",
+    "scheduledTime": "2022-11-17T01:00:00Z",
+    "publicationTime": "2022-11-17T01:00:59.645Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe-i_ek-cG6O7T977Cap40iw3wcaqVT5t7pWOm-AFWAUpB3sg/viewform?hr_submission\u003dChkI2--roZoBEhAIiffyttAQEgcIkZPGpb0OEAE",
+        "title": "Quiz #7: Exponents ",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/w8CYcsNInamA6TPwq1BldXl37VgwuaFA0gMD8nYexqtfn1Ng03G_GWKEB49u7hIqjcLALB8C9Pw\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #7: Exponents ",
+      "dueTime": "2022-11-18T18:00:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-11-02T15:29:18.837Z",
+    "updateTime": "2022-11-02T16:21:29.433Z",
+    "scheduledTime": "2022-11-02T16:20:00Z",
+    "publicationTime": "2022-11-02T16:21:29.314Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSclrJeKIWMVJjDEdJBYl5zizd3EYFsJLLYLUclHbO1d1Ok7Tg/viewform?hr_submission\u003dChkI2--roZoBEhAIppH5q8IQEgcIkZPGpb0OEAE",
+        "title": "Quiz #6: Inequalities ",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/UEBWqUG8Hc5Qu1Xdh7CXXbk5j9F6HXOEYEjDr-iuypBp4aThklufM8ku9fxlj3lNqdWwgrxOXpE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #6: Inequalities ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-10-20T22:36:21.904Z",
+    "updateTime": "2022-10-21T15:23:45.966Z",
+    "scheduledTime": "2022-10-21T15:21:00Z",
+    "publicationTime": "2022-10-21T15:23:45.855Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeiNQfnqRPVLNe1wKHOpytwoB9jdFvZjUVGfLrvUU8ZiuDSgQ/viewform?hr_submission\u003dChkI2--roZoBEhAI1NW6jaAQEgcIkZPGpb0OEAE",
+        "title": "Quiz #5: Two-Step Equations and Equations with Parenthesis ",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/CHsPuwQ14QRluYVswIgg6nlrJhwGuuS9YjNqBAmkHLVB0FkJuQNNsauHqK6SALjDunZh_UTZmqI\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #5: Two-Step Equations and Equations with Parenthesis ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-09-28T18:14:11.447Z",
+    "updateTime": "2022-09-30T15:24:29.498Z",
+    "scheduledTime": "2022-09-30T15:21:00Z",
+    "publicationTime": "2022-09-30T15:24:29.391Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfMD2XTXkTxrhjR72RwjjkirpWCH9Z4LyY4DaMVqR4SxOV43w/viewform?hr_submission\u003dChkI2--roZoBEhAIqLzm8oMQEgcIkZPGpb0OEAE",
+        "title": "Quiz #4: Distributive Property and One Step Equations ",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/Bb9vKAJnV03p_9oD_5KxmdC2BP0hHyx-FmzYBrxTZrcVPD3VihdwlJX5rhNSKVxxALav56jgxNg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #4: Distributive Property and One Step Equations ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-09-20T20:32:35.224Z",
+    "updateTime": "2022-09-26T20:09:42.323Z",
+    "scheduledTime": "2022-09-26T20:06:00Z",
+    "publicationTime": "2022-09-26T20:09:42.228Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScFxBG8SHPX7JKtCqIfKahrK6LLSHpvj4R0wuUD82Y9vInzsQ/viewform?hr_submission\u003dChkI2--roZoBEhAIutj5naEOEgcIkZPGpb0OEAE",
+        "title": "Quiz #3: Distributive Property ",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/Rg3MTsqt2agLXjvTjhPpNhEy0Svd_8B6WRe-l4dD7m5bR1m9BEiY_aKYluWvylZ_o1g3opNNpc4\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #3: Distributive Property ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-09-01T15:56:30.004Z",
+    "updateTime": "2022-09-02T21:10:05.674Z",
+    "scheduledTime": "2022-09-02T21:08:00Z",
+    "publicationTime": "2022-09-02T21:10:05.559Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSegiD72-bGFqK01iustqWer0HZXEYQ9MwEwHyyX1kDMCwHjVw/viewform?hr_submission\u003dChkI2--roZoBEhAIrPjnqqsPEgcIkZPGpb0OEAE",
+        "title": "Quiz #2: Operations with Integers",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/Lca3LujE3S8C2W9tOQtOYdf6Yt9XYVJiuerRfvxag8mKyYKhzq8onzzvrM0dFRFrJkwg7ixLLF4\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #2: Operations with Integers ",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Ellen Tyrell"
+      }
+    },
+    "creationTime": "2022-08-25T19:59:42.239Z",
+    "updateTime": "2022-08-26T15:20:18.259Z",
+    "scheduledTime": "2022-08-26T15:20:00Z",
+    "publicationTime": "2022-08-26T15:20:18.157Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScT49YALqr_EaBXgPuVvlba_XSQ5HdQbD96E1aUt6pDai7lLg/viewform?hr_submission\u003dChkI2--roZoBEhAIrIX_iusPEgcIkZPGpb0OEAE",
+        "title": "Quiz #1: Order of Operations and Integers ",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/EWxsQFH4ik86gZL0DYxKinsrPATCEVx7fA0lWLWZlwFbmbQeg94nhz1ghB8OoxsSib3NPrOAp8k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz #1: Order of Operations and Integers",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Loz McKenzie"
+            },
+            "emailAddress": "lmckenzie@sageridge.org"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}
