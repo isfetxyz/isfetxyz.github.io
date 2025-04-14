@@ -1,16 +1,71 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>ISFET.XYZ</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <!-- Cause Chaos -->
-        <h1>ISFET.XYZ</h1>
-        <p>Created by <a href="https://tommustbe12.com" target="_blank">TomMustBe12</a> in November 2024</p>
-        <p>Update coming soon.</p>
-        <br><br><br>
-        <p style="color: gray;">(C) 1$F3T group 2024 - current</p>
-        <p style="color: gray;">Contact: tom@isfet.xyz</p>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISFET.XYZ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Share Tech Mono', monospace;
+            background: #000;
+            color: #00ff00;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        h1 {
+            font-size: 4rem;
+            text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+        }
+
+        a {
+            color: #00ff00;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 0.9rem;
+            color: #00aa00;
+        }
+
+        .glow {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(0,255,0,0.1) 0%, rgba(0,0,0,1) 70%);
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <div class="glow"></div>
+    <h1>ISFET.XYZ</h1>
+    <p>Created by <a href="https://tommustbe12.com" target="_blank">TomMustBe12</a> in November 2024</p>
+    <p>Update coming soon.</p>
+    <div class="footer">
+        <p>(C) 1$F3T group 2024 - current</p>
+        <p>Contact: tom@isfet.xyz</p>
+    </div>
+</body>
 </html>
